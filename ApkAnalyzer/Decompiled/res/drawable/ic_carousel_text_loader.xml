@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dip" android:width="110.0dip" android:stackViewStyle="110.0" android:numberPickerStyle="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:timePickerStyle="#ff535457" android:activityChooserViewStyle="M7.5,0L92.5,0A7.5,7.5 0,0 1,100 7.5L100,7.5A7.5,7.5 0,0 1,92.5 15L7.5,15A7.5,7.5 0,0 1,0 7.5L0,7.5A7.5,7.5 0,0 1,7.5 0z" android:fillType="1" />
+    <path android:timePickerStyle="#ff2c2e31" android:activityChooserViewStyle="M5,26L25,26A5,5 0,0 1,30 31L30,31A5,5 0,0 1,25 36L5,36A5,5 0,0 1,0 31L0,31A5,5 0,0 1,5 26z" android:fillType="1" />
+    <path android:timePickerStyle="#ff535457" android:activityChooserViewStyle="M45,26L65,26A5,5 0,0 1,70 31L70,31A5,5 0,0 1,65 36L45,36A5,5 0,0 1,40 31L40,31A5,5 0,0 1,45 26z" android:fillType="1" />
+    <path android:timePickerStyle="#ff2c2e31" android:activityChooserViewStyle="M85,26L105,26A5,5 0,0 1,110 31L110,31A5,5 0,0 1,105 36L85,36A5,5 0,0 1,80 31L80,31A5,5 0,0 1,85 26z" android:fillType="1" />
+</vector>

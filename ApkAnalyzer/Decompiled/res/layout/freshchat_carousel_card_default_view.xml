@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/freshchat_carousel_card_bg" android:layout_width="@dimen/freshchat_carousel_card_default_dimension" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/freshchat_carousel_card_hero_image" style="@style/Widget.Freshchat.CarouselCardHeroImage" />
+    <TextView android:id="@id/freshchat_carousel_card_title" style="?freshchatCarouselCardTitleTextStyle" />
+    <TextView android:id="@id/freshchat_carousel_card_description" style="?freshchatCarouselCardDescTextStyle" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/freshchat_carousel_card_button_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="4.0dip">
+        <Button android:id="@id/freshchat_carousel_card_callback_btn" android:text="@string/freshchat_carousel_card_default_callback_btn_text" style="?freshchatCarouselCardButtonStyle" />
+        <Button android:id="@id/freshchat_carousel_card_view_btn" android:text="@string/freshchat_carousel_card_default_view_btn_text" style="?freshchatCarouselCardButtonStyle" />
+    </LinearLayout>
+    <RelativeLayout android:orientation="horizontal" android:id="@id/freshchat_carousel_card_selection_indication_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="34.0dip">
+        <TextView android:text="@string/freshchat_carousel_card_selected_text" style="?freshchatCarouselCardSelectedTextStyle" />
+        <ImageView android:id="@id/freshchat_carousel_card_message_upload_status" android:paddingLeft="@dimen/freshchat_message_upload_status_icon_padding" android:paddingRight="@dimen/freshchat_message_upload_status_icon_padding" android:layout_width="@dimen/freshchat_message_upload_status_icon_size" android:layout_height="@dimen/freshchat_message_upload_status_icon_size" android:src="@drawable/freshchat_ic_message_status_pending" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:contentDescription="@string/freshchat_content_description_upload_status" android:paddingStart="@dimen/freshchat_message_upload_status_icon_padding" android:paddingEnd="@dimen/freshchat_message_upload_status_icon_padding" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</LinearLayout>

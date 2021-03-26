@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="end" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/freshchat_message_item_margin" style="?freshchatMessageListItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.freshchat.consumer.sdk.ui.CalendarEventCardView android:id="@id/freshchat_calendar_event" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:minWidth="@dimen/freshchat_calendar_event_card_min_width" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" />
+    <include android:layout_width="@dimen/freshchat_message_upload_status_icon_size" android:layout_height="@dimen/freshchat_message_upload_status_icon_size" android:layout_below="@id/freshchat_calendar_event" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" layout="@layout/freshchat_message_upload_status" />
+    <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/freshchat_message_upload_status" android:layout_below="@id/freshchat_calendar_event" android:layout_alignWithParentIfMissing="true" android:layout_toStartOf="@id/freshchat_message_upload_status" layout="@layout/freshchat_message_time" />
+</RelativeLayout>

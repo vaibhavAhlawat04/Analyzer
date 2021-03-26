@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/top_flag" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/visa_logo" android:layout_centerHorizontal="true" />
+    <View android:id="@id/top_flag_constrained" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/top_flag" android:layout_above="@id/visa_logo" />
+    <View android:id="@id/top_flag_constrained_small" android:visibility="invisible" android:layout_width="30.0dip" android:layout_height="wrap_content" android:layout_toRightOf="@id/top_flag_constrained" android:layout_alignTop="@id/top_flag" />
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/visa_logo" android:visibility="invisible" android:layout_width="158.0dip" android:layout_height="51.0dip" android:layout_centerInParent="true" app:srcCompat="@drawable/visa_logo_dark_blue" />
+    <RelativeLayout android:id="@id/hide_mask" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/checkmark" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <RelativeLayout android:id="@id/logo_reveal_masks" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignTop="@id/visa_logo" android:layout_alignBottom="@id/visa_logo" android:layout_centerInParent="true">
+        <View android:id="@id/center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_centerHorizontal="true" />
+        <com.visa.Trapezoid android:id="@id/left_overlay" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/center" />
+        <com.visa.Trapezoid android:id="@id/right_overlay" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/center" />
+    </RelativeLayout>
+    <View android:id="@id/bottom_flag" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/visa_logo" android:layout_centerHorizontal="true" />
+    <View android:id="@id/bottom_flag_constrained" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/bottom_flag" android:layout_below="@id/visa_logo" />
+    <View android:id="@id/bottom_flag_constrained_small" android:visibility="invisible" android:layout_width="30.0dip" android:layout_height="wrap_content" android:layout_toLeftOf="@id/bottom_flag_constrained" android:layout_below="@id/visa_logo" />
+</RelativeLayout>

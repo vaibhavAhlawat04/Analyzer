@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="browse_by_artits_height">75</integer>
+    <integer name="browse_by_artits_width">75</integer>
+    <integer name="continue_watching_height">163</integer>
+    <integer name="continue_watching_width">110</integer>
+</resources>

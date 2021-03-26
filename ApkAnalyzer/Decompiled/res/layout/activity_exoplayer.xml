@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.exoplayer2.ui.PlayerView android:id="@id/exoplayerView" android:layout_width="0.0dip" android:layout_height="fill_parent" app:auto_show="true" app:controller_layout_id="@layout/layout_exoplayer_control_views" app:fastforward_increment="10000" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:resize_mode="fit" app:rewind_increment="10000" app:surface_type="surface_view" app:use_controller="true">
+        <ProgressBar android:layout_gravity="center" android:id="@id/progressBar" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:pointerIconSpotHover="@color/live_red" />
+    </com.google.android.exoplayer2.ui.PlayerView>
+    <com.google.android.material.button.MaterialButton android:textColor="@color/white" android:id="@id/subtitlesButton" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/subtitle" android:textAllCaps="false" app:backgroundTint="@android:color/transparent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    <androidx.appcompat.widget.AppCompatSpinner android:id="@id/qualitySpinner" android:background="@drawable/rounded_border_rect_10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="2.0dip" android:layout_marginStart="2.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

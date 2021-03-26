@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/toolbar" layout="@layout/ssl_toolbar" />
+    <ProgressBar android:id="@id/bankPageProgress" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <WebView android:id="@id/bankPage" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <LinearLayout android:layout_gravity="top|right|center" android:id="@id/mainLyout1" android:background="@drawable/session_timeout_background_sslc" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:layout_marginBottom="2.0dip">
+            <com.sslwireless.sslcommerzlibrary.view.custom.SSLCCustomTextView android:textSize="11.0sp" android:textColor="@color/white" android:id="@id/timerText" android:padding="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="AAA" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

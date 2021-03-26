@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/notification_layout_image_plus_text_margin" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/multiline" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:ellipsize="marquee" android:id="@id/notification_layout_notificationTitle" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textAlignment="viewStart" style="@style/NotificationTitle" />
+        <TextView android:id="@id/notification_layout_notificationContent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="false" android:textAlignment="viewStart" style="@style/NotificationContent" />
+    </LinearLayout>
+    <ImageView android:id="@id/notification_layout_big_picture" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="13.0dip" android:layout_marginBottom="16.0dip" android:scaleType="fitStart" android:adjustViewBounds="true" android:layout_weight="1.0" android:contentDescription="Push notification image" android:layout_marginStart="0.0dip" android:layout_marginEnd="0.0dip" />
+</LinearLayout>

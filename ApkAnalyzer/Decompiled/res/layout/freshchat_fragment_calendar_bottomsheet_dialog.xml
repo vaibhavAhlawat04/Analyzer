@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/freshchat_calendar_bottomsheet_title_layout" android:background="@color/freshchat_calendar_popup_titlebar_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/freshchat_calendar_title_bar_icon" android:layout_alignParentLeft="true" android:layout_centerInParent="true" android:layout_alignParentStart="true" style="@style/Widget.Freshchat.CalendarTitleIcon" />
+        <LinearLayout android:orientation="vertical" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/freshchat_calendar_cancel_invite_imageview" android:layout_toRightOf="@id/freshchat_calendar_title_bar_icon" android:layout_centerVertical="true" android:layout_toStartOf="@id/freshchat_calendar_cancel_invite_imageview" android:layout_toEndOf="@id/freshchat_calendar_title_bar_icon">
+            <androidx.appcompat.widget.AppCompatTextView android:id="@id/freshchat_calendar_dialog_title_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?freshchatCalendarPopupTitleTextStyle" />
+            <androidx.appcompat.widget.AppCompatTextView android:id="@id/freshchat_calendar_dialog_duration_textview" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?freshchatCalendarPopupDurationTextStyle" />
+        </LinearLayout>
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/freshchat_calendar_cancel_invite_imageview" android:layout_alignParentRight="true" android:layout_centerInParent="true" android:layout_alignParentEnd="true" style="@style/Widget.Freshchat.CalendarCancelInviteIcon" />
+        <View android:background="@color/freshchat_calendar_titlebar_divider" android:layout_width="fill_parent" android:layout_height="@dimen/freshchat_calendar_title_bar_divider_height" android:layout_below="@id/freshchat_calendar_title_bar_icon" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/freshchat_calendar_child_fragment_container" android:background="@color/freshchat_calendar_popup_content_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

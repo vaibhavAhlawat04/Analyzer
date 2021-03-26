@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="end" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?freshchatMessageListItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.freshchat.consumer.sdk.ui.CarouselCardView android:id="@id/freshchat_carousel_card" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="2.0dip" />
+    <include layout="@layout/freshchat_message_time" />
+</LinearLayout>

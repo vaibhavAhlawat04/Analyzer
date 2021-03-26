@@ -1,0 +1,9 @@
+{
+    "logsConfig": {
+        "logsUrlKey": "https://logs.juspay.in/godel/analytics",
+        "logsUrlKeySandbox": "https://debug.logs.juspay.net/godel/analytics",
+        "pusherTimerKey": "10.0",
+        "encryptionLevelKey": "gzip",
+        "shouldPush": true
+    }
+}

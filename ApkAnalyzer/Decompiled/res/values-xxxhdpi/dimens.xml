@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="right_arrow_height">40.0dip</dimen>
+    <dimen name="right_arrow_width">24.0dip</dimen>
+    <dimen name="top_overlay_height">228.0dip</dimen>
+    <dimen name="top_overlay_width">1440.0dip</dimen>
+    <dimen name="emi_text_size">13.0sp</dimen>
+</resources>

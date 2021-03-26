@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/mainLinearLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.8">
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/visaCard" android:visibility="gone" android:layout_width="35.0dip" android:layout_height="35.0dip" android:src="@drawable/visa_card" />
+                <ImageView android:id="@id/masterCard" android:visibility="gone" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:src="@drawable/master_card" />
+                <ImageView android:id="@id/amexCard" android:visibility="gone" android:layout_width="35.0dip" android:layout_height="35.0dip" android:src="@drawable/amex_card_sslc" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip">
+                <com.sslwireless.sslcommerzlibrary.view.custom.SSLCCustomTextView android:textSize="14.0sp" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" app:textStyle="Bold" />
+                <com.sslwireless.sslcommerzlibrary.view.custom.SSLCCustomTextView android:textSize="11.0sp" android:id="@id/desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" app:textStyle="Normal" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginTop="4.0dip" android:layout_weight="0.2">
+            <com.sslwireless.sslcommerzlibrary.view.custom.SSLCCustomTextView android:id="@id/previousAmount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="AAA" android:textAlignment="center" app:textStyle="Normal" />
+            <com.sslwireless.sslcommerzlibrary.view.custom.SSLCCustomTextView android:textSize="18.0sp" android:id="@id/discountedAmount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:textAlignment="center" app:textStyle="Bold" />
+        </LinearLayout>
+    </LinearLayout>
+    <View android:id="@id/view" android:background="@color/white_off" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="16.0dip" />
+</LinearLayout>

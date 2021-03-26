@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="?freshchatFAQCategoryListItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/freshchat_category_icon" android:padding="@dimen/freshchat_category_icon_padding" android:layout_width="@dimen/freshchat_category_icon_size" android:layout_height="@dimen/freshchat_category_icon_size" />
+    <TextView android:id="@id/freshchat_category_icon_alt_text" android:visibility="gone" android:layout_centerVertical="true" style="?freshchatFAQCategoryAltIconStyle" />
+    <TextView android:id="@id/freshchat_category_name" android:paddingLeft="8.0dip" android:paddingTop="12.0dip" android:paddingRight="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/freshchat_category_icon_size" android:maxLines="1" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" android:layout_marginStart="@dimen/freshchat_category_icon_size" style="?freshchatFAQCategoryNameTextStyle" />
+    <TextView android:ellipsize="end" android:id="@id/freshchat_category_desc" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/freshchat_category_icon_size" android:maxLines="2" android:layout_below="@id/freshchat_category_name" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" android:layout_marginStart="@dimen/freshchat_category_icon_size" style="?freshchatFAQCategoryDescriptionTextStyle" />
+</RelativeLayout>

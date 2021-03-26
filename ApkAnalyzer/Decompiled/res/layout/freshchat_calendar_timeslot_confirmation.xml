@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.core.widget.NestedScrollView android:id="@id/freshchat_calendar_timeslot_confirmation_scrollbar" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:gravity="center" android:orientation="horizontal" android:id="@id/freshchat_calendar_avatars_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <de.hdodenhof.circleimageview.CircleImageView android:id="@id/freshchat_calendar_agent_avatar" style="?freshchatCalendarConfirmationAgentAvatarStyle" />
+                <de.hdodenhof.circleimageview.CircleImageView android:layout_gravity="end" android:id="@id/freshchat_calendar_user_avatar" style="?freshchatCalendarConfirmationUserAvatarStyle" />
+            </FrameLayout>
+            <androidx.appcompat.widget.AppCompatTextView style="?freshchatCalendarConfirmationMeetingDescTextStyle" />
+            <androidx.appcompat.widget.AppCompatTextView android:id="@id/freshchat_calendar_timeslot_view" style="?freshchatCalendarConfirmationMeetingTimeSlotTextStyle" />
+            <androidx.appcompat.widget.AppCompatTextView android:id="@id/freshchat_calendar_day_label" style="?freshchatCalendarConfirmationMeetingDateTextStyle" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <androidx.appcompat.widget.AppCompatButton android:id="@id/freshchat_calendar_confirm_button" style="?freshchatCalendarTimeSlotConfirmButtonStyle" />
+    <androidx.appcompat.widget.AppCompatButton android:id="@id/freshchat_calendar_change_slot_button" style="?freshchatCalendarChangeSlotButtonStyle" />
+</LinearLayout>

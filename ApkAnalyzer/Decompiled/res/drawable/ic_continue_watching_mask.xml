@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="3.0dip" android:width="68.0dip" android:autoMirrored="true" android:stackViewStyle="68.0" android:numberPickerStyle="3.0" xmlns:aapt="http://schemas.android.com/aapt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:timePickerStyle="@drawable/$ic_continue_watching_mask__0" android:activityChooserViewStyle="M-2,0L68,0L68,3L-2,3z" android:fillType="1" />
+</vector>

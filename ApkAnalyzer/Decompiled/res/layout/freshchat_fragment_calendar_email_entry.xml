@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="24.0dip" android:paddingTop="16.0dip" android:paddingRight="24.0dip" android:paddingBottom="16.0dip" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.appcompat.widget.AppCompatTextView style="?freshchatCalendarEmailRequestDescTextStyle" />
+        <androidx.appcompat.widget.AppCompatEditText android:id="@id/freshchat_calendar_email_edittext" style="?freshchatCalendarEnterEmailEditTextStyle" />
+        <androidx.appcompat.widget.AppCompatButton android:id="@id/freshchat_calendar_next_button" style="?freshchatCalendarEmailNextButtonStyle" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

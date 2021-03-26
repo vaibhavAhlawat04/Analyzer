@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/freshchat_picture_attachment_imageview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" android:layout_above="@id/freshchat_picture_attachment_divider" android:layout_centerInParent="true" />
+    <ProgressBar android:id="@id/freshchat_picture_attachment_progress_bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="?freshchatProgressBarStyle" />
+    <View android:id="@id/freshchat_picture_attachment_divider" android:background="@color/freshchat_message_list_reply_view_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_above="@id/freshchat_conv_detail_text_reply_layout" android:layout_alignWithParentIfMissing="true" />
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" layout="@layout/freshchat_partial_text_message_frame" />
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/search_faq_recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/freshchat_contact_us_group" style="?freshchatFAQListStyle" />
+    <ViewStub android:id="@id/freshchat_contact_us_stub" android:layout="@layout/freshchat_partial_start_conversation_frame" android:inflatedId="@id/freshchat_contact_us_group" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/freshchat_contact_us_group" layout="@layout/freshchat_faq_interstitial_states" />
+    <include android:id="@id/search_description_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/freshchat_faq_search_description" />
+</RelativeLayout>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatTextView android:id="@id/freshchat_calendar_timeslot_button" style="?freshchatCalendarTimeSlotItemTextStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

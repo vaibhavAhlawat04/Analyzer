@@ -1,0 +1,5168 @@
+{
+  "navigation": {
+    "settings": {
+      "accessLevels": {
+        "subscribed": true,
+        "loggedIn": true,
+        "loggedOut": true
+      },
+      "ctaText": "START YOUR FREE TRAIL",
+      "displayedPath": "ViewPlans",
+      "helloText": "Hello",
+      "pageId": "de42a675-a59b-44eb-af17-3e02da3e240e",
+      "localizationMap": {
+        "en": {
+          "primaryCta": {
+            "ctaText": "Subscribe Now",
+            "loginCtaText": "login",
+            "logoutCtaText": "logout",
+            "helloText": "Hello"
+          }
+        },
+        "bn": {
+          "primaryCta": {
+            "ctaText": "Subscribe Now Beng"
+          }
+        }
+      },
+      "primaryCta": {
+        "geoTargetedPageIds": {
+          "BR": "b1cfd710-5bd3-40a5-b49c-219cf5b51d2f",
+          "AR": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "DE": "4f3f6605-a69f-4f4c-8f8b-a581d5f4ab00",
+          "default": "de42a675-a59b-44eb-af17-3e02da3e240e",
+          "UY": "7ab4d8c5-fb35-4bbe-81b5-85a1c4607046",
+          "AF": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "BN": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "US": "54dece70-96be-4a63-b1e0-61162be5e3ba"
+        },
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "ctaText": "Subscribe Now",
+        "loginCtaText": "login",
+        "logoutCtaText": "logout",
+        "displayedPath": "View Plans",
+        "helloText": "Hello",
+        "placement": "Masthead",
+        "pageId": "de42a675-a59b-44eb-af17-3e02da3e240e",
+        "url": "/viewplans",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true,
+          "lgTv": true
+        }
+      },
+      "url": "/viewplans",
+      "externalLinkDisplayedPath": "AboutUs",
+      "platforms": {
+        "roku": true,
+        "fireTv": true,
+        "appleTv": true,
+        "samsungTv": true,
+        "web": true,
+        "android": true,
+        "tivo": true,
+        "xbox": true,
+        "ios": true,
+        "windows10Desktop": true,
+        "lgTv": true
+      },
+      "externalCtaText": "hahaha",
+      "geoTargetedPageIds": {
+        "BR": "b1cfd710-5bd3-40a5-b49c-219cf5b51d2f",
+        "AR": "fd0e6576-554e-4821-bde5-996b1109af3a",
+        "DE": "4f3f6605-a69f-4f4c-8f8b-a581d5f4ab00",
+        "default": "de42a675-a59b-44eb-af17-3e02da3e240e",
+        "UY": "7ab4d8c5-fb35-4bbe-81b5-85a1c4607046",
+        "AF": "fd0e6576-554e-4821-bde5-996b1109af3a",
+        "BN": "fd0e6576-554e-4821-bde5-996b1109af3a",
+        "US": "54dece70-96be-4a63-b1e0-61162be5e3ba"
+      },
+      "learnMore": "/privacy-policy",
+      "searchCta": {
+        "caption": "Search Screen",
+        "id": "e043af00-3c59-4f44-9496-d8e33b6f6737",
+        "value": "Search Screen",
+        "url": "/search"
+      },
+      "loginCtaText": "LOGIN",
+      "logoutCtaText": "LOGOUT",
+      "placement": "Masthead"
+    },
+    "left": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": false,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": {
+          "default": "06dd3356-e396-4d92-956c-293dba60c7b5"
+        },
+        "icon": "icon-menu",
+        "displayedPath": "Movie",
+        "title": "Notification",
+        "localizationMap": {
+          "en": {
+            "title": "Notification"
+          }
+        },
+        "pageId": "06dd3356-e396-4d92-956c-293dba60c7b5",
+        "url": "/movies1",
+        "dragDropId": 7,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      }
+    ],
+    "footer": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "chromeCustomTab": false,
+        "displayedPath": "Refer and Earn",
+        "title": "Refer & Earn",
+        "localizationMap": {
+          "en": {
+            "title": "Refer & Earn"
+          }
+        },
+        "pageId": "75ea0fbe-bb2b-45e8-97d2-d59a69b529d1",
+        "newTab": false,
+        "url": "/referral",
+        "dragDropId": 16,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "chromeCustomTab": true,
+        "displayedPath": "https://staging-hoichoitv.viewlift.com/user",
+        "title": "Test auto login",
+        "localizationMap": {
+          "en": {
+            "title": "Test auto login"
+          }
+        },
+        "pageId": "",
+        "url": "https://staging-hoichoitv.viewlift.com/user",
+        "dragDropId": 17,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "geoTargetedPageIds": null,
+        "chromeCustomTab": false,
+        "icon": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "displayedPath": "https://staging-hoichoitv.viewlift.com/activate",
+        "title": "Activate Device",
+        "localizationMap": {
+          "en": {
+            "title": "Activate Device"
+          },
+          "bn": {
+            "title": "Activate Device"
+          }
+        },
+        "pageId": "",
+        "url": "https://staging-hoichoitv.viewlift.com/activate",
+        "dragDropId": 18,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true,
+          "lgTv": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "title": "Help",
+        "localizationMap": {
+          "en": {
+            "title": "Help"
+          }
+        },
+        "dragDropId": 19,
+        "platforms": {
+          "appleTv": true,
+          "samsungTv": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "jiostb": true,
+          "windows10Desktop": true,
+          "lgTv": true,
+          "roku": true,
+          "fireTv": true,
+          "web": true,
+          "metrological": true,
+          "tivo": true
+        }
+      }
+    ],
+    "tabBar": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": {
+          "default": "019f5269-bf98-4e57-be49-f41e4e58bbe2",
+          "US": "f8e13cc5-f94b-454e-90c2-5ad5d3af6cd8"
+        },
+        "icon": "icon-home",
+        "displayedPath": "home page copy 2",
+        "title": "Home",
+        "localizationMap": {
+          "en": {
+            "title": "Home"
+          }
+        },
+        "pageId": "019f5269-bf98-4e57-be49-f41e4e58bbe2",
+        "url": "/homecopy2",
+        "dragDropId": 21,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": false,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-shows",
+        "displayedPath": "13 july",
+        "title": "Shows",
+        "localizationMap": {
+          "en": {
+            "title": "Shows"
+          }
+        },
+        "pageId": "76af0eab-bec5-4c58-8e7a-f5913dd3939b",
+        "url": "/nav13july",
+        "dragDropId": 22,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": false,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-genre",
+        "displayedPath": "genre2",
+        "title": "Genres",
+        "localizationMap": {
+          "en": {
+            "title": "Genres"
+          }
+        },
+        "pageId": "9a9fa8c6-86d5-44fa-bf1b-1324c5ae0337",
+        "url": "/genre2",
+        "dragDropId": 23,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": false,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-menu",
+        "displayedPath": "MenuScreen",
+        "title": "Menu",
+        "localizationMap": {
+          "en": {
+            "title": "Menu"
+          }
+        },
+        "pageId": "",
+        "url": "MenuScreen",
+        "dragDropId": 24,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": false,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      }
+    ],
+    "right": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-search",
+        "displayedPath": "SearchScreen",
+        "title": "Search",
+        "localizationMap": {
+          "en": {
+            "title": "Search"
+          }
+        },
+        "pageId": "",
+        "url": "SearchScreen",
+        "dragDropId": 25,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": false,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      }
+    ],
+    "user": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "geoTargetedPageIds": {
+          "BR": "b1cfd710-5bd3-40a5-b49c-219cf5b51d2f",
+          "AR": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "DE": "4f3f6605-a69f-4f4c-8f8b-a581d5f4ab00",
+          "default": "de42a675-a59b-44eb-af17-3e02da3e240e",
+          "UY": "7ab4d8c5-fb35-4bbe-81b5-85a1c4607046",
+          "AF": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "BN": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "US": "54dece70-96be-4a63-b1e0-61162be5e3ba"
+        },
+        "displayedPath": "ViewPlans",
+        "title": "ViewPlans",
+        "localizationMap": {
+          "en": {
+            "title": "ViewPlans"
+          }
+        },
+        "pageId": "de42a675-a59b-44eb-af17-3e02da3e240e",
+        "items": [],
+        "url": "/viewplans",
+        "dragDropId": 28,
+        "platforms": {
+          "roku": true,
+          "fireTv": false,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-signin",
+        "displayedPath": "MyWatchlist",
+        "title": "Watchlist",
+        "localizationMap": {
+          "en": {
+            "title": "Watchlist"
+          }
+        },
+        "pageId": "8e53fe09-8c98-4642-8d19-dbb6ed7fd72d",
+        "url": "/user/history",
+        "dragDropId": 29,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "geoTargetedPageIds": null,
+        "chromeCustomTab": true,
+        "icon": "icon-clock",
+        "displayedPath": "History",
+        "title": "History",
+        "localizationMap": {
+          "en": {
+            "title": "History"
+          }
+        },
+        "pageId": "87f0a2fb-852d-4cce-ad9a-1226ae63bb73",
+        "url": "/history",
+        "dragDropId": 30,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "geoTargetedPageIds": null,
+        "displayedPath": "MyDownloads",
+        "title": "Downloads",
+        "localizationMap": {
+          "en": {
+            "title": "Downloads"
+          }
+        },
+        "pageId": "2ab162e6-5fea-4263-a57e-3fa86f3ed894",
+        "url": "/user/downloads",
+        "dragDropId": 31,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": true,
+          "web": false,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-gear",
+        "displayedPath": "MyAccount",
+        "title": "Settings",
+        "localizationMap": {
+          "en": {
+            "title": "Settings"
+          }
+        },
+        "pageId": "91249005-390d-4bb3-b209-b9179436545c",
+        "url": "/user",
+        "dragDropId": 32,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": true
+        }
+      }
+    ],
+    "primary": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": {
+          "default": "019f5269-bf98-4e57-be49-f41e4e58bbe2",
+          "US": "f8e13cc5-f94b-454e-90c2-5ad5d3af6cd8"
+        },
+        "chromeCustomTab": true,
+        "icon": "icon-home",
+        "displayedPath": "home page copy 2",
+        "title": "Home",
+        "localizationMap": {
+          "en": {
+            "title": "Home"
+          }
+        },
+        "pageId": "019f5269-bf98-4e57-be49-f41e4e58bbe2",
+        "url": "/homecopy2",
+        "dragDropId": 33,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true,
+          "lgTv": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-grid",
+        "displayedPath": "13 july",
+        "title": "Shows",
+        "localizationMap": {
+          "en": {
+            "title": "Shows"
+          }
+        },
+        "pageId": "76af0eab-bec5-4c58-8e7a-f5913dd3939b",
+        "url": "/nav13july",
+        "dragDropId": 34,
+        "platforms": {
+          "roku": true,
+          "fireTv": false,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true,
+          "lgTv": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "chromeCustomTab": false,
+        "icon": "icon-gear",
+        "displayedPath": "Movies",
+        "localizationMap": {
+          "en": {
+            "title": "Movies"
+          },
+          "bn": {
+            "title": "Language"
+          }
+        },
+        "pageId": "76897c59-3f23-47ca-b5fc-511131cfd97c",
+        "title": "Movies",
+        "url": "/Movie",
+        "dragDropId": 35,
+        "platforms": {
+          "appleTv": true,
+          "samsungTv": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "jiostb": false,
+          "windows10Desktop": false,
+          "lgTv": true,
+          "roku": true,
+          "fireTv": true,
+          "web": true,
+          "metrological": false,
+          "tivo": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": false,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "displayedPath": "Free",
+        "title": "Free",
+        "localizationMap": {
+          "en": {
+            "title": "Free"
+          }
+        },
+        "pageId": "8d261e8f-64fe-4059-88c3-23419ceac567",
+        "url": "/free",
+        "dragDropId": 36,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": false,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": {
+          "BR": "b1cfd710-5bd3-40a5-b49c-219cf5b51d2f",
+          "AR": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "DE": "4f3f6605-a69f-4f4c-8f8b-a581d5f4ab00",
+          "default": "de42a675-a59b-44eb-af17-3e02da3e240e",
+          "UY": "7ab4d8c5-fb35-4bbe-81b5-85a1c4607046",
+          "AF": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "BN": "fd0e6576-554e-4821-bde5-996b1109af3a",
+          "US": "54dece70-96be-4a63-b1e0-61162be5e3ba"
+        },
+        "icon": "icon-movies",
+        "displayedPath": "View Plans",
+        "title": "Plans",
+        "localizationMap": {
+          "en": {
+            "title": "Plans"
+          }
+        },
+        "pageId": "de42a675-a59b-44eb-af17-3e02da3e240e",
+        "url": "/viewplans",
+        "dragDropId": 37,
+        "platforms": {
+          "appleTv": false,
+          "samsungTv": false,
+          "android": true,
+          "xbox": false,
+          "ios": true,
+          "jiostb": false,
+          "windows10Desktop": false,
+          "lgTv": false,
+          "roku": false,
+          "fireTv": false,
+          "web": true,
+          "metrological": false,
+          "tivo": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "title": "Genres",
+        "localizationMap": {
+          "en": {
+            "title": "Genres"
+          }
+        },
+        "dragDropId": 38,
+        "platforms": {
+          "appleTv": false,
+          "samsungTv": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "jiostb": false,
+          "windows10Desktop": true,
+          "lgTv": false,
+          "roku": true,
+          "fireTv": true,
+          "web": false,
+          "metrological": false,
+          "tivo": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "geoTargetedPageIds": null,
+        "displayedPath": "Music Page",
+        "title": "Music",
+        "localizationMap": {
+          "en": {
+            "title": "Music"
+          }
+        },
+        "pageId": "e3f9183b-df85-4beb-8136-f32d8d66a4e6",
+        "url": "/music",
+        "dragDropId": 39,
+        "platforms": {
+          "appleTv": false,
+          "samsungTv": false,
+          "android": true,
+          "xbox": false,
+          "ios": true,
+          "jiostb": false,
+          "windows10Desktop": false,
+          "lgTv": false,
+          "roku": false,
+          "fireTv": false,
+          "web": false,
+          "metrological": false,
+          "tivo": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-language",
+        "displayedPath": "Language",
+        "title": "Language",
+        "localizationMap": {
+          "en": {
+            "title": "Language"
+          }
+        },
+        "pageId": "60246b19-d6ff-41f3-9913-0e707d261d39",
+        "url": "/Language",
+        "dragDropId": 40,
+        "platforms": {
+          "appleTv": false,
+          "samsungTv": false,
+          "android": true,
+          "xbox": false,
+          "ios": true,
+          "jiostb": false,
+          "windows10Desktop": false,
+          "lgTv": false,
+          "roku": false,
+          "fireTv": false,
+          "web": false,
+          "metrological": false,
+          "tivo": false
+        }
+      }
+    ]
+  },
+  "headers": [
+    {
+      "data": [
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": true
+          },
+          "geoTargetedPageIds": {
+            "default": "019f5269-bf98-4e57-be49-f41e4e58bbe2",
+            "US": "f8e13cc5-f94b-454e-90c2-5ad5d3af6cd8"
+          },
+          "chromeCustomTab": true,
+          "icon": "icon-home",
+          "displayedPath": "home page copy 2",
+          "title": "Home",
+          "localizationMap": {
+            "en": {
+              "title": "Home"
+            }
+          },
+          "pageId": "019f5269-bf98-4e57-be49-f41e4e58bbe2",
+          "url": "/homecopy2",
+          "dragDropId": 41,
+          "platforms": {
+            "roku": true,
+            "fireTv": true,
+            "appleTv": true,
+            "samsungTv": true,
+            "web": true,
+            "android": true,
+            "tivo": true,
+            "xbox": true,
+            "ios": true,
+            "windows10Desktop": true,
+            "lgTv": true
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": true
+          },
+          "geoTargetedPageIds": null,
+          "icon": "icon-grid",
+          "displayedPath": "13 july",
+          "title": "Shows",
+          "localizationMap": {
+            "en": {
+              "title": "Shows"
+            }
+          },
+          "pageId": "76af0eab-bec5-4c58-8e7a-f5913dd3939b",
+          "url": "/nav13july",
+          "dragDropId": 42,
+          "platforms": {
+            "roku": true,
+            "fireTv": false,
+            "appleTv": true,
+            "samsungTv": true,
+            "web": true,
+            "android": true,
+            "tivo": true,
+            "xbox": true,
+            "ios": true,
+            "windows10Desktop": true,
+            "lgTv": true
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": true
+          },
+          "geoTargetedPageIds": null,
+          "chromeCustomTab": false,
+          "icon": "icon-gear",
+          "displayedPath": "Movies",
+          "localizationMap": {
+            "en": {
+              "title": "Movies"
+            },
+            "bn": {
+              "title": "Language"
+            }
+          },
+          "pageId": "76897c59-3f23-47ca-b5fc-511131cfd97c",
+          "title": "Movies",
+          "url": "/Movie",
+          "dragDropId": 43,
+          "platforms": {
+            "appleTv": true,
+            "samsungTv": true,
+            "android": true,
+            "xbox": true,
+            "ios": true,
+            "jiostb": false,
+            "windows10Desktop": false,
+            "lgTv": true,
+            "roku": true,
+            "fireTv": true,
+            "web": true,
+            "metrological": false,
+            "tivo": true
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": false,
+            "loggedIn": true,
+            "loggedOut": true
+          },
+          "geoTargetedPageIds": null,
+          "displayedPath": "Free",
+          "title": "Free",
+          "localizationMap": {
+            "en": {
+              "title": "Free"
+            }
+          },
+          "pageId": "8d261e8f-64fe-4059-88c3-23419ceac567",
+          "url": "/free",
+          "dragDropId": 44,
+          "platforms": {
+            "roku": false,
+            "fireTv": false,
+            "appleTv": false,
+            "samsungTv": false,
+            "web": true,
+            "android": true,
+            "tivo": false,
+            "xbox": false,
+            "ios": true,
+            "windows10Desktop": false,
+            "lgTv": false
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": false,
+            "loggedIn": true,
+            "loggedOut": true
+          },
+          "geoTargetedPageIds": {
+            "BR": "b1cfd710-5bd3-40a5-b49c-219cf5b51d2f",
+            "AR": "fd0e6576-554e-4821-bde5-996b1109af3a",
+            "DE": "4f3f6605-a69f-4f4c-8f8b-a581d5f4ab00",
+            "default": "de42a675-a59b-44eb-af17-3e02da3e240e",
+            "UY": "7ab4d8c5-fb35-4bbe-81b5-85a1c4607046",
+            "AF": "fd0e6576-554e-4821-bde5-996b1109af3a",
+            "BN": "fd0e6576-554e-4821-bde5-996b1109af3a",
+            "US": "54dece70-96be-4a63-b1e0-61162be5e3ba"
+          },
+          "icon": "icon-movies",
+          "displayedPath": "View Plans",
+          "title": "Plans",
+          "localizationMap": {
+            "en": {
+              "title": "Plans"
+            }
+          },
+          "pageId": "de42a675-a59b-44eb-af17-3e02da3e240e",
+          "url": "/viewplans",
+          "dragDropId": 45,
+          "platforms": {
+            "appleTv": false,
+            "samsungTv": false,
+            "android": true,
+            "xbox": false,
+            "ios": true,
+            "jiostb": false,
+            "windows10Desktop": false,
+            "lgTv": false,
+            "roku": false,
+            "fireTv": false,
+            "web": true,
+            "metrological": false,
+            "tivo": false
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": false
+          },
+          "title": "Genres",
+          "localizationMap": {
+            "en": {
+              "title": "Genres"
+            }
+          },
+          "dragDropId": 46,
+          "platforms": {
+            "appleTv": false,
+            "samsungTv": true,
+            "android": true,
+            "xbox": true,
+            "ios": true,
+            "jiostb": false,
+            "windows10Desktop": true,
+            "lgTv": false,
+            "roku": true,
+            "fireTv": true,
+            "web": false,
+            "metrological": false,
+            "tivo": false
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": false
+          },
+          "geoTargetedPageIds": null,
+          "displayedPath": "Music Page",
+          "title": "Music",
+          "localizationMap": {
+            "en": {
+              "title": "Music"
+            }
+          },
+          "pageId": "e3f9183b-df85-4beb-8136-f32d8d66a4e6",
+          "url": "/music",
+          "dragDropId": 47,
+          "platforms": {
+            "appleTv": false,
+            "samsungTv": false,
+            "android": true,
+            "xbox": false,
+            "ios": true,
+            "jiostb": false,
+            "windows10Desktop": false,
+            "lgTv": false,
+            "roku": false,
+            "fireTv": false,
+            "web": false,
+            "metrological": false,
+            "tivo": false
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": false
+          },
+          "geoTargetedPageIds": null,
+          "icon": "icon-language",
+          "displayedPath": "Language",
+          "title": "Language",
+          "localizationMap": {
+            "en": {
+              "title": "Language"
+            }
+          },
+          "pageId": "60246b19-d6ff-41f3-9913-0e707d261d39",
+          "url": "/Language",
+          "dragDropId": 48,
+          "platforms": {
+            "appleTv": false,
+            "samsungTv": false,
+            "android": true,
+            "xbox": false,
+            "ios": true,
+            "jiostb": false,
+            "windows10Desktop": false,
+            "lgTv": false,
+            "roku": false,
+            "fireTv": false,
+            "web": false,
+            "metrological": false,
+            "tivo": false
+          }
+        }
+      ],
+      "id": "e54c5f6c-ef1c-4c16-9e6b-35036f2fa014",
+      "title": "Navigation Title",
+      "type": true
+    }
+  ],
+  "images": {
+    "mobileAppIcon": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/images/generated/staging-hoichoitc-icon-mobile.png",
+    "multipleSplashScreen": {
+      "multipleSplashScreen320x480": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/images/generated/staging-hoichoitc-320x480.png",
+      "multipleSplashScreen480x720": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/images/generated/staging-hoichoitc-480x720.png",
+      "multipleSplashScreen640x960": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/images/generated/staging-hoichoitc-640x960.png",
+      "multipleSplashScreen960x1440": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/images/generated/staging-hoichoitc-960x1440.png",
+      "multipleSplashScreen1280x1920": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/images/generated/staging-hoichoitc-1280x1920.png"
+    }
+  },
+  "pages": [
+    {
+      "Page-Name": "Home Page435",
+      "Page-Type": "Modular Page",
+      "Page-ID": "6a479d88-b759-4b2a-96b5-227b1c584719",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/6a479d88-b759-4b2a-96b5-227b1c584719.json?version=0.0.612",
+      "Page-API": "/content/pages",
+      "version": "0.0.612",
+      "pageFn": "Home Page",
+      "geoTargetedPageIds": {
+        "default": "6a479d88-b759-4b2a-96b5-227b1c584719",
+        "GB": "040a98d1-7643-45d3-a9e5-1335f177b533",
+        "US": "681a1922-3127-4ec7-96e1-5800e296a528"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "About Us",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "195b149d-e11e-4f61-9257-f268affae2c6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/195b149d-e11e-4f61-9257-f268affae2c6.json?version=0.0.46",
+      "Page-API": "/content/pages",
+      "version": "0.0.46",
+      "pageFn": "About Us",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Movie",
+      "Page-Type": "Modular Page",
+      "Page-ID": "06dd3356-e396-4d92-956c-293dba60c7b5",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/06dd3356-e396-4d92-956c-293dba60c7b5.json?version=0.0.320",
+      "Page-API": "/content/pages",
+      "version": "0.0.320",
+      "pageFn": "Movies",
+      "geoTargetedPageIds": {
+        "default": "06dd3356-e396-4d92-956c-293dba60c7b5"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Contact Us",
+      "Page-Type": "ContactUs Page",
+      "Page-ID": "394b5da6-c172-4026-ad1c-af6aa071e257",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/394b5da6-c172-4026-ad1c-af6aa071e257.json?version=0.0.53",
+      "Page-API": "/content/pages",
+      "version": "0.0.53",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "FAQ",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "86e041c7-9f1f-4d10-985b-f7b0b50ce9c5",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/86e041c7-9f1f-4d10-985b-f7b0b50ce9c5.json?version=0.0.55",
+      "Page-API": "/content/pages",
+      "version": "0.0.55",
+      "pageFn": "Frequently Asked Questions",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "My Watchlist",
+      "Page-Type": "User Page",
+      "Page-ID": "8e53fe09-8c98-4642-8d19-dbb6ed7fd72d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8e53fe09-8c98-4642-8d19-dbb6ed7fd72d.json?version=0.0.60",
+      "Page-API": "/content/pages",
+      "version": "0.0.60",
+      "pageFn": "My Watchlist",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Download Settings",
+      "Page-Type": "User Page",
+      "Page-ID": "c2c82c3d-4563-41bc-9269-079f59ac345d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c2c82c3d-4563-41bc-9269-079f59ac345d.json?version=0.0.34",
+      "Page-API": "/content/pages",
+      "version": "0.0.34",
+      "pageFn": "Download Settings",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "My Downloads",
+      "Page-Type": "User Page",
+      "Page-ID": "2ab162e6-5fea-4263-a57e-3fa86f3ed894",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/2ab162e6-5fea-4263-a57e-3fa86f3ed894.json?version=0.0.42",
+      "Page-API": "/content/pages",
+      "version": "0.0.42",
+      "pageFn": "My Downloads",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Privacy Policy",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "3302d9c8-2afb-45de-8061-9e58344f9853",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/3302d9c8-2afb-45de-8061-9e58344f9853.json?version=0.0.27",
+      "Page-API": "/content/pages",
+      "version": "0.0.27",
+      "pageFn": "Privacy Policy",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Terms of Service old",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "403a4ed6-0944-4b1b-8988-53ab5623db6a",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/403a4ed6-0944-4b1b-8988-53ab5623db6a.json?version=0.0.29",
+      "Page-API": "/content/pages",
+      "version": "0.0.29",
+      "pageFn": "Terms of Service",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Video Page",
+      "Page-Type": "Video Template Page",
+      "Page-ID": "f63c623a-8230-4768-a3bc-7f5abba2da69",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f63c623a-8230-4768-a3bc-7f5abba2da69.json?version=0.0.176",
+      "Page-API": "/content/pages",
+      "version": "0.0.176",
+      "pageFn": "Video Page",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Category Page",
+      "Page-Type": "Category Template Page",
+      "Page-ID": "a0c25a91-9f31-4a98-818d-8e7b141efd7b",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/a0c25a91-9f31-4a98-818d-8e7b141efd7b.json?version=0.0.55",
+      "Page-API": "/content/pages",
+      "version": "0.0.55",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Show",
+      "Page-Type": "Modular Page",
+      "Page-ID": "dda3fc8d-4f74-4375-8ab1-fd6d60c480e9",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/dda3fc8d-4f74-4375-8ab1-fd6d60c480e9.json?version=0.0.214",
+      "Page-API": "/content/pages",
+      "version": "0.0.214",
+      "pageFn": "Shows Page",
+      "geoTargetedPageIds": {
+        "default": "dda3fc8d-4f74-4375-8ab1-fd6d60c480e9",
+        "BD": "a8ab0083-6ba9-45a1-bc8d-29ae10d55616",
+        "NL": "2069c292-02e8-47f0-8827-7dd5b69bc4da"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Page1",
+      "Page-Type": "Show Detail Page",
+      "Page-ID": "44efff86-ab5f-407d-8f69-00fa78213964",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/44efff86-ab5f-407d-8f69-00fa78213964.json?version=0.0.73",
+      "Page-API": "/content/pages",
+      "version": "0.0.73",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Tag Page",
+      "Page-Type": "Tag Template Page",
+      "Page-ID": "7d97aba8-a3fd-41d9-a5a8-1997a7f35c45",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/7d97aba8-a3fd-41d9-a5a8-1997a7f35c45.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": true,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Splash Screen",
+      "Page-Type": "Splash Screen",
+      "Page-ID": "620092b5-8698-4c50-bfa8-12c9af2379c8",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/620092b5-8698-4c50-bfa8-12c9af2379c8.json?version=0.0.26",
+      "Page-API": "/content/pages",
+      "version": "0.0.26",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Search Screen",
+      "Page-Type": "Search Screen",
+      "Page-ID": "e043af00-3c59-4f44-9496-d8e33b6f6737",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e043af00-3c59-4f44-9496-d8e33b6f6737.json?version=0.0.56",
+      "Page-API": "/content/pages",
+      "version": "0.0.56",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Authentication Screen",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "7e54e89f-d0f3-4089-9d83-6cacc4499dac",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/7e54e89f-d0f3-4089-9d83-6cacc4499dac.json?version=0.0.231",
+      "Page-API": "/content/pages",
+      "version": "0.0.231",
+      "pageFn": "Authentication Screen",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Create Login Screen",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "80653b2c-1c44-418e-ace1-68000abb3adf",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/80653b2c-1c44-418e-ace1-68000abb3adf.json?version=0.0.63",
+      "Page-API": "/content/pages",
+      "version": "0.0.63",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Reset Password",
+      "Page-Type": "User Page",
+      "Page-ID": "9a544291-2dc9-4fc8-a236-359cbda77184",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9a544291-2dc9-4fc8-a236-359cbda77184.json?version=0.0.14",
+      "Page-API": "/content/pages",
+      "version": "0.0.14",
+      "pageFn": "Reset Password",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "View Plans",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "de42a675-a59b-44eb-af17-3e02da3e240e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/de42a675-a59b-44eb-af17-3e02da3e240e.json?version=0.0.187",
+      "Page-API": "/content/pages",
+      "version": "0.0.187",
+      "pageFn": "View Plans",
+      "geoTargetedPageIds": {
+        "BR": "b1cfd710-5bd3-40a5-b49c-219cf5b51d2f",
+        "AR": "fd0e6576-554e-4821-bde5-996b1109af3a",
+        "DE": "4f3f6605-a69f-4f4c-8f8b-a581d5f4ab00",
+        "default": "de42a675-a59b-44eb-af17-3e02da3e240e",
+        "UY": "7ab4d8c5-fb35-4bbe-81b5-85a1c4607046",
+        "AF": "fd0e6576-554e-4821-bde5-996b1109af3a",
+        "BN": "fd0e6576-554e-4821-bde5-996b1109af3a",
+        "US": "54dece70-96be-4a63-b1e0-61162be5e3ba"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "AutoPlay Screen (Portrait)",
+      "Page-Type": "AutoPlay Screen",
+      "Page-ID": "31d268a8-b849-414f-9f64-366c8ede507d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/31d268a8-b849-414f-9f64-366c8ede507d.json?version=0.0.16",
+      "Page-API": "/content/pages",
+      "version": "0.0.16",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Subscription Flow",
+      "Page-Type": "Subscription Flow",
+      "Page-ID": "a904323b-5f2f-4a38-b626-0732babc7f61",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/a904323b-5f2f-4a38-b626-0732babc7f61.json?version=0.0.53",
+      "Page-API": "/content/pages",
+      "version": "0.0.53",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Hello",
+      "Page-Type": "Modular Page",
+      "Page-ID": "8dbea67f-6e08-4a01-9ce4-d66d2c3f8af9",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8dbea67f-6e08-4a01-9ce4-d66d2c3f8af9.json?version=0.0.109",
+      "Page-API": "/content/pages",
+      "version": "0.0.109",
+      "geoTargetedPageIds": {
+        "default": "8dbea67f-6e08-4a01-9ce4-d66d2c3f8af9",
+        "AF": "c9840b7d-6b17-4d19-a297-6e5f666ae50f",
+        "IN": "c9840b7d-6b17-4d19-a297-6e5f666ae50f"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "empty",
+      "Page-Type": "misc",
+      "Page-ID": "4a29cb45-5fc6-4215-8406-d61a84ff3e45",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/4a29cb45-5fc6-4215-8406-d61a84ff3e45.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Audio Page",
+      "Page-Type": "Audio Template Page",
+      "Page-ID": "c91b5f71-8837-447c-bcfa-d269108c3fe9",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c91b5f71-8837-447c-bcfa-d269108c3fe9.json?version=0.0.24",
+      "Page-API": "/content/pages",
+      "version": "0.0.24",
+      "pageFn": "Audio Page",
+      "isDefault": true,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Playlist Page",
+      "Page-Type": "Playlist Template Page",
+      "Page-ID": "33d348ef-f22d-4d2a-b043-13ff81e4b90e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/33d348ef-f22d-4d2a-b043-13ff81e4b90e.json?version=0.0.59",
+      "Page-API": "/content/pages",
+      "version": "0.0.59",
+      "pageFn": "Playlist Page",
+      "isDefault": true,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "AutoPlay Screen (Landscape)",
+      "Page-Type": "AutoPlay Screen",
+      "Page-ID": "eefa75fc-6193-43ab-8092-6650c8ab2857",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/eefa75fc-6193-43ab-8092-6650c8ab2857.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Content Rating Warning Screen",
+      "Page-Type": "Content Rating Warning Screen",
+      "Page-ID": "b44d37bc-29af-44c5-a95a-b8c8889e261c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b44d37bc-29af-44c5-a95a-b8c8889e261c.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Article Hub",
+      "Page-Type": "Modular Page",
+      "Page-ID": "3965a843-1ef3-4711-b198-ed5a3c07e154",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/3965a843-1ef3-4711-b198-ed5a3c07e154.json?version=0.0.27",
+      "Page-API": "/content/pages",
+      "version": "0.0.27",
+      "geoTargetedPageIds": {
+        "default": "3965a843-1ef3-4711-b198-ed5a3c07e154",
+        "US": "444ba3d4-1b69-4319-9cc9-dc7f4e683d7d"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Event Page",
+      "Page-Type": "Event Template Page",
+      "Page-ID": "997a0be2-9e8a-484a-a521-c80b861c5719",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/997a0be2-9e8a-484a-a521-c80b861c5719.json?version=0.0.20",
+      "Page-API": "/content/pages",
+      "version": "0.0.20",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "AutoPlay Screen",
+      "Page-Type": "AutoPlay Screen",
+      "Page-ID": "a8d26224-2486-4ff9-ab99-eb14df886e8e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/a8d26224-2486-4ff9-ab99-eb14df886e8e.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Show Page",
+      "Page-Type": "Show Template Page",
+      "Page-ID": "5edf1847-707e-488a-9830-d13c06612852",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/5edf1847-707e-488a-9830-d13c06612852.json?version=0.0.59",
+      "Page-API": "/content/pages",
+      "version": "0.0.59",
+      "pageFn": "Show Page",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "seriesplaylist",
+      "Page-Type": "Modular Page",
+      "Page-ID": "35fe8611-39d6-40ec-bf09-fe72bd78319f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/35fe8611-39d6-40ec-bf09-fe72bd78319f.json?version=0.0.16",
+      "Page-API": "/content/pages",
+      "version": "0.0.16",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "songsplay",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ebdfb3eb-31ca-4aff-b1f9-0e099b822665",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ebdfb3eb-31ca-4aff-b1f9-0e099b822665.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "onemoresongs",
+      "Page-Type": "Modular Page",
+      "Page-ID": "fdd401ba-10d6-4760-8903-6f6581fa8c2a",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/fdd401ba-10d6-4760-8903-6f6581fa8c2a.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Kseries page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "cbd2a10b-c8e0-49cd-99cf-89e8f7dc2224",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/cbd2a10b-c8e0-49cd-99cf-89e8f7dc2224.json?version=0.0.31",
+      "Page-API": "/content/pages",
+      "version": "0.0.31",
+      "geoTargetedPageIds": {
+        "default": "cbd2a10b-c8e0-49cd-99cf-89e8f7dc2224",
+        "AD": "95a3bb50-e3a8-4708-bc87-7f929b31de49",
+        "DZ": "95a3bb50-e3a8-4708-bc87-7f929b31de49"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Link Account Screen",
+      "Page-Type": "Link Account Screen",
+      "Page-ID": "d17a2bd4-6d89-4a86-9e04-d5d16959bdd1",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d17a2bd4-6d89-4a86-9e04-d5d16959bdd1.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Link Your Account Screen",
+      "Page-Type": "Link Account Page",
+      "Page-ID": "1f0847f9-a89d-4e65-963a-8932e7449f13",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1f0847f9-a89d-4e65-963a-8932e7449f13.json?version=0.0.68",
+      "Page-API": "/content/pages",
+      "version": "0.0.68",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Sitemap",
+      "Page-Type": "Modular Page",
+      "Page-ID": "a0b64202-c3d2-4be2-9756-5708aacd0e3c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/a0b64202-c3d2-4be2-9756-5708aacd0e3c.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Person Detail",
+      "Page-Type": "Person Template Page",
+      "Page-ID": "b46bfd3d-336c-429d-8ff9-f2e73073613e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b46bfd3d-336c-429d-8ff9-f2e73073613e.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Get Involved",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "103111a3-e8d7-47a3-a973-ec26e3772498",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/103111a3-e8d7-47a3-a973-ec26e3772498.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Byomkesh Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "feaa50a5-2887-4ee0-bcfc-aa4348a1ebf3",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/feaa50a5-2887-4ee0-bcfc-aa4348a1ebf3.json?version=0.0.124",
+      "Page-API": "/content/pages",
+      "version": "0.0.124",
+      "geoTargetedPageIds": {
+        "default": "feaa50a5-2887-4ee0-bcfc-aa4348a1ebf3",
+        "GB": "f8de5b7a-f72a-47ea-889e-549807238618"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "New Page Three",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e0c5f205-e2e6-413b-bc8e-bf204e4487fb",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e0c5f205-e2e6-413b-bc8e-bf204e4487fb.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "FAQ 2 Test",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "af552557-d059-4196-b3de-c8779870c1f9",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/af552557-d059-4196-b3de-c8779870c1f9.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "pageFn": "Frequently Asked Questions",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Embedded player",
+      "Page-Type": "Embedded Page",
+      "Page-ID": "adf30e1c-7536-42e5-b2b2-d3b6bbcaf4d1",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/adf30e1c-7536-42e5-b2b2-d3b6bbcaf4d1.json?version=0.0.22",
+      "Page-API": "/content/pages",
+      "version": "0.0.22",
+      "geoTargetedPageIds": {
+        "default": "adf30e1c-7536-42e5-b2b2-d3b6bbcaf4d1",
+        "US": "80627a79-03e2-4587-81a8-88725f976df0"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Benefit Plan Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9f2cd591-dfca-4fea-b533-6a44dec8a73b",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9f2cd591-dfca-4fea-b533-6a44dec8a73b.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Durga Puja Offer",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "0ba2ebaf-494a-4113-829e-75fe1e648e7e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/0ba2ebaf-494a-4113-829e-75fe1e648e7e.json?version=0.0.26",
+      "Page-API": "/content/pages",
+      "version": "0.0.26",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "View Plans (Single Plan Page)",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "ff686c66-6778-42f5-a091-249098caebdf",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ff686c66-6778-42f5-a091-249098caebdf.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Photo Gallery",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d399531d-9ba0-44d6-8a5c-d2fa2869cd24",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d399531d-9ba0-44d6-8a5c-d2fa2869cd24.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Redeem Offer",
+      "Page-Type": "Modular Page",
+      "Page-ID": "a253bf47-3ae7-4f8e-8864-ff695f2d93cd",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/a253bf47-3ae7-4f8e-8864-ff695f2d93cd.json?version=0.0.87",
+      "Page-API": "/content/pages",
+      "version": "0.0.87",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Form Testing",
+      "Page-Type": "Modular Page",
+      "Page-ID": "875d2406-2111-4d2e-a5be-42afdf8a5ce1",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/875d2406-2111-4d2e-a5be-42afdf8a5ce1.json?version=0.0.17",
+      "Page-API": "/content/pages",
+      "version": "0.0.17",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Language QKJWDB",
+      "Page-Type": "User Page",
+      "Page-ID": "af8d099a-455f-4210-bd3b-1ebb1d13acb3",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/af8d099a-455f-4210-bd3b-1ebb1d13acb3.json?version=0.0.21",
+      "Page-API": "/content/pages",
+      "version": "0.0.21",
+      "pageFn": "N/A",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "tesgin",
+      "Page-Type": "Modular Page",
+      "Page-ID": "7de9233c-103d-4ff8-ae04-409ce0fef7bc",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/7de9233c-103d-4ff8-ae04-409ce0fef7bc.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Privacy Policy 2",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "62d4abd7-6990-47d0-9aef-d5f83700f56b",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/62d4abd7-6990-47d0-9aef-d5f83700f56b.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "pageFn": "Privacy Policy",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "App Settings",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "e0998c2e-0b8c-4b6b-a17c-fd987c5d7a53",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e0998c2e-0b8c-4b6b-a17c-fd987c5d7a53.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "My Library",
+      "Page-Type": "User Page",
+      "Page-ID": "d46af8b2-9f26-49b7-91fe-262424684350",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d46af8b2-9f26-49b7-91fe-262424684350.json?version=0.0.32",
+      "Page-API": "/content/pages",
+      "version": "0.0.32",
+      "pageFn": "My Library",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Localization Testing in Hindik",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b84c4cd2-8c39-4fef-981b-228da017c5b6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b84c4cd2-8c39-4fef-981b-228da017c5b6.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Bundle Page",
+      "Page-Type": "Bundle Template Page",
+      "Page-ID": "790102a9-3253-4ee4-bb88-a3cef6554d1d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/790102a9-3253-4ee4-bb88-a3cef6554d1d.json?version=0.0.26",
+      "Page-API": "/content/pages",
+      "version": "0.0.26",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Vivek",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9fa9a950-8177-40ee-8f03-650a24e72428",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9fa9a950-8177-40ee-8f03-650a24e72428.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Test-pageFn",
+      "Page-Type": "Modular Page",
+      "Page-ID": "6e100040-9ca4-438f-b9bc-8753aabe7f74",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/6e100040-9ca4-438f-b9bc-8753aabe7f74.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "History",
+      "Page-Type": "User Page",
+      "Page-ID": "87f0a2fb-852d-4cce-ad9a-1226ae63bb73",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/87f0a2fb-852d-4cce-ad9a-1226ae63bb73.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "pageFn": "My History",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Shannon",
+      "Page-Type": "Modular Page",
+      "Page-ID": "adb49eed-0c69-4816-956c-8da41861addb",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/adb49eed-0c69-4816-956c-8da41861addb.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "pageFn": "New Landing Page",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "ashwin",
+      "Page-Type": "Modular Page",
+      "Page-ID": "a47dd81e-0132-4ec9-bb01-716fd6632d5d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/a47dd81e-0132-4ec9-bb01-716fd6632d5d.json?version=0.0.64",
+      "Page-API": "/content/pages",
+      "version": "0.0.64",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Harsha",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c2fa2a8d-552e-47e9-ae2d-417d00a6bb02",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c2fa2a8d-552e-47e9-ae2d-417d00a6bb02.json?version=0.0.80",
+      "Page-API": "/content/pages",
+      "version": "0.0.80",
+      "geoTargetedPageIds": {
+        "default": "c2fa2a8d-552e-47e9-ae2d-417d00a6bb02",
+        "US": "47302b88-c59d-40bf-8f62-5c1c28cd0667"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Non Localized Test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "4de99428-71af-4c9a-9b47-610023fc612e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/4de99428-71af-4c9a-9b47-610023fc612e.json?version=0.0.17",
+      "Page-API": "/content/pages",
+      "version": "0.0.17",
+      "pageFn": "Movies",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Kapil TVOD test [Do not delete]",
+      "Page-Type": "Modular Page",
+      "Page-ID": "eea14c7c-531d-4e0b-9556-57a5e7377c8c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/eea14c7c-531d-4e0b-9556-57a5e7377c8c.json?version=0.0.32",
+      "Page-API": "/content/pages",
+      "version": "0.0.32",
+      "pageFn": "Categories Page",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "kapil tvod 21",
+      "Page-Type": "Modular Page",
+      "Page-ID": "efdfd03a-779d-41d9-90ba-d1f5182ff610",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/efdfd03a-779d-41d9-90ba-d1f5182ff610.json?version=0.0.25",
+      "Page-API": "/content/pages",
+      "version": "0.0.25",
+      "pageFn": "Categories Page",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Fighter Roster",
+      "Page-Type": "Team Roster Page",
+      "Page-ID": "bb3f39f1-a629-4e77-9c49-60a08ce9ae99",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/bb3f39f1-a629-4e77-9c49-60a08ce9ae99.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "pageFn": "Fighter Roster",
+      "geoTargetedPageIds": {
+        "BB": "f3cfb038-2e7e-4f6e-b771-013db206f661",
+        "default": "bb3f39f1-a629-4e77-9c49-60a08ce9ae99",
+        "KH": "c92ed2e3-338e-4f9c-9861-9d1133b09ce9"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Bundle Test (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ea50dfeb-f132-4e86-ad54-0c4cf6c4a934",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ea50dfeb-f132-4e86-ad54-0c4cf6c4a934.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Chaitra Sale-edited-on-20/04/2019 updatedi",
+      "Page-Type": "Modular Page",
+      "Page-ID": "3ef69193-b9dd-43cb-9cec-3968b1a065e6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/3ef69193-b9dd-43cb-9cec-3968b1a065e6.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Hello (AF, IN)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c9840b7d-6b17-4d19-a297-6e5f666ae50f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c9840b7d-6b17-4d19-a297-6e5f666ae50f.json?version=0.0.82",
+      "Page-API": "/content/pages",
+      "version": "0.0.82",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Kapil New",
+      "Page-Type": "Modular Page",
+      "Page-ID": "87f52829-4f7c-4082-8eb7-9509333d73ce",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/87f52829-4f7c-4082-8eb7-9509333d73ce.json?version=0.0.17",
+      "Page-API": "/content/pages",
+      "version": "0.0.17",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "BE TEST",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b118a983-a582-49b5-9220-473368ea37dd",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b118a983-a582-49b5-9220-473368ea37dd.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15",
+      "geoTargetedPageIds": {
+        "default": "b118a983-a582-49b5-9220-473368ea37dd",
+        "IN": "5784c95f-4f44-448a-ab67-56d699668ed1"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Unsubscribe",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "b19544b9-09d3-459c-ae5c-f1f3f70ef64e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b19544b9-09d3-459c-ae5c-f1f3f70ef64e.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "geoTargetedPageIds": {
+        "44": "f",
+        "88": "9",
+        "45": "6",
+        "89": "3",
+        "46": "4",
+        "47": "e",
+        "48": "\"",
+        "49": ",",
+        "90": "8",
+        "91": "c",
+        "92": "\"",
+        "93": "}",
+        "50": "\"",
+        "51": "A",
+        "52": "F",
+        "53": "\"",
+        "10": ":",
+        "54": ":",
+        "11": "\"",
+        "55": "\"",
+        "12": "b",
+        "56": "6",
+        "13": "1",
+        "57": "5",
+        "14": "9",
+        "58": "9",
+        "15": "5",
+        "59": "b",
+        "16": "4",
+        "17": "4",
+        "18": "b",
+        "19": "9",
+        "AL": "659b8b7c-0316-4b69-b397-ebbac2d4938c",
+        "0": "{",
+        "1": "\"",
+        "2": "d",
+        "3": "e",
+        "4": "f",
+        "5": "a",
+        "6": "u",
+        "7": "l",
+        "8": "t",
+        "9": "\"",
+        "60": "8",
+        "61": "b",
+        "62": "7",
+        "63": "c",
+        "20": "-",
+        "64": "-",
+        "21": "0",
+        "65": "0",
+        "22": "9",
+        "66": "3",
+        "23": "d",
+        "67": "1",
+        "24": "3",
+        "68": "6",
+        "25": "-",
+        "69": "-",
+        "26": "4",
+        "27": "5",
+        "28": "9",
+        "29": "c",
+        "default": "b19544b9-09d3-459c-ae5c-f1f3f70ef64e",
+        "70": "4",
+        "71": "b",
+        "72": "6",
+        "73": "9",
+        "30": "-",
+        "74": "-",
+        "31": "a",
+        "75": "b",
+        "32": "e",
+        "76": "3",
+        "33": "5",
+        "77": "9",
+        "34": "c",
+        "78": "7",
+        "35": "-",
+        "79": "-",
+        "36": "f",
+        "37": "1",
+        "38": "f",
+        "39": "3",
+        "80": "e",
+        "81": "b",
+        "82": "b",
+        "83": "a",
+        "40": "f",
+        "84": "c",
+        "41": "7",
+        "85": "2",
+        "42": "0",
+        "86": "d",
+        "43": "e",
+        "87": "4"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "404 Error Page (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "997dc11b-b85f-4a81-9c32-e63366c1f326",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/997dc11b-b85f-4a81-9c32-e63366c1f326.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "404 Error Page (IN)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "df409b7e-ca38-4312-bb01-be99c0177b6c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/df409b7e-ca38-4312-bb01-be99c0177b6c.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "tester (IN)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "21096863-692e-4f68-86a0-c10dc07521eb",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/21096863-692e-4f68-86a0-c10dc07521eb.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "tester (FR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "27c6e810-755e-4f12-a187-ba2fe7cb7a65",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/27c6e810-755e-4f12-a187-ba2fe7cb7a65.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Trays Curations",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d062a89a-1fc2-4c7f-a43c-f7d7a6212956",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d062a89a-1fc2-4c7f-a43c-f7d7a6212956.json?version=0.0.46",
+      "Page-API": "/content/pages",
+      "version": "0.0.46",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "404 Error Page (FR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e681b8c3-6e6a-4a5a-8e4e-17be0a647d47",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e681b8c3-6e6a-4a5a-8e4e-17be0a647d47.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "404 Error Page (FR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "0c039053-0898-447b-a8b4-cb4e3eafa653",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/0c039053-0898-447b-a8b4-cb4e3eafa653.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "404 Error Page (FR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ac79326e-0f1b-480d-a32b-c632619b88ba",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ac79326e-0f1b-480d-a32b-c632619b88ba.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "404 Error Page (FR, IN)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "65dda23d-1dfe-4bd8-ac94-6e3e7be55f81",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/65dda23d-1dfe-4bd8-ac94-6e3e7be55f81.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Geo Test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "2f04ef21-705c-43c7-9810-25f017aa2429",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/2f04ef21-705c-43c7-9810-25f017aa2429.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "geoTargetedPageIds": {
+        "default": "2f04ef21-705c-43c7-9810-25f017aa2429",
+        "FR": "0292292f-cca1-4576-a8e5-4d5c1ea8938e"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Geo Test (FR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "0292292f-cca1-4576-a8e5-4d5c1ea8938e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/0292292f-cca1-4576-a8e5-4d5c1ea8938e.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Old TB Tray curate",
+      "Page-Type": "Modular Page",
+      "Page-ID": "29fb6a45-878d-4439-aa73-8a9e01f27699",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/29fb6a45-878d-4439-aa73-8a9e01f27699.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "OldTB Curation test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d4d78f38-6ec8-42a1-9eb5-56655f88a07b",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d4d78f38-6ec8-42a1-9eb5-56655f88a07b.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "BE TEST (IN)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "5784c95f-4f44-448a-ab67-56d699668ed1",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/5784c95f-4f44-448a-ab67-56d699668ed1.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Geo IP Test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "8eea14ba-b60a-4166-998e-f2afd914d190",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8eea14ba-b60a-4166-998e-f2afd914d190.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "geoTargetedPageIds": {
+        "default": "8eea14ba-b60a-4166-998e-f2afd914d190",
+        "FR": "1bd32495-0d4c-41da-80a1-600d6fd2f588"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Geo IP Test (FR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1bd32495-0d4c-41da-80a1-600d6fd2f588",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1bd32495-0d4c-41da-80a1-600d6fd2f588.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Hello By Daniel (IN, FR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "048f4e27-8afd-4392-b736-7653fab8180c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/048f4e27-8afd-4392-b736-7653fab8180c.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Terms of Service",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "9b882532-7d7c-45cf-b232-7ae75bb89024",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9b882532-7d7c-45cf-b232-7ae75bb89024.json?version=0.0.14",
+      "Page-API": "/content/pages",
+      "version": "0.0.14",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Unsubscribe (AL)",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "659b8b7c-0316-4b69-b397-ebbac2d4938c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/659b8b7c-0316-4b69-b397-ebbac2d4938c.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "404 Error Page (CW)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "af14ac7b-dcf2-401b-b6ac-fd0db34dbdcd",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/af14ac7b-dcf2-401b-b6ac-fd0db34dbdcd.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "404 Error Page (BR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "4f8a2afd-f222-4701-a3fd-148cfebbfae8",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/4f8a2afd-f222-4701-a3fd-148cfebbfae8.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Fighter Roster (AF)",
+      "Page-Type": "Team Roster Page",
+      "Page-ID": "379f5c67-fa68-46be-a21f-343513e891e4",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/379f5c67-fa68-46be-a21f-343513e891e4.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Fighter Roster (AL)",
+      "Page-Type": "Team Roster Page",
+      "Page-ID": "9d6e093d-7f24-4a5b-b6e7-4ddd7a0f2860",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9d6e093d-7f24-4a5b-b6e7-4ddd7a0f2860.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Fighter Roster (DZ)",
+      "Page-Type": "Team Roster Page",
+      "Page-ID": "c7dec6b4-61f1-416f-ab5f-617b5f20901f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c7dec6b4-61f1-416f-ab5f-617b5f20901f.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Fighter Roster (CC)",
+      "Page-Type": "Team Roster Page",
+      "Page-ID": "f76bbd12-9300-45ae-a6a4-1eb54d93fa9f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f76bbd12-9300-45ae-a6a4-1eb54d93fa9f.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Fighter Roster (BB)",
+      "Page-Type": "Team Roster Page",
+      "Page-ID": "f3cfb038-2e7e-4f6e-b771-013db206f661",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f3cfb038-2e7e-4f6e-b771-013db206f661.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Fighter Roster (KH)",
+      "Page-Type": "Team Roster Page",
+      "Page-ID": "c92ed2e3-338e-4f9c-9861-9d1133b09ce9",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c92ed2e3-338e-4f9c-9861-9d1133b09ce9.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "View Plans (AR, AF, BN)",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "fd0e6576-554e-4821-bde5-996b1109af3a",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/fd0e6576-554e-4821-bde5-996b1109af3a.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "View Plans (AL, US)",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "54dece70-96be-4a63-b1e0-61162be5e3ba",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/54dece70-96be-4a63-b1e0-61162be5e3ba.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "App GeoTarget Test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "cfcdf1b1-a934-450b-8e4e-0d88b2d93fe0",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/cfcdf1b1-a934-450b-8e4e-0d88b2d93fe0.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "geoTargetedPageIds": {
+        "default": "cfcdf1b1-a934-450b-8e4e-0d88b2d93fe0",
+        "IN": "ba22f000-568a-4c7f-b83f-b7b35e1aab63",
+        "CA": "cba361bb-d85c-4dad-a103-bd22a9b48422",
+        "AO": "80912b71-ffa9-4da1-b7a6-6b2444c05db2"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "App GeoTarget Test (IN)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ba22f000-568a-4c7f-b83f-b7b35e1aab63",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ba22f000-568a-4c7f-b83f-b7b35e1aab63.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "App GeoTarget Test (CA)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "cba361bb-d85c-4dad-a103-bd22a9b48422",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/cba361bb-d85c-4dad-a103-bd22a9b48422.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "LICENSE TEST",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b1dc61b9-7d02-439b-93d3-554d6aeccf3e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b1dc61b9-7d02-439b-93d3-554d6aeccf3e.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "App GeoTarget Test (AO)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "80912b71-ffa9-4da1-b7a6-6b2444c05db2",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/80912b71-ffa9-4da1-b7a6-6b2444c05db2.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Publish error testing",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b546b0ee-dded-4476-ac49-3c59f54327c9",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b546b0ee-dded-4476-ac49-3c59f54327c9.json?version=0.0.21",
+      "Page-API": "/content/pages",
+      "version": "0.0.21",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "October error",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ff6f195c-35c2-4fdb-bd09-d0478bad68c2",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ff6f195c-35c2-4fdb-bd09-d0478bad68c2.json?version=0.0.31",
+      "Page-API": "/content/pages",
+      "version": "0.0.31",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "KTt",
+      "Page-Type": "Modular Page",
+      "Page-ID": "cb9c29be-682c-461b-9da5-d7d77d7d3723",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/cb9c29be-682c-461b-9da5-d7d77d7d3723.json?version=0.0.49",
+      "Page-API": "/content/pages",
+      "version": "0.0.49",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Demo Clone (AF, AS)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "7e22b97a-386f-48be-b490-4f0f375ffb71",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/7e22b97a-386f-48be-b490-4f0f375ffb71.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Regresssion",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ba5e1b9b-4fb1-45a5-b57f-29b37a1f423d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ba5e1b9b-4fb1-45a5-b57f-29b37a1f423d.json?version=0.0.23",
+      "Page-API": "/content/pages",
+      "version": "0.0.23",
+      "pageFn": "N/A",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Diwali Offer",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "3f29d650-3f97-4334-9620-74cc478b04b1",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/3f29d650-3f97-4334-9620-74cc478b04b1.json?version=0.0.21",
+      "Page-API": "/content/pages",
+      "version": "0.0.21",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "View Plans (bis)",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "6ce8502f-5074-452e-b014-a4dce5b9a8f3",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/6ce8502f-5074-452e-b014-a4dce5b9a8f3.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "CategoryDetail Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "77bd65a3-b8ef-435a-935d-a66ba63080c0",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/77bd65a3-b8ef-435a-935d-a66ba63080c0.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Category Details Page",
+      "Page-Type": "Category Template Page",
+      "Page-ID": "e9e3fb98-f6e9-4144-8e55-8d7c779bb085",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e9e3fb98-f6e9-4144-8e55-8d7c779bb085.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Container Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "31f00fef-37bc-4e98-8acd-03e6d5fa2997",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/31f00fef-37bc-4e98-8acd-03e6d5fa2997.json?version=0.0.156",
+      "Page-API": "/content/pages",
+      "version": "0.0.156",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "pagethree",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b9412b66-32ee-4fac-a45e-8302e1750cc4",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b9412b66-32ee-4fac-a45e-8302e1750cc4.json?version=0.0.21",
+      "Page-API": "/content/pages",
+      "version": "0.0.21",
+      "pageFn": "Songs",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Kseries page (AD, DZ)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "95a3bb50-e3a8-4708-bc87-7f929b31de49",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/95a3bb50-e3a8-4708-bc87-7f929b31de49.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Accordion",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e1797b22-cc10-428c-98df-36c3f668d4ec",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e1797b22-cc10-428c-98df-36c3f668d4ec.json?version=0.0.186",
+      "Page-API": "/content/pages",
+      "version": "0.0.186",
+      "geoTargetedPageIds": {
+        "AR": "07e22454-4773-4283-a72a-a135a2f3dce0",
+        "default": "e1797b22-cc10-428c-98df-36c3f668d4ec",
+        "AS": "517c9517-ef69-48e9-99db-bbafbfdb1851",
+        "AF": "9b2d75a9-1437-4ae2-9032-c45836038e93",
+        "AL": "8fa7ca0c-4aeb-42b8-ba0f-ea2f89b7af21"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Bundle Test (DE)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "128df697-2ddc-4c03-89df-323d2a78679e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/128df697-2ddc-4c03-89df-323d2a78679e.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Embedded player (US)",
+      "Page-Type": "Embedded Page",
+      "Page-ID": "80627a79-03e2-4587-81a8-88725f976df0",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/80627a79-03e2-4587-81a8-88725f976df0.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "new page test ancillary",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "ac4caffb-1787-43bb-bca4-dea975043ccc",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ac4caffb-1787-43bb-bca4-dea975043ccc.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Hotfix",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e287807d-0490-4cd0-ab66-a6b30b3b0bb7",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e287807d-0490-4cd0-ab66-a6b30b3b0bb7.json?version=0.0.36",
+      "Page-API": "/content/pages",
+      "version": "0.0.36",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Test 1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c37c7ebb-c37f-4a69-9841-95685957d05c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c37c7ebb-c37f-4a69-9841-95685957d05c.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Test page1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1a21ee1b-c9f0-431d-be59-ee76f65e2f32",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1a21ee1b-c9f0-431d-be59-ee76f65e2f32.json?version=0.0.28",
+      "Page-API": "/content/pages",
+      "version": "0.0.28",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "View Plans (DE)",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "aadda95e-974b-447d-b09f-e99aa5e63f97",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/aadda95e-974b-447d-b09f-e99aa5e63f97.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "View Plans (BR)",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "b1cfd710-5bd3-40a5-b49c-219cf5b51d2f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b1cfd710-5bd3-40a5-b49c-219cf5b51d2f.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Chaitra Sale-edited-on-20/04/2019",
+      "Page-Type": "Category Template Page",
+      "Page-ID": "663f8c69-0fd9-4ae5-a253-3c53e735090e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/663f8c69-0fd9-4ae5-a253-3c53e735090e.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12",
+      "pageFn": "Movies",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "home page copy",
+      "Page-Type": "Modular Page",
+      "Page-ID": "cc17641c-6913-479f-a51b-4f3329a0bfa6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/cc17641c-6913-479f-a51b-4f3329a0bfa6.json?version=0.0.35",
+      "Page-API": "/content/pages",
+      "version": "0.0.35",
+      "geoTargetedPageIds": {
+        "default": "cc17641c-6913-479f-a51b-4f3329a0bfa6",
+        "US": "5414d852-b8e6-4be2-8620-eb901c0e8b63"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "home page copy (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "5414d852-b8e6-4be2-8620-eb901c0e8b63",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/5414d852-b8e6-4be2-8620-eb901c0e8b63.json?version=0.0.20",
+      "Page-API": "/content/pages",
+      "version": "0.0.20",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "home page copy 2",
+      "Page-Type": "Modular Page",
+      "Page-ID": "019f5269-bf98-4e57-be49-f41e4e58bbe2",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/019f5269-bf98-4e57-be49-f41e4e58bbe2.json?version=0.0.186",
+      "Page-API": "/content/pages",
+      "version": "0.0.186",
+      "geoTargetedPageIds": {
+        "default": "019f5269-bf98-4e57-be49-f41e4e58bbe2",
+        "US": "f8e13cc5-f94b-454e-90c2-5ad5d3af6cd8"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "home page copy 2 (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f8e13cc5-f94b-454e-90c2-5ad5d3af6cd8",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f8e13cc5-f94b-454e-90c2-5ad5d3af6cd8.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Test Style",
+      "Page-Type": "Modular Page",
+      "Page-ID": "6f117d40-2ebb-4c38-a86a-b39731d36674",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/6f117d40-2ebb-4c38-a86a-b39731d36674.json?version=0.0.127",
+      "Page-API": "/content/pages",
+      "version": "0.0.127",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Show (BD)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "a8ab0083-6ba9-45a1-bc8d-29ae10d55616",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/a8ab0083-6ba9-45a1-bc8d-29ae10d55616.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Show (BD)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "4816ea11-2195-4979-9235-30067dfda578",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/4816ea11-2195-4979-9235-30067dfda578.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Carrers-test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "4bfafe52-9bf7-45b8-97f3-58101d17e5db",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/4bfafe52-9bf7-45b8-97f3-58101d17e5db.json?version=0.0.22",
+      "Page-API": "/content/pages",
+      "version": "0.0.22",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Article Page",
+      "Page-Type": "Article Template Page",
+      "Page-ID": "e78a7e34-a5b4-4d40-8a6e-98aaa6d9a2ee",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e78a7e34-a5b4-4d40-8a6e-98aaa6d9a2ee.json?version=0.0.39",
+      "Page-API": "/content/pages",
+      "version": "0.0.39",
+      "isDefault": true,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "GeoIN",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9a5d0c6b-a806-4bff-89de-aa2e6f9c2d4d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9a5d0c6b-a806-4bff-89de-aa2e6f9c2d4d.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "geoTargetedPageIds": {
+        "default": "9a5d0c6b-a806-4bff-89de-aa2e6f9c2d4d",
+        "US": "1eb49596-4d8b-4b0d-a207-6e8c553b60d6"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "GeoIN (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1eb49596-4d8b-4b0d-a207-6e8c553b60d6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1eb49596-4d8b-4b0d-a207-6e8c553b60d6.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Newgeo",
+      "Page-Type": "Modular Page",
+      "Page-ID": "6a049a00-9f22-42b7-819b-bf6337242961",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/6a049a00-9f22-42b7-819b-bf6337242961.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "geoTargetedPageIds": {
+        "default": "6a049a00-9f22-42b7-819b-bf6337242961",
+        "US": "edb1e566-8b31-4bd9-80d4-d111b8e05e5d"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Newgeo (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "edb1e566-8b31-4bd9-80d4-d111b8e05e5d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/edb1e566-8b31-4bd9-80d4-d111b8e05e5d.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Shashank",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f6669d99-d81c-4923-9e75-007a6f862231",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f6669d99-d81c-4923-9e75-007a6f862231.json?version=0.0.34",
+      "Page-API": "/content/pages",
+      "version": "0.0.34",
+      "geoTargetedPageIds": {
+        "default": "f6669d99-d81c-4923-9e75-007a6f862231",
+        "US": "f37af644-3102-4417-880e-095e4353adfb"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "India",
+      "Page-Type": "Modular Page",
+      "Page-ID": "35bd3c46-8c52-4ede-9fc9-55a79607eb75",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/35bd3c46-8c52-4ede-9fc9-55a79607eb75.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "geoTargetedPageIds": {
+        "default": "35bd3c46-8c52-4ede-9fc9-55a79607eb75",
+        "US": "8c75aeb8-8557-4e90-984a-e10fcd3fe8af"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "India (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "8c75aeb8-8557-4e90-984a-e10fcd3fe8af",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8c75aeb8-8557-4e90-984a-e10fcd3fe8af.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Home1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "8a5b305c-c4b0-4bf7-8608-4c44676a0f28",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8a5b305c-c4b0-4bf7-8608-4c44676a0f28.json?version=0.0.117",
+      "Page-API": "/content/pages",
+      "version": "0.0.117",
+      "geoTargetedPageIds": {
+        "default": "8a5b305c-c4b0-4bf7-8608-4c44676a0f28",
+        "IN": "1d7cf5b7-c10e-414a-8a19-a8995daa9678",
+        "CM": "1d7cf5b7-c10e-414a-8a19-a8995daa9678"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "CMS",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1ec194b9-6c5d-433d-83e2-0d6c871d617d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1ec194b9-6c5d-433d-83e2-0d6c871d617d.json?version=0.0.18",
+      "Page-API": "/content/pages",
+      "version": "0.0.18",
+      "geoTargetedPageIds": {
+        "DE": "00a188d8-4112-498f-b59e-2cc458dd2b45",
+        "default": "1ec194b9-6c5d-433d-83e2-0d6c871d617d",
+        "US": "9b705696-cf10-4ab8-b927-c43008add369"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "CMS (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9b705696-cf10-4ab8-b927-c43008add369",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9b705696-cf10-4ab8-b927-c43008add369.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Plans Page Test ",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "a0a40ae6-9b65-484e-b538-fb63e238bf9d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/a0a40ae6-9b65-484e-b538-fb63e238bf9d.json?version=0.0.45",
+      "Page-API": "/content/pages",
+      "version": "0.0.45",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "561c4e03-632a-4366-b473-0dd07ae4d056",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/561c4e03-632a-4366-b473-0dd07ae4d056.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "geoTargetedPageIds": {
+        "default": "561c4e03-632a-4366-b473-0dd07ae4d056",
+        "US": "3898c89c-19b3-44ba-9e92-a0304120efea"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Test Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "06564e9a-e49a-40e3-a6fb-b5dc73e616f0",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/06564e9a-e49a-40e3-a6fb-b5dc73e616f0.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "CMS (DE)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "00a188d8-4112-498f-b59e-2cc458dd2b45",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/00a188d8-4112-498f-b59e-2cc458dd2b45.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Sign Up with Mobile",
+      "Page-Type": "System Screen",
+      "Page-ID": "b2dfd69a-e991-452a-b044-ec30af1612e3",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b2dfd69a-e991-452a-b044-ec30af1612e3.json?version=0.0.18",
+      "Page-API": "/content/pages",
+      "version": "0.0.18",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "OTP Entry Screen",
+      "Page-Type": "System Screen",
+      "Page-ID": "c04ae2dd-c1c3-4639-9498-7f6727cce3ed",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c04ae2dd-c1c3-4639-9498-7f6727cce3ed.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Create Password Screen",
+      "Page-Type": "User Page",
+      "Page-ID": "2f8ef0d7-a3b6-46ba-90f0-a21353aaae64",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/2f8ef0d7-a3b6-46ba-90f0-a21353aaae64.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Juspay Payment",
+      "Page-Type": "System Screen",
+      "Page-ID": "5e91d161-b14b-42d1-991d-8034bdcf000e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/5e91d161-b14b-42d1-991d-8034bdcf000e.json?version=0.0.217",
+      "Page-API": "/content/pages",
+      "version": "0.0.217",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "OTP Permission Screen5",
+      "Page-Type": "System Screen",
+      "Page-ID": "8c6432ee-4604-4fa5-b4cf-50d0792c03d8",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8c6432ee-4604-4fa5-b4cf-50d0792c03d8.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Mobile Entry Screen",
+      "Page-Type": "System Screen",
+      "Page-ID": "700e6026-f4a4-4600-9cee-feed30422662",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/700e6026-f4a4-4600-9cee-feed30422662.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "OTP Access Permission3",
+      "Page-Type": "System Screen",
+      "Page-ID": "8af2c872-31a0-46ce-b94b-5db2d75e72b0",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8af2c872-31a0-46ce-b94b-5db2d75e72b0.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "CARD DETAILS PAGE",
+      "Page-Type": "System Screen",
+      "Page-ID": "435f20f1-6e92-4d57-97bc-2b0969055ec6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/435f20f1-6e92-4d57-97bc-2b0969055ec6.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "My Account",
+      "Page-Type": "User Page",
+      "Page-ID": "91249005-390d-4bb3-b209-b9179436545c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/91249005-390d-4bb3-b209-b9179436545c.json?version=0.0.97",
+      "Page-API": "/content/pages",
+      "version": "0.0.97",
+      "pageFn": "Account Settings",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Sumittest",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b2a178ce-9d73-4f8f-83fa-5d80f3a7e9a7",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b2a178ce-9d73-4f8f-83fa-5d80f3a7e9a7.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15",
+      "geoTargetedPageIds": {
+        "default": "b2a178ce-9d73-4f8f-83fa-5d80f3a7e9a7",
+        "AU": "40afb9c5-1187-47cf-9c68-db2ffcc64311",
+        "US": "a65aa043-52e9-40c5-a891-4f4a515ef918"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Music Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e3f9183b-df85-4beb-8136-f32d8d66a4e6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e3f9183b-df85-4beb-8136-f32d8d66a4e6.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "pageFn": "Music",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "testnewtest",
+      "Page-Type": "Modular Page",
+      "Page-ID": "37cfe43a-cc37-44a5-8895-00cd2e4ff926",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/37cfe43a-cc37-44a5-8895-00cd2e4ff926.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "testnewtest",
+      "Page-Type": "Modular Page",
+      "Page-ID": "882e6b7f-3c18-4ce7-bbe0-5318d59ec28f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/882e6b7f-3c18-4ce7-bbe0-5318d59ec28f.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "testnewtest1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "632b0b2c-9b76-4bcb-ab5e-46ccf2fe2493",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/632b0b2c-9b76-4bcb-ab5e-46ccf2fe2493.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "testnewtest1sdsfdf",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1a5fb492-2e3c-4102-a712-9bf8e1b2561c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1a5fb492-2e3c-4102-a712-9bf8e1b2561c.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "testnewtest2",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ea99c02b-5edf-4557-ae22-2045e26d0524",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ea99c02b-5edf-4557-ae22-2045e26d0524.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "TEST PAGE",
+      "Page-Type": "Modular Page",
+      "Page-ID": "94144e2c-3760-4fd3-9aa6-6b658b74cb53",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/94144e2c-3760-4fd3-9aa6-6b658b74cb53.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "settings",
+      "Page-Type": "System Screen",
+      "Page-ID": "cda5b33f-c2d0-40ee-a587-b98edefab569",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/cda5b33f-c2d0-40ee-a587-b98edefab569.json?version=0.0.101",
+      "Page-API": "/content/pages",
+      "version": "0.0.101",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "JusPay",
+      "Page-Type": "System Screen",
+      "Page-ID": "4305a247-7311-4fa9-ad90-a579a11983b9",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/4305a247-7311-4fa9-ad90-a579a11983b9.json?version=0.0.96",
+      "Page-API": "/content/pages",
+      "version": "0.0.96",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Home Page - New",
+      "Page-Type": "Modular Page",
+      "Page-ID": "58e267d9-65e2-404c-bed7-493c04e8d417",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/58e267d9-65e2-404c-bed7-493c04e8d417.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Chaitra Sale-edited-on-20/04/2019updated",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c4e9d9ad-e868-4610-b70d-5f30c647c7c6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c4e9d9ad-e868-4610-b70d-5f30c647c7c6.json?version=0.0.21",
+      "Page-API": "/content/pages",
+      "version": "0.0.21",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Show Page 1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "193e0eb1-d6af-41d4-bb8b-4bd0d5e94f0b",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/193e0eb1-d6af-41d4-bb8b-4bd0d5e94f0b.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "kapiltest1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "5952464c-ade5-4ad3-93be-5c8fb68d33f5",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/5952464c-ade5-4ad3-93be-5c8fb68d33f5.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "kapiltest2",
+      "Page-Type": "Modular Page",
+      "Page-ID": "4d6048aa-004c-4ace-869a-34a47aa977c5",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/4d6048aa-004c-4ace-869a-34a47aa977c5.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "kapiltest4",
+      "Page-Type": "Modular Page",
+      "Page-ID": "82184f0d-f2ec-4f3d-a4dd-36f755695837",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/82184f0d-f2ec-4f3d-a4dd-36f755695837.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Sumittest2",
+      "Page-Type": "Modular Page",
+      "Page-ID": "867c8892-4117-436e-b44e-4d36a6c1b992",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/867c8892-4117-436e-b44e-4d36a6c1b992.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Sumittest3",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1a51d699-7a40-482e-bcd8-db811b0dec4e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1a51d699-7a40-482e-bcd8-db811b0dec4e.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "sumittest4",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1ef9fdc6-ca04-4cff-ae01-62bdf5ba5368",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1ef9fdc6-ca04-4cff-ae01-62bdf5ba5368.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "TestBB",
+      "Page-Type": "Modular Page",
+      "Page-ID": "31bfd84a-67ad-49a0-87da-758a0f64ed25",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/31bfd84a-67ad-49a0-87da-758a0f64ed25.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "testkapil",
+      "Page-Type": "Modular Page",
+      "Page-ID": "98ee0f7b-e80d-4bc5-980b-60ad6b8b6d73",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/98ee0f7b-e80d-4bc5-980b-60ad6b8b6d73.json?version=0.0.18",
+      "Page-API": "/content/pages",
+      "version": "0.0.18",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "testkapil1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "4d6480ea-da53-4dd7-b5d9-630b2b0e3f12",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/4d6480ea-da53-4dd7-b5d9-630b2b0e3f12.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "testkapiltest",
+      "Page-Type": "Modular Page",
+      "Page-ID": "3f462ef2-cae6-471a-ab7a-c09c6cca284b",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/3f462ef2-cae6-471a-ab7a-c09c6cca284b.json?version=0.0.22",
+      "Page-API": "/content/pages",
+      "version": "0.0.22",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "pKZafhbFuMpKZafhbFuMpKZafhbFuMpKZafhbFuM",
+      "Page-Type": "Modular Page",
+      "Page-ID": "2c1db118-ae87-4c23-919a-bd3618f33cec",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/2c1db118-ae87-4c23-919a-bd3618f33cec.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "deletetest",
+      "Page-Type": "Modular Page",
+      "Page-ID": "7d4b7d20-8625-440e-b7a4-08cf82eba982",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/7d4b7d20-8625-440e-b7a4-08cf82eba982.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Promotional Offer September 2019",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "5641ef25-e181-4c99-9b23-ae0f167e4247",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/5641ef25-e181-4c99-9b23-ae0f167e4247.json?version=0.0.35",
+      "Page-API": "/content/pages",
+      "version": "0.0.35",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Plantest",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "0ef5d48b-41ef-4eba-a076-81195f79f82c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/0ef5d48b-41ef-4eba-a076-81195f79f82c.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "testpageStripe",
+      "Page-Type": "Modular Page",
+      "Page-ID": "aaf73807-c88c-459f-a35b-746d88543d5f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/aaf73807-c88c-459f-a35b-746d88543d5f.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Tardis",
+      "Page-Type": "Modular Page",
+      "Page-ID": "6138a1c8-0c5d-480b-9b6c-932ab9cfb1f6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/6138a1c8-0c5d-480b-9b6c-932ab9cfb1f6.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Show Detail Page",
+      "Page-Type": "Show Template Page",
+      "Page-ID": "eb37e63c-e88f-4a8e-953c-b3ba92a18839",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/eb37e63c-e88f-4a8e-953c-b3ba92a18839.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Byomkesh Page (GB)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f8de5b7a-f72a-47ea-889e-549807238618",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f8de5b7a-f72a-47ea-889e-549807238618.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Shashank (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f37af644-3102-4417-880e-095e4353adfb",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f37af644-3102-4417-880e-095e4353adfb.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Mac",
+      "Page-Type": "Modular Page",
+      "Page-ID": "3098cfef-7a7b-456b-ae3a-55bf2d09267c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/3098cfef-7a7b-456b-ae3a-55bf2d09267c.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "geoTargetedPageIds": {
+        "default": "3098cfef-7a7b-456b-ae3a-55bf2d09267c",
+        "IN": "f5652afb-3e46-4136-93b7-eaa4da45861c",
+        "GB": "d24a61b8-bfd2-4158-830c-6d67c35cc42d"
+      },
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Mac (IN)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f5652afb-3e46-4136-93b7-eaa4da45861c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f5652afb-3e46-4136-93b7-eaa4da45861c.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "Mac (GB)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d24a61b8-bfd2-4158-830c-6d67c35cc42d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d24a61b8-bfd2-4158-830c-6d67c35cc42d.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": null,
+      "isFixedFocus": null
+    },
+    {
+      "Page-Name": "PhotoGallery Detail Page",
+      "Page-Type": "PhotoGallery Template Page",
+      "Page-ID": "d8382ed7-9738-40a7-9efe-38619bd42562",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d8382ed7-9738-40a7-9efe-38619bd42562.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "home11",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c0dced06-e363-444c-b2e7-8a17f831c556",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c0dced06-e363-444c-b2e7-8a17f831c556.json?version=0.0.103",
+      "Page-API": "/content/pages",
+      "version": "0.0.103",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "OTP Verification Screen",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "5352b4fa-6ec5-4a64-8820-e506efc62751",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/5352b4fa-6ec5-4a64-8820-e506efc62751.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Phone Update Screen",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "867e43cd-085e-4629-88f5-6d93255e50a5",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/867e43cd-085e-4629-88f5-6d93255e50a5.json?version=0.0.34",
+      "Page-API": "/content/pages",
+      "version": "0.0.34",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "testStyle1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c1d68361-3d85-410d-8e79-6ce64af22886",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c1d68361-3d85-410d-8e79-6ce64af22886.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Sign In With Mobile",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "e4bdbe64-8feb-4c07-9fb1-33e8a031d063",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e4bdbe64-8feb-4c07-9fb1-33e8a031d063.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "navi1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "87cf5e48-536e-4208-851b-66cbb3903e8e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/87cf5e48-536e-4208-851b-66cbb3903e8e.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "navi01",
+      "Page-Type": "Modular Page",
+      "Page-ID": "03bdded0-9cdf-4588-95fc-a7f3b43433a0",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/03bdded0-9cdf-4588-95fc-a7f3b43433a0.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "navi",
+      "Page-Type": "Modular Page",
+      "Page-ID": "58a5c150-2e9e-4ce5-b50b-f524933ed4c7",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/58a5c150-2e9e-4ce5-b50b-f524933ed4c7.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "navi001",
+      "Page-Type": "Modular Page",
+      "Page-ID": "bde09dea-c6ad-4383-836c-4eea79d82c66",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/bde09dea-c6ad-4383-836c-4eea79d82c66.json?version=0.0.45",
+      "Page-API": "/content/pages",
+      "version": "0.0.45",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "User Preference Screen",
+      "Page-Type": "System Screen",
+      "Page-ID": "8c5a5a61-830d-4347-9fb2-8c844d0a6d63",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8c5a5a61-830d-4347-9fb2-8c844d0a6d63.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Language",
+      "Page-Type": "User Page",
+      "Page-ID": "60246b19-d6ff-41f3-9913-0e707d261d39",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/60246b19-d6ff-41f3-9913-0e707d261d39.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "pageFn": "Language Settings",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "TESTMS",
+      "Page-Type": "Modular Page",
+      "Page-ID": "367c3e4c-2c01-49f0-8420-775eaa70976f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/367c3e4c-2c01-49f0-8420-775eaa70976f.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Freshchat Contact Us",
+      "Page-Type": "ContactUs Page",
+      "Page-ID": "cbb87f62-a5e6-495e-8467-3fc528252125",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/cbb87f62-a5e6-495e-8467-3fc528252125.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "FreshChat Contact Us Page",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "f98bf20b-11c4-4c6c-8312-844ebe371131",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f98bf20b-11c4-4c6c-8312-844ebe371131.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "genre1",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d4fd5b48-2a05-4d34-a4a3-e3fe2f027a79",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d4fd5b48-2a05-4d34-a4a3-e3fe2f027a79.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "genre2",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9a9fa8c6-86d5-44fa-bf1b-1324c5ae0337",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9a9fa8c6-86d5-44fa-bf1b-1324c5ae0337.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Home1 (IN)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1d7cf5b7-c10e-414a-8a19-a8995daa9678",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1d7cf5b7-c10e-414a-8a19-a8995daa9678.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Show (NL)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "2069c292-02e8-47f0-8827-7dd5b69bc4da",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/2069c292-02e8-47f0-8827-7dd5b69bc4da.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Accordion (AF)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9b2d75a9-1437-4ae2-9032-c45836038e93",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/9b2d75a9-1437-4ae2-9032-c45836038e93.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Accordion (AL)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "8fa7ca0c-4aeb-42b8-ba0f-ea2f89b7af21",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8fa7ca0c-4aeb-42b8-ba0f-ea2f89b7af21.json?version=0.0.14",
+      "Page-API": "/content/pages",
+      "version": "0.0.14",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Accordion (AS)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "517c9517-ef69-48e9-99db-bbafbfdb1851",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/517c9517-ef69-48e9-99db-bbafbfdb1851.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Accordion (AR)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "07e22454-4773-4283-a72a-a135a2f3dce0",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/07e22454-4773-4283-a72a-a135a2f3dce0.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Test-Lakshay",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1959aa74-3bba-4f6f-afe3-652b7d2e5e22",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1959aa74-3bba-4f6f-afe3-652b7d2e5e22.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "TB Test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "804e15b8-cf12-412a-8226-e48bbb409a0b",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/804e15b8-cf12-412a-8226-e48bbb409a0b.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Home Page435 (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "681a1922-3127-4ec7-96e1-5800e296a528",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/681a1922-3127-4ec7-96e1-5800e296a528.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "home22",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ab806809-78a2-40b0-8fb8-c1d4fa77ad4f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ab806809-78a2-40b0-8fb8-c1d4fa77ad4f.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Movies",
+      "Page-Type": "Modular Page",
+      "Page-ID": "76897c59-3f23-47ca-b5fc-511131cfd97c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/76897c59-3f23-47ca-b5fc-511131cfd97c.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Recommendation Test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "79019f8c-d065-47bb-a319-0e1a65790220",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/79019f8c-d065-47bb-a319-0e1a65790220.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "rec2",
+      "Page-Type": "Modular Page",
+      "Page-ID": "56b9b1ff-78cd-4d7a-a107-608169bdfe96",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/56b9b1ff-78cd-4d7a-a107-608169bdfe96.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "sumitgeo",
+      "Page-Type": "Modular Page",
+      "Page-ID": "37041b06-863f-4cf9-8e6d-472d3cb006f2",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/37041b06-863f-4cf9-8e6d-472d3cb006f2.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "geoTargetedPageIds": {
+        "default": "37041b06-863f-4cf9-8e6d-472d3cb006f2",
+        "US": "c87af439-2077-48de-ad90-302525aa9fd4"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "sumitgeo (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c87af439-2077-48de-ad90-302525aa9fd4",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/c87af439-2077-48de-ad90-302525aa9fd4.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Argentina",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f4347e0d-429a-4095-860a-69e5e2493dcf",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f4347e0d-429a-4095-860a-69e5e2493dcf.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "geoTargetedPageIds": {
+        "AR": "63348409-85b3-4cc9-b7c4-503e3c4b1ab0",
+        "default": "f4347e0d-429a-4095-860a-69e5e2493dcf"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "module test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "1f61a458-470d-4265-93ad-ccb997268ea0",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/1f61a458-470d-4265-93ad-ccb997268ea0.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "lakshay-test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "0794c631-9441-4666-919c-6fcb696e6f70",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/0794c631-9441-4666-919c-6fcb696e6f70.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "test-lak",
+      "Page-Type": "Modular Page",
+      "Page-ID": "03f8a2cf-4774-4117-a65f-9a6147b46220",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/03f8a2cf-4774-4117-a65f-9a6147b46220.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "event test",
+      "Page-Type": "Modular Page",
+      "Page-ID": "cfcf41bf-61e8-4925-a47c-a96dd95771f6",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/cfcf41bf-61e8-4925-a47c-a96dd95771f6.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Live Test RTMP",
+      "Page-Type": "Modular Page",
+      "Page-ID": "6c2acb69-1292-44cd-a624-ba82441d8232",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/6c2acb69-1292-44cd-a624-ba82441d8232.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "test-lakshya",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d4344486-3dc9-4fa4-8dfa-cb5e7798aa6e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/d4344486-3dc9-4fa4-8dfa-cb5e7798aa6e.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "MiTv plans",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "e3764487-e6e3-4a8e-b781-42577a75a129",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e3764487-e6e3-4a8e-b781-42577a75a129.json?version=0.0.23",
+      "Page-API": "/content/pages",
+      "version": "0.0.23",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "SomePage",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b3a448cf-2167-4f41-8d19-16894d2e3706",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b3a448cf-2167-4f41-8d19-16894d2e3706.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Activate Device",
+      "Page-Type": "Modular Page",
+      "Page-ID": "48c987a7-0280-49dc-a1ab-4340e4edaa9e",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/48c987a7-0280-49dc-a1ab-4340e4edaa9e.json?version=0.0.17",
+      "Page-API": "/content/pages",
+      "version": "0.0.17",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Test-TB-11",
+      "Page-Type": "Modular Page",
+      "Page-ID": "3bb3a576-41e2-4e41-a62c-709ea47e27ab",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/3bb3a576-41e2-4e41-a62c-709ea47e27ab.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Home Page435 (GB)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "040a98d1-7643-45d3-a9e5-1335f177b533",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/040a98d1-7643-45d3-a9e5-1335f177b533.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Test Test Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "281db994-2358-402d-9451-ea2bd45714e7",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/281db994-2358-402d-9451-ea2bd45714e7.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "13 july",
+      "Page-Type": "Modular Page",
+      "Page-ID": "76af0eab-bec5-4c58-8e7a-f5913dd3939b",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/76af0eab-bec5-4c58-8e7a-f5913dd3939b.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "TestTb15",
+      "Page-Type": "Modular Page",
+      "Page-ID": "53cef099-a842-4106-a02f-71c1bd09c316",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/53cef099-a842-4106-a02f-71c1bd09c316.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "External Browser Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "17b352c9-0336-4f8d-bce2-202c21486914",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/17b352c9-0336-4f8d-bce2-202c21486914.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Refer and Earn",
+      "Page-Type": "Modular Page",
+      "Page-ID": "75ea0fbe-bb2b-45e8-97d2-d59a69b529d1",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/75ea0fbe-bb2b-45e8-97d2-d59a69b529d1.json?version=0.0.55",
+      "Page-API": "/content/pages",
+      "version": "0.0.55",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "image opt",
+      "Page-Type": "Modular Page",
+      "Page-ID": "6c6d55b2-44cc-4e37-9f18-fe19567d8186",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/6c6d55b2-44cc-4e37-9f18-fe19567d8186.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "testplan",
+      "Page-Type": "Modular Page",
+      "Page-ID": "7ec2e30d-1fa4-4679-b0c5-094d42642258",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/7ec2e30d-1fa4-4679-b0c5-094d42642258.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "1octtest",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f646909d-3073-415a-b76a-5706d99aa659",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/f646909d-3073-415a-b76a-5706d99aa659.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "pentest",
+      "Page-Type": "Modular Page",
+      "Page-ID": "25950823-c949-48f3-a688-d243dd42114d",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/25950823-c949-48f3-a688-d243dd42114d.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Free",
+      "Page-Type": "Modular Page",
+      "Page-ID": "8d261e8f-64fe-4059-88c3-23419ceac567",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/8d261e8f-64fe-4059-88c3-23419ceac567.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Entitlement Screen",
+      "Page-Type": "System Screen",
+      "Page-ID": "e577c87e-e900-4246-927f-24052177b2a8",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e577c87e-e900-4246-927f-24052177b2a8.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "pageFn": "Entitlement Screen",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Referral View Plans",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "263f621e-13e7-43ac-8e34-02d671294b3c",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/263f621e-13e7-43ac-8e34-02d671294b3c.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "R&E terms and conditions",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "456e4bd6-c6b4-4d82-bff2-771bf15c6e16",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/456e4bd6-c6b4-4d82-bff2-771bf15c6e16.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "refer and earn terms and conditions",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "ec855b66-f5aa-4367-b7a8-bc4019b28447",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/ec855b66-f5aa-4367-b7a8-bc4019b28447.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "revamp-home",
+      "Page-Type": "Modular Page",
+      "Page-ID": "eeb334ac-0a20-42f2-9329-1e1f54550e43",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/eeb334ac-0a20-42f2-9329-1e1f54550e43.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Vamp-Home",
+      "Page-Type": "Modular Page",
+      "Page-ID": "3385ad06-ed4d-419a-a54b-1391ee7d38f2",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/3385ad06-ed4d-419a-a54b-1391ee7d38f2.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Vamp-Movies",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e9b1a09a-a8ca-4bce-b35c-8238b89ddb05",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e9b1a09a-a8ca-4bce-b35c-8238b89ddb05.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Vamp-shows",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b32c987b-1024-4d81-90b0-7e8ab9ca1d3f",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/b32c987b-1024-4d81-90b0-7e8ab9ca1d3f.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Vamp Live",
+      "Page-Type": "Modular Page",
+      "Page-ID": "32632e28-8700-416b-9f59-3ddfd784fa39",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/32632e28-8700-416b-9f59-3ddfd784fa39.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Vamp Free",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e0f4198b-c62d-4a5a-88a0-c6d2ac6b77b8",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/e0f4198b-c62d-4a5a-88a0-c6d2ac6b77b8.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "embedissues",
+      "Page-Type": "Modular Page",
+      "Page-ID": "424ba8d2-7b98-4511-92d3-bf9500cd3c81",
+      "Page-UI": "https://appcmsstaging.viewlift.com/57e4b76f-6168-41af-bdd8-c76a2e5bf798/android/424ba8d2-7b98-4511-92d3-bf9500cd3c81.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    }
+  ],
+  "appName": "HoichoiTestApp",
+  "shortAppName": "Hoichoi",
+  "getSocialAppId": "g8y6exb8dn5",
+  "notifications": {
+    "urbanAirship": {
+      "key": {
+        "dev": "Test1_Android",
+        "prod": "Test1_Android"
+      }
+    }
+  },
+  "advertising": {
+    "videoTag": "https://pubads.g.doubleclick.net/gampad/ads?slotname=/4930/myoutdoortv/android&sz=640x480&ciu_szs=&unviewed_position_start=1&output=xml_vast3&impl=s&env=vp&gdfp_req=1&ad_rule=0&vad_type=linear&vpos=preroll&pod=1&ppos=1&lip=true&min_ad_dur",
+    "adProvider": "googleAdTags"
+  },
+  "blocks": [
+    {
+      "name": "appSetting01",
+      "version": "2"
+    },
+    {
+      "name": "appSetting02",
+      "version": "2"
+    },
+    {
+      "name": "articleDetail01",
+      "version": "0"
+    },
+    {
+      "name": "audioDetail01",
+      "version": "0"
+    },
+    {
+      "name": "authentication01",
+      "version": "3"
+    },
+    {
+      "name": "authentication01_activate_device",
+      "version": "0"
+    },
+    {
+      "name": "authentication02",
+      "version": "3"
+    },
+    {
+      "name": "authentication03",
+      "version": "0"
+    },
+    {
+      "name": "authentication04",
+      "version": "3"
+    },
+    {
+      "name": "authentication05",
+      "version": "0"
+    },
+    {
+      "name": "authentication07",
+      "version": "1"
+    },
+    {
+      "name": "authentication08",
+      "version": "2"
+    },
+    {
+      "name": "authentication09",
+      "version": "2"
+    },
+    {
+      "name": "authentication10",
+      "version": "2"
+    },
+    {
+      "name": "authentication11",
+      "version": "0"
+    },
+    {
+      "name": "authentication12",
+      "version": "0"
+    },
+    {
+      "name": "authentication14",
+      "version": "2"
+    },
+    {
+      "name": "authentication17",
+      "version": "6"
+    },
+    {
+      "name": "signin01",
+      "version": "0"
+    },
+    {
+      "name": "signup01",
+      "version": "0"
+    },
+    {
+      "name": "autoPlay01",
+      "version": "3"
+    },
+    {
+      "name": "autoPlay02",
+      "version": "3"
+    },
+    {
+      "name": "autoPlay03",
+      "version": "3"
+    },
+    {
+      "name": "autoPlay04",
+      "version": "1"
+    },
+    {
+      "name": "boostSelectPlan01",
+      "version": "0"
+    },
+    {
+      "name": "boostSelectPlan02",
+      "version": "0"
+    },
+    {
+      "name": "bundleDetail01",
+      "version": "1"
+    },
+    {
+      "name": "carousel01",
+      "version": "0"
+    },
+    {
+      "name": "carousel02",
+      "version": "3"
+    },
+    {
+      "name": "carousel03",
+      "version": "0"
+    },
+    {
+      "name": "carousel04",
+      "version": "6"
+    },
+    {
+      "name": "carousel05",
+      "version": "0"
+    },
+    {
+      "name": "carousel07",
+      "version": "3"
+    },
+    {
+      "name": "carousel08",
+      "version": "1"
+    },
+    {
+      "name": "carouselWithList01",
+      "version": "0"
+    },
+    {
+      "name": "eventCarousel01",
+      "version": "0"
+    },
+    {
+      "name": "eventCarousel02",
+      "version": "0"
+    },
+    {
+      "name": "eventCarousel03",
+      "version": "0"
+    },
+    {
+      "name": "eventCarousel04",
+      "version": "3"
+    },
+    {
+      "name": "fullWidthCarousel01",
+      "version": "3"
+    },
+    {
+      "name": "categoryDetail01",
+      "version": "3"
+    },
+    {
+      "name": "categoryDetail02",
+      "version": "0"
+    },
+    {
+      "name": "contactUs01",
+      "version": "0"
+    },
+    {
+      "name": "contactUs02",
+      "version": "0"
+    },
+    {
+      "name": "container75",
+      "version": "3"
+    },
+    {
+      "name": "contentBlock01",
+      "version": "1"
+    },
+    {
+      "name": "contentBlock02",
+      "version": "1"
+    },
+    {
+      "name": "imageTextRow01",
+      "version": "0"
+    },
+    {
+      "name": "imageTextRow02",
+      "version": "0"
+    },
+    {
+      "name": "list01",
+      "version": "0"
+    },
+    {
+      "name": "rawHtml01",
+      "version": "0"
+    },
+    {
+      "name": "richText01",
+      "version": "3"
+    },
+    {
+      "name": "standaloneVideoPlayer01",
+      "version": "3"
+    },
+    {
+      "name": "standaloneVideoPlayer02",
+      "version": "3"
+    },
+    {
+      "name": "standaloneVideoPlayer04",
+      "version": "1"
+    },
+    {
+      "name": "webFrame01",
+      "version": "0"
+    },
+    {
+      "name": "webFrame02",
+      "version": "0"
+    },
+    {
+      "name": "webFrame03",
+      "version": "0"
+    },
+    {
+      "name": "contentRatingWarning01",
+      "version": "0"
+    },
+    {
+      "name": "continueWatching01",
+      "version": "3"
+    },
+    {
+      "name": "continueWatching02",
+      "version": "3"
+    },
+    {
+      "name": "continueWatching03",
+      "version": "3"
+    },
+    {
+      "name": "newsContinueWatching01",
+      "version": "1"
+    },
+    {
+      "name": "dialogOptions01",
+      "version": "0"
+    },
+    {
+      "name": "bannerAd01",
+      "version": "3"
+    },
+    {
+      "name": "mediumRectangleAd01",
+      "version": "0"
+    },
+    {
+      "name": "pushdownAd01",
+      "version": "0"
+    },
+    {
+      "name": "downloads01",
+      "version": "1"
+    },
+    {
+      "name": "downloads02",
+      "version": "0"
+    },
+    {
+      "name": "downloads03",
+      "version": "0"
+    },
+    {
+      "name": "emailSubscribe01",
+      "version": "3"
+    },
+    {
+      "name": "epgFeed01",
+      "version": "1"
+    },
+    {
+      "name": "epgFeed02",
+      "version": "1"
+    },
+    {
+      "name": "equipment01",
+      "version": "0"
+    },
+    {
+      "name": "eventCalendar01",
+      "version": "0"
+    },
+    {
+      "name": "eventDetail01",
+      "version": "0"
+    },
+    {
+      "name": "fightDetail01",
+      "version": "0"
+    },
+    {
+      "name": "fighterRoster01",
+      "version": "0"
+    },
+    {
+      "name": "following01",
+      "version": "0"
+    },
+    {
+      "name": "footer01",
+      "version": "0"
+    },
+    {
+      "name": "footer02",
+      "version": "0"
+    },
+    {
+      "name": "footer03",
+      "version": "0"
+    },
+    {
+      "name": "fullscreenWebframe01",
+      "version": "0"
+    },
+    {
+      "name": "gameDetail01",
+      "version": "3"
+    },
+    {
+      "name": "gameDetail02",
+      "version": "2"
+    },
+    {
+      "name": "gameDetail03",
+      "version": "2"
+    },
+    {
+      "name": "articleFeed01",
+      "version": "3"
+    },
+    {
+      "name": "articleGrid01",
+      "version": "3"
+    },
+    {
+      "name": "grid01",
+      "version": "3"
+    },
+    {
+      "name": "grid02",
+      "version": "3"
+    },
+    {
+      "name": "grid03",
+      "version": "3"
+    },
+    {
+      "name": "history01",
+      "version": "0"
+    },
+    {
+      "name": "history02",
+      "version": "0"
+    },
+    {
+      "name": "history03",
+      "version": "2"
+    },
+    {
+      "name": "history04",
+      "version": "3"
+    },
+    {
+      "name": "library01",
+      "version": "3"
+    },
+    {
+      "name": "library02",
+      "version": "4"
+    },
+    {
+      "name": "linkAccount01",
+      "version": "0"
+    },
+    {
+      "name": "loginHardwall01",
+      "version": "0"
+    },
+    {
+      "name": "banner01",
+      "version": "0"
+    },
+    {
+      "name": "banner02",
+      "version": "0"
+    },
+    {
+      "name": "masthead01",
+      "version": "0"
+    },
+    {
+      "name": "masthead02",
+      "version": "0"
+    },
+    {
+      "name": "pageLink01",
+      "version": "3"
+    },
+    {
+      "name": "personDetail01",
+      "version": "3"
+    },
+    {
+      "name": "personDetail02",
+      "version": "0"
+    },
+    {
+      "name": "personDetail03",
+      "version": "3"
+    },
+    {
+      "name": "personList01",
+      "version": "2"
+    },
+    {
+      "name": "photoGalleryDetail01",
+      "version": "0"
+    },
+    {
+      "name": "playlistDetail01",
+      "version": "0"
+    },
+    {
+      "name": "videoPlaylistDetail01",
+      "version": "0"
+    },
+    {
+      "name": "newsRecommendation01",
+      "version": "1"
+    },
+    {
+      "name": "recommendPopular01",
+      "version": "3"
+    },
+    {
+      "name": "recommendation01",
+      "version": "3"
+    },
+    {
+      "name": "userPersonalization01",
+      "version": "1"
+    },
+    {
+      "name": "redeemOffer01",
+      "version": "0"
+    },
+    {
+      "name": "rhinoco01",
+      "version": "0"
+    },
+    {
+      "name": "scheduleTray01",
+      "version": "0"
+    },
+    {
+      "name": "filter01",
+      "version": "0"
+    },
+    {
+      "name": "filter02",
+      "version": "0"
+    },
+    {
+      "name": "search01",
+      "version": "3"
+    },
+    {
+      "name": "search02",
+      "version": "0"
+    },
+    {
+      "name": "search03",
+      "version": "0"
+    },
+    {
+      "name": "search04",
+      "version": "3"
+    },
+    {
+      "name": "seasonTray01",
+      "version": "0"
+    },
+    {
+      "name": "seasonTray02",
+      "version": "0"
+    },
+    {
+      "name": "showDetail01",
+      "version": "3"
+    },
+    {
+      "name": "showDetail02",
+      "version": "0"
+    },
+    {
+      "name": "showDetail03",
+      "version": "0"
+    },
+    {
+      "name": "showDetail04",
+      "version": "0"
+    },
+    {
+      "name": "showDetail05",
+      "version": "0"
+    },
+    {
+      "name": "showDetail06",
+      "version": "3"
+    },
+    {
+      "name": "showDetail07",
+      "version": "3"
+    },
+    {
+      "name": "showDetail08",
+      "version": "1"
+    },
+    {
+      "name": "smallEventCalendar01",
+      "version": "0"
+    },
+    {
+      "name": "splashPage01",
+      "version": "0"
+    },
+    {
+      "name": "splashScreen01",
+      "version": "0"
+    },
+    {
+      "name": "splashScreen02",
+      "version": "0"
+    },
+    {
+      "name": "subNav01",
+      "version": "0"
+    },
+    {
+      "name": "selectPlan01",
+      "version": "3"
+    },
+    {
+      "name": "selectPlan02",
+      "version": "3"
+    },
+    {
+      "name": "selectPlan03",
+      "version": "3"
+    },
+    {
+      "name": "selectPlan04",
+      "version": "0"
+    },
+    {
+      "name": "selectPlan06",
+      "version": "2"
+    },
+    {
+      "name": "subscriptionDetail01",
+      "version": "0"
+    },
+    {
+      "name": "teamDetail01",
+      "version": "0"
+    },
+    {
+      "name": "teamRoster01",
+      "version": "0"
+    },
+    {
+      "name": "teamSchedule01",
+      "version": "0"
+    },
+    {
+      "name": "teamSchedule02",
+      "version": "2"
+    },
+    {
+      "name": "teamStats01",
+      "version": "0"
+    },
+    {
+      "name": "teamStats02",
+      "version": "2"
+    },
+    {
+      "name": "tickerFeed01",
+      "version": "0"
+    },
+    {
+      "name": "articleTray01",
+      "version": "3"
+    },
+    {
+      "name": "audioTray01",
+      "version": "3"
+    },
+    {
+      "name": "brandTray01",
+      "version": "3"
+    },
+    {
+      "name": "instructorTray01",
+      "version": "0"
+    },
+    {
+      "name": "newsTray02",
+      "version": "3"
+    },
+    {
+      "name": "previewTray01",
+      "version": "3"
+    },
+    {
+      "name": "tray01",
+      "version": "3"
+    },
+    {
+      "name": "tray02",
+      "version": "3"
+    },
+    {
+      "name": "tray03",
+      "version": "3"
+    },
+    {
+      "name": "tray04",
+      "version": "3"
+    },
+    {
+      "name": "tray05",
+      "version": "3"
+    },
+    {
+      "name": "tray06",
+      "version": "3"
+    },
+    {
+      "name": "tray07",
+      "version": "3"
+    },
+    {
+      "name": "tray08",
+      "version": "3"
+    },
+    {
+      "name": "tray11",
+      "version": "3"
+    },
+    {
+      "name": "tray12",
+      "version": "3"
+    },
+    {
+      "name": "tray13",
+      "version": "1"
+    },
+    {
+      "name": "trayFeaturedVideo01",
+      "version": "3"
+    },
+    {
+      "name": "tvProvider01",
+      "version": "0"
+    },
+    {
+      "name": "personalization01",
+      "version": "0"
+    },
+    {
+      "name": "personalization02",
+      "version": "0"
+    },
+    {
+      "name": "createPassword01",
+      "version": "0"
+    },
+    {
+      "name": "createPassword02",
+      "version": "2"
+    },
+    {
+      "name": "downloadSettings01",
+      "version": "3"
+    },
+    {
+      "name": "languageSettings01",
+      "version": "3"
+    },
+    {
+      "name": "profile02",
+      "version": "0"
+    },
+    {
+      "name": "profile03",
+      "version": "0"
+    },
+    {
+      "name": "resetPassword01",
+      "version": "0"
+    },
+    {
+      "name": "resetPassword03",
+      "version": "3"
+    },
+    {
+      "name": "userManagement01",
+      "version": "3"
+    },
+    {
+      "name": "userManagement02",
+      "version": "0"
+    },
+    {
+      "name": "userManagement03",
+      "version": "3"
+    },
+    {
+      "name": "userManagement04",
+      "version": "3"
+    },
+    {
+      "name": "userManagement05",
+      "version": "3"
+    },
+    {
+      "name": "userProfile01",
+      "version": "2"
+    },
+    {
+      "name": "videoInfo01",
+      "version": "0"
+    },
+    {
+      "name": "videoPlayer01",
+      "version": "0"
+    },
+    {
+      "name": "videoPlayerInfo01",
+      "version": "3"
+    },
+    {
+      "name": "videoPlayerInfo01__TEMP__NO_STARS",
+      "version": "0"
+    },
+    {
+      "name": "videoPlayerInfo01_temp_withoutdownload",
+      "version": "0"
+    },
+    {
+      "name": "videoPlayerInfo02",
+      "version": "3"
+    },
+    {
+      "name": "videoPlayerInfo03",
+      "version": "3"
+    },
+    {
+      "name": "videoPlayerInfo04",
+      "version": "0"
+    },
+    {
+      "name": "videoPlayerInfo06",
+      "version": "2"
+    },
+    {
+      "name": "watchlist01",
+      "version": "0"
+    },
+    {
+      "name": "watchlist02",
+      "version": "3"
+    },
+    {
+      "name": "watchlist03",
+      "version": "3"
+    },
+    {
+      "name": "watchlist04",
+      "version": "2"
+    },
+    {
+      "name": "weatherTray01",
+      "version": "0"
+    }
+  ],
+  "blocksVersion": "37",
+  "version": "0.13088.0",
+  "blocksBundleUrl": "https://appcmsstaging.viewlift.com/template-builder/blocksBundle/android.json",
+  "blocksBaseUrl": "https://appcmsstaging.viewlift.com/template-builder/blocks",
+  "pagesUpdated": 1608809477000
+}

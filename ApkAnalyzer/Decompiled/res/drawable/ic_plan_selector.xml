@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="339.0dip" android:width="98.0dip" android:stackViewStyle="98.0" android:numberPickerStyle="339.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:timePickerStyle="@drawable/$ic_plan_selector__0" android:activityChooserViewStyle="M79,2c4.694,0 8.944,1.903 12.02,4.98C94.098,10.055 96,14.305 96,19h0v301c0,4.694 -1.903,8.944 -4.98,12.02C87.945,335.098 83.695,337 79,337h0,-60c-4.694,0 -8.944,-1.903 -12.02,-4.98C3.902,328.945 2,324.695 2,320h0L2,19c0,-4.694 1.903,-8.944 4.98,-12.02C10.055,3.902 14.305,2 19,2h0z" android:actionModeShareDrawable="#ffd20820" android:actionModeFindDrawable="4.0" android:fillType="1" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M79,3c4.418,0 8.418,1.79 11.314,4.686C93.209,10.582 95,14.582 95,19h0v301c0,4.418 -1.79,8.418 -4.686,11.314C87.418,334.209 83.418,336 79,336h0,-60c-4.418,0 -8.418,-1.79 -11.314,-4.686C4.791,328.418 3,324.418 3,320h0L3,19c0,-4.418 1.79,-8.418 4.686,-11.314C10.582,4.791 14.582,3 19,3h0z" android:actionModeShareDrawable="#ff151619" android:actionModeFindDrawable="2.0" android:fillType="1" />
+</vector>

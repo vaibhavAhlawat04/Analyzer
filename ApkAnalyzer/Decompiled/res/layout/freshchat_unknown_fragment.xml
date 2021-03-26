@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/freshchat_message_unknown_bg" android:padding="12.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView style="?freshchatUnsupportedMessageIconStyle" />
+    <TextView android:gravity="start" android:id="@id/freshchat_unknown_fragment_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="firstStrong" android:textAlignment="viewStart" />
+</LinearLayout>

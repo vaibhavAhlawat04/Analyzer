@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:freshapp="http://schemas.android.com/apk/res-auto">
+    <item android:icon="?freshchatSearchIcon" android:id="@id/freshchat_menu_item_search_faq" android:title="@string/freshchat_menu_item_search_faqs" freshapp:showAsAction="always" />
+    <item android:icon="?freshchatContactUsIcon" android:id="@id/freshchat_menu_item_contact_us" android:title="@string/freshchat_menu_item_contact_us" freshapp:showAsAction="always" />
+</menu>

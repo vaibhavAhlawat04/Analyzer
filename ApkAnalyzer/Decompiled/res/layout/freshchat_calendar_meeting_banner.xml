@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Widget.Freshchat.CalendarMeetingBannerContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatImageView style="@style/Widget.Freshchat.CalendarMeetingBannerIndicator" />
+    <androidx.appcompat.widget.AppCompatTextView android:id="@id/freshchat_meeting_banner_date_text" style="?freshchatCalendarBannerMeetingDateTextStyle" />
+    <androidx.appcompat.widget.AppCompatTextView android:text="@string/freshchat_calendar_meeting_banner_view_btn" style="?freshchatCalendarBannerMeetingViewTextStyle" />
+</LinearLayout>

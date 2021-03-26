@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="100.0dip" android:width="157.0dip" android:stackViewStyle="157.0" android:numberPickerStyle="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:timePickerStyle="@drawable/$ic_movies_bg__0" android:activityChooserViewStyle="M10,0L147,0A10,10 0,0 1,157 10L157,90A10,10 0,0 1,147 100L10,100A10,10 0,0 1,0 90L0,10A10,10 0,0 1,10 0z" android:fillType="1" />
+    <group>
+        <clip-path android:activityChooserViewStyle="M10,0L147,0A10,10 0,0 1,157 10L157,90A10,10 0,0 1,147 100L10,100A10,10 0,0 1,0 90L0,10A10,10 0,0 1,10 0z" />
+        <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M116.52,-10L163.301,-10A6.52,6.52 0,0 1,169.821 -3.48L169.821,43.301A6.52,6.52 0,0 1,163.301 49.821L116.52,49.821A6.52,6.52 0,0 1,110 43.301L110,-3.48A6.52,6.52 0,0 1,116.52 -10z" android:actionModeShareDrawable="#ffffffff" android:actionModeFindDrawable="4.0" android:preferencePanelStyle="1" android:preferenceHeaderPanelStyle="1" android:strokeAlpha="0.5" android:fillAlpha="0.5" android:fillType="1" />
+        <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M124.955,-10L124.955,49.821M154.865,-10L154.865,49.821M110,19.91L169.821,19.91M110,4.955L124.955,4.955M110,34.865L124.955,34.865M154.865,34.865L169.821,34.865M154.865,4.955L169.821,4.955" android:actionModeShareDrawable="#ffffffff" android:actionModeFindDrawable="4.0" android:preferencePanelStyle="1" android:preferenceHeaderPanelStyle="1" android:strokeAlpha="0.5" android:fillAlpha="0.5" android:fillType="1" />
+    </group>
+</vector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation app:startDestination="@id/splashFragment"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fragment android:name="com.viewlift.hoichoi.framework.presentation.splash.SplashFragment" android:id="@id/splashFragment">
+        <action android:id="@id/action_splashFragment_to_homePageFragment_all" app:destination="@id/homePageFragment_all" app:popUpTo="@id/splashFragment" app:popUpToInclusive="true" />
+    </fragment>
+    <fragment android:name="com.viewlift.hoichoi.framework.presentation.homepage.HomePageFragment" android:id="@id/homePageFragment_all">
+        <action android:id="@id/action_homepage_to_details_page" />
+    </fragment>
+</navigation>

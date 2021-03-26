@@ -1,0 +1,3268 @@
+{
+  "analytics": {
+    "googleAnalyticsId": "UA-93765235-1"
+  },
+  "subscription_flow_content": {
+    "overlay_message": "To continue watching, log in or subscribe now!",
+    "subscription_button_text": "Subscribe Now",
+    "login_button_text": "Log In"
+  },
+  "enablePayment": true,
+  "navigation": {
+    "settings": {
+      "primaryCta": {
+        "ctaText": "SUBSCRIBE NOW",
+        "loginCtaText": "LOGIN",
+        "logoutCtaText": "Log Out",
+        "displayedPath": "View Plans",
+        "placement": "Masthead",
+        "helloText": "Hello",
+        "pageId": "04abf479-c655-464d-b93b-7c88fc247b2b",
+        "url": "/viewplans"
+      },
+      "localizationMap": {
+        "en": {
+          "primaryCta": {
+            "ctaText": "SUBSCRIBE NOW",
+            "loginCtaText": "LOGIN",
+            "logoutCtaText": "Log Out",
+            "helloText": "Hello"
+          }
+        },
+        "bn": {
+          "primaryCta": {
+            "ctaText": "সাবস্ক্রাইব করুন",
+            "loginCtaText": "লগ ইন",
+            "logoutCtaText": "লগ আউট",
+            "helloText": "হ্যালো"
+          }
+        }
+      }
+    },
+    "footer": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "displayedPath": "https://www.hoichoi.tv/activate",
+        "title": "Activate Tv",
+        "localizationMap": {
+          "en": {
+            "title": "Activate Tv"
+          },
+          "bn": {
+            "title": "অ্যাক্টিভেট টিভি"
+          }
+        },
+        "pageId": "",
+        "url": "https://www.hoichoi.tv/activate",
+        "dragDropId": 24,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "metrological": false,
+          "tivo": false,
+          "xbox": false,
+          "ios": false,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-faq",
+        "displayedPath": "Frequently Asked Questions",
+        "title": "Help",
+        "localizationMap": {
+          "en": {
+            "title": "Help"
+          },
+          "bn": {
+            "title": "হেল্প"
+          }
+        },
+        "pageId": "056cfeca-ae23-4863-b24a-74e297d0b0e4",
+        "url": "/faq",
+        "dragDropId": 25,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": false,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-about",
+        "displayedPath": "https://hoichoi.gamezop.com/",
+        "title": "Games",
+        "localizationMap": {
+          "en": {
+            "title": "Games"
+          },
+          "bn": {
+            "title": "গেমস"
+          }
+        },
+        "pageId": "",
+        "url": "https://hoichoi.gamezop.com/",
+        "dragDropId": 28,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "metrological": false,
+          "tivo": false,
+          "xbox": false,
+          "ios": false,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      }
+    ],
+    "tabBar": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": {
+          "default": "4ed54c23-9ec0-40aa-a412-91c9ce19787b",
+          "BD": "f76b150f-cc81-4f2a-b6c9-e7e6d1372bac",
+          "US": "2cc119a4-29ad-4639-a68f-c7f8429fce96"
+        },
+        "icon": "icon-home",
+        "displayedPath": "Home Page",
+        "title": "Home",
+        "pageId": "4ed54c23-9ec0-40aa-a412-91c9ce19787b",
+        "localizationMap": {
+          "en": {
+            "title": "Home"
+          },
+          "bn": {
+            "title": "হোম"
+          }
+        },
+        "url": "/home",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        },
+        "dragDropId": 29
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": {
+          "default": "e097a2eb-9fcb-47aa-9c99-99684e391ba3",
+          "BD": "a71d66de-3727-4493-8d0f-cf92e2c4e7d5"
+        },
+        "icon": "icon-shows",
+        "displayedPath": "Shows Page",
+        "title": "Shows",
+        "pageId": "e097a2eb-9fcb-47aa-9c99-99684e391ba3",
+        "localizationMap": {
+          "bn": {
+            "title": "সিরিজ"
+          }
+        },
+        "url": "/shows",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        },
+        "dragDropId": 30
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": {
+          "default": "0002dccb-61b2-459e-833c-da9c239e1bfc",
+          "BD": "041e8330-c453-4263-95e0-e49dea1528f1"
+        },
+        "icon": "icon-movies",
+        "displayedPath": "Categories Page",
+        "title": "Movies",
+        "pageId": "0002dccb-61b2-459e-833c-da9c239e1bfc",
+        "localizationMap": {
+          "en": {
+            "title": "Movies"
+          },
+          "bn": {
+            "title": "ছবি"
+          }
+        },
+        "url": "/categories",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        },
+        "dragDropId": 31
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-live",
+        "displayedPath": "Free",
+        "title": "Free",
+        "localizationMap": {
+          "en": {
+            "title": "Free"
+          },
+          "bn": {
+            "title": "ফ্রি"
+          }
+        },
+        "pageId": "9604bb4c-9514-4652-9eb1-e1f207de1d5a",
+        "url": "/free",
+        "dragDropId": 32,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-menu",
+        "displayedPath": "Menu Screen",
+        "title": "Menu",
+        "pageId": "",
+        "localizationMap": {
+          "bn": {
+            "title": "মেনু"
+          }
+        },
+        "url": "Menu Screen",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        },
+        "dragDropId": 33
+      }
+    ],
+    "right": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-search",
+        "displayedPath": "Search Screen",
+        "title": "Search",
+        "pageId": "e426505d-5b78-4634-b7ab-5857b394ef1b",
+        "localizationMap": {
+          "bn": {
+            "title": "সার্চ"
+          }
+        },
+        "url": "/search",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        },
+        "dragDropId": 34
+      }
+    ],
+    "user": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "displayedPath": "My Downloads",
+        "title": "Downloads",
+        "pageId": "28c3bb4e-ccfa-4b56-bbf9-e1237a7890b1",
+        "localizationMap": {
+          "bn": {
+            "title": "ডাউনলোড"
+          }
+        },
+        "url": "/user/downloads",
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "web": false,
+          "android": true,
+          "xbox": false,
+          "ios": true
+        },
+        "dragDropId": 39
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "anchor": "",
+        "icon": "icon-signin",
+        "displayedPath": "My Watchlist",
+        "title": "Watchlist",
+        "pageId": "252ab256-6a31-47d3-a03e-4e74738a1d6f",
+        "localizationMap": {
+          "en": {
+            "title": "Watchlist"
+          },
+          "bn": {
+            "title": "ওয়াচলিস্ট"
+          }
+        },
+        "items": [
+          {
+            "dragDropId": 41
+          }
+        ],
+        "url": "/user/watchlist",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": true
+        },
+        "dragDropId": 40
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "anchor": "",
+        "icon": "icon-clock",
+        "displayedPath": "My History",
+        "title": "History",
+        "pageId": "07693240-89a4-4fd1-b15a-f58623f1325c",
+        "localizationMap": {
+          "en": {
+            "title": "History"
+          },
+          "bn": {
+            "title": "হিস্ট্রি"
+          }
+        },
+        "items": [],
+        "url": "/user/history",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": true
+        },
+        "dragDropId": 42
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "anchor": "",
+        "icon": "icon-gear",
+        "displayedPath": "My Account",
+        "title": "Settings",
+        "pageId": "969f4996-9a42-4746-9a60-2258fa4258bf",
+        "localizationMap": {
+          "en": {
+            "title": "Settings"
+          },
+          "bn": {
+            "title": "সেটিংস"
+          }
+        },
+        "items": [],
+        "url": "/user",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": true,
+          "web": true,
+          "android": true,
+          "tivo": false,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": true
+        },
+        "dragDropId": 43
+      }
+    ],
+    "primary": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-genre",
+        "displayedPath": "Subnavigation Screen",
+        "title": "Genres",
+        "localizationMap": {
+          "en": {
+            "title": "Genres"
+          },
+          "bn": {
+            "title": "ক্যাটাগরি"
+          }
+        },
+        "pageId": "1dd0c034-5c03-479b-a6b0-0de03c1dc292",
+        "items": [
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588586239509_actionimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Action",
+            "title": "Action",
+            "localizationMap": {
+              "en": {
+                "title": "Action"
+              },
+              "bn": {
+                "title": "অ্যাকশন"
+              }
+            },
+            "pageId": "06d3ccf2-857e-4211-9595-b45086c57616",
+            "url": "/genre/action",
+            "dragDropId": 10,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588586523893_classicsimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Classics",
+            "title": "Classics",
+            "localizationMap": {
+              "en": {
+                "title": "Classics"
+              },
+              "bn": {
+                "title": "কমেডি"
+              }
+            },
+            "pageId": "e5d4fef7-2038-4bb3-b486-e46aa1c57803",
+            "url": "/genre/classic",
+            "dragDropId": 10,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588587049191_comedyimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "All Comedy",
+            "title": "Comedy",
+            "localizationMap": {
+              "en": {
+                "title": "Comedy"
+              },
+              "bn": {
+                "title": "ক্লাসিক্স"
+              }
+            },
+            "pageId": "2ff81a96-8bbf-40ee-bd19-95cca40c1da1",
+            "url": "/all-comedy",
+            "dragDropId": 8,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588587971375_detectiveimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Detective",
+            "title": "Detective",
+            "localizationMap": {
+              "en": {
+                "title": "Detective"
+              },
+              "bn": {
+                "title": "ডিটেক্টিভ"
+              }
+            },
+            "pageId": "3696b067-8f7c-4c0b-b64a-93fbd7926ef4",
+            "url": "/genre/Detective",
+            "dragDropId": 9,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588051856_dramaimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "All Drama",
+            "title": "Drama",
+            "localizationMap": {
+              "en": {
+                "title": "Drama"
+              },
+              "bn": {
+                "title": "ড্রামা"
+              }
+            },
+            "pageId": "65acc8c9-1c2e-4d5e-a6b4-e04a2889118b",
+            "url": "/all",
+            "dragDropId": 11,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/06/3/1591163591702_familyimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Family",
+            "title": "Family",
+            "localizationMap": {
+              "en": {
+                "title": "Family"
+              }
+            },
+            "pageId": "c3cb2255-bf46-48da-b02c-569340188a82",
+            "url": "/genre/family",
+            "dragDropId": 24,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588085264_freeimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Free",
+            "title": "Free",
+            "localizationMap": {
+              "en": {
+                "title": "Free"
+              },
+              "bn": {
+                "title": "ফ্রি"
+              }
+            },
+            "pageId": "9604bb4c-9514-4652-9eb1-e1f207de1d5a",
+            "url": "/free",
+            "dragDropId": 12,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/6/1588763507708_hindiimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Hindi",
+            "title": "Hindi",
+            "localizationMap": {
+              "en": {
+                "title": "Hindi"
+              },
+              "bn": {
+                "title": "লার্ন টু কুক"
+              }
+            },
+            "pageId": "e168014c-4db5-450d-94bd-418d16c1658c",
+            "url": "/hindi",
+            "dragDropId": 13,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588135235_cookimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Learn to Cook",
+            "title": "Learn to Cook",
+            "localizationMap": {
+              "en": {
+                "title": "Learn to Cook"
+              },
+              "bn": {
+                "title": "রোমান্স"
+              }
+            },
+            "pageId": "c5f857ca-be2f-4722-9590-0141265d459e",
+            "url": "/Learn-to-Cook",
+            "dragDropId": 14,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588191758_romanceimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Romance",
+            "title": "Romance",
+            "localizationMap": {
+              "en": {
+                "title": "Romance"
+              },
+              "bn": {
+                "title": "শর্টস"
+              }
+            },
+            "pageId": "8417d6e5-b99e-4b19-8272-b4cb762e87e5",
+            "url": "/genre/romance",
+            "dragDropId": 15,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          },
+          {
+            "accessLevels": {
+              "subscribed": true,
+              "loggedIn": true,
+              "loggedOut": true
+            },
+            "geoTargetedPageIds": null,
+            "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588249819_shortsimages-tab.png?impolicy=resize&w=104&h=104",
+            "displayedPath": "Shorts",
+            "title": "Shorts",
+            "localizationMap": {
+              "en": {
+                "title": "Shorts"
+              }
+            },
+            "pageId": "ef6eef5e-c220-41ea-a52d-8e59aeacbd1a",
+            "url": "/genre/shorts",
+            "dragDropId": 10,
+            "platforms": {
+              "roku": true,
+              "fireTv": true,
+              "appleTv": true,
+              "samsungTv": true,
+              "web": true,
+              "android": true,
+              "tivo": true,
+              "xbox": true,
+              "ios": true,
+              "windows10Desktop": true,
+              "lgTv": true
+            }
+          }
+        ],
+        "url": "/subnav",
+        "dragDropId": 5,
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "tivo": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "displayedPath": "Music",
+        "title": "Music",
+        "localizationMap": {
+          "en": {
+            "title": "Music"
+          },
+          "bn": {
+            "title": "মিউজিক"
+          }
+        },
+        "pageId": "9001d48d-a9dc-4173-96b7-ad21a74f91fb",
+        "url": "/music",
+        "dragDropId": 6,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "tivo": false,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "geoTargetedPageIds": null,
+        "icon": "icon-language",
+        "displayedPath": "Language",
+        "title": "Language",
+        "localizationMap": {
+          "en": {
+            "title": "Language"
+          },
+          "bn": {
+            "title": "ভাষা"
+          }
+        },
+        "pageId": "d86656c5-9e15-4946-b7df-73f2e48d2c0c",
+        "url": "/language",
+        "dragDropId": 7,
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "samsungTv": false,
+          "web": false,
+          "android": true,
+          "xbox": false,
+          "ios": true,
+          "windows10Desktop": false,
+          "lgTv": false
+        }
+      }
+    ]
+  },
+  "headers": [
+    {
+      "data": [
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": true
+          },
+          "geoTargetedPageIds": null,
+          "icon": "icon-genre",
+          "displayedPath": "Subnavigation Screen",
+          "title": "Genres",
+          "localizationMap": {
+            "en": {
+              "title": "Genres"
+            },
+            "bn": {
+              "title": "ক্যাটাগরি"
+            }
+          },
+          "pageId": "1dd0c034-5c03-479b-a6b0-0de03c1dc292",
+          "items": [
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588586239509_actionimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Action",
+              "title": "Action",
+              "localizationMap": {
+                "en": {
+                  "title": "Action"
+                },
+                "bn": {
+                  "title": "অ্যাকশন"
+                }
+              },
+              "pageId": "06d3ccf2-857e-4211-9595-b45086c57616",
+              "url": "/genre/action",
+              "dragDropId": 10,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588586523893_classicsimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Classics",
+              "title": "Classics",
+              "localizationMap": {
+                "en": {
+                  "title": "Classics"
+                },
+                "bn": {
+                  "title": "কমেডি"
+                }
+              },
+              "pageId": "e5d4fef7-2038-4bb3-b486-e46aa1c57803",
+              "url": "/genre/classic",
+              "dragDropId": 10,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588587049191_comedyimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "All Comedy",
+              "title": "Comedy",
+              "localizationMap": {
+                "en": {
+                  "title": "Comedy"
+                },
+                "bn": {
+                  "title": "ক্লাসিক্স"
+                }
+              },
+              "pageId": "2ff81a96-8bbf-40ee-bd19-95cca40c1da1",
+              "url": "/all-comedy",
+              "dragDropId": 8,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588587971375_detectiveimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Detective",
+              "title": "Detective",
+              "localizationMap": {
+                "en": {
+                  "title": "Detective"
+                },
+                "bn": {
+                  "title": "ডিটেক্টিভ"
+                }
+              },
+              "pageId": "3696b067-8f7c-4c0b-b64a-93fbd7926ef4",
+              "url": "/genre/Detective",
+              "dragDropId": 9,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588051856_dramaimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "All Drama",
+              "title": "Drama",
+              "localizationMap": {
+                "en": {
+                  "title": "Drama"
+                },
+                "bn": {
+                  "title": "ড্রামা"
+                }
+              },
+              "pageId": "65acc8c9-1c2e-4d5e-a6b4-e04a2889118b",
+              "url": "/all",
+              "dragDropId": 11,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/06/3/1591163591702_familyimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Family",
+              "title": "Family",
+              "localizationMap": {
+                "en": {
+                  "title": "Family"
+                }
+              },
+              "pageId": "c3cb2255-bf46-48da-b02c-569340188a82",
+              "url": "/genre/family",
+              "dragDropId": 24,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588085264_freeimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Free",
+              "title": "Free",
+              "localizationMap": {
+                "en": {
+                  "title": "Free"
+                },
+                "bn": {
+                  "title": "ফ্রি"
+                }
+              },
+              "pageId": "9604bb4c-9514-4652-9eb1-e1f207de1d5a",
+              "url": "/free",
+              "dragDropId": 12,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/6/1588763507708_hindiimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Hindi",
+              "title": "Hindi",
+              "localizationMap": {
+                "en": {
+                  "title": "Hindi"
+                },
+                "bn": {
+                  "title": "লার্ন টু কুক"
+                }
+              },
+              "pageId": "e168014c-4db5-450d-94bd-418d16c1658c",
+              "url": "/hindi",
+              "dragDropId": 13,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588135235_cookimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Learn to Cook",
+              "title": "Learn to Cook",
+              "localizationMap": {
+                "en": {
+                  "title": "Learn to Cook"
+                },
+                "bn": {
+                  "title": "রোমান্স"
+                }
+              },
+              "pageId": "c5f857ca-be2f-4722-9590-0141265d459e",
+              "url": "/Learn-to-Cook",
+              "dragDropId": 14,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588191758_romanceimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Romance",
+              "title": "Romance",
+              "localizationMap": {
+                "en": {
+                  "title": "Romance"
+                },
+                "bn": {
+                  "title": "শর্টস"
+                }
+              },
+              "pageId": "8417d6e5-b99e-4b19-8272-b4cb762e87e5",
+              "url": "/genre/romance",
+              "dragDropId": 15,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            },
+            {
+              "accessLevels": {
+                "subscribed": true,
+                "loggedIn": true,
+                "loggedOut": true
+              },
+              "geoTargetedPageIds": null,
+              "icon": "https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2020/05/4/1588588249819_shortsimages-tab.png?impolicy=resize&w=104&h=104",
+              "displayedPath": "Shorts",
+              "title": "Shorts",
+              "localizationMap": {
+                "en": {
+                  "title": "Shorts"
+                }
+              },
+              "pageId": "ef6eef5e-c220-41ea-a52d-8e59aeacbd1a",
+              "url": "/genre/shorts",
+              "dragDropId": 10,
+              "platforms": {
+                "roku": true,
+                "fireTv": true,
+                "appleTv": true,
+                "samsungTv": true,
+                "web": true,
+                "android": true,
+                "tivo": true,
+                "xbox": true,
+                "ios": true,
+                "windows10Desktop": true,
+                "lgTv": true
+              }
+            }
+          ],
+          "url": "/subnav",
+          "dragDropId": 5,
+          "platforms": {
+            "roku": true,
+            "fireTv": true,
+            "appleTv": true,
+            "samsungTv": false,
+            "web": false,
+            "android": true,
+            "tivo": true,
+            "xbox": true,
+            "ios": true,
+            "windows10Desktop": true,
+            "lgTv": false
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": true
+          },
+          "geoTargetedPageIds": null,
+          "displayedPath": "Music",
+          "title": "Music",
+          "localizationMap": {
+            "en": {
+              "title": "Music"
+            },
+            "bn": {
+              "title": "মিউজিক"
+            }
+          },
+          "pageId": "9001d48d-a9dc-4173-96b7-ad21a74f91fb",
+          "url": "/music",
+          "dragDropId": 6,
+          "platforms": {
+            "roku": false,
+            "fireTv": false,
+            "appleTv": false,
+            "samsungTv": false,
+            "web": false,
+            "android": true,
+            "tivo": false,
+            "xbox": false,
+            "ios": true,
+            "windows10Desktop": false,
+            "lgTv": false
+          }
+        },
+        {
+          "accessLevels": {
+            "subscribed": true,
+            "loggedIn": true,
+            "loggedOut": true
+          },
+          "geoTargetedPageIds": null,
+          "icon": "icon-language",
+          "displayedPath": "Language",
+          "title": "Language",
+          "localizationMap": {
+            "en": {
+              "title": "Language"
+            },
+            "bn": {
+              "title": "ভাষা"
+            }
+          },
+          "pageId": "d86656c5-9e15-4946-b7df-73f2e48d2c0c",
+          "url": "/language",
+          "dragDropId": 7,
+          "platforms": {
+            "roku": false,
+            "fireTv": false,
+            "appleTv": false,
+            "samsungTv": false,
+            "web": false,
+            "android": true,
+            "xbox": false,
+            "ios": true,
+            "windows10Desktop": false,
+            "lgTv": false
+          }
+        }
+      ],
+      "id": "7b8b6207-40a6-4f4f-983b-c5f4b2351c11",
+      "title": "Navigation Title",
+      "type": true
+    }
+  ],
+  "images": {
+    "mobileAppIcon": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/generated/hoichoi-movies-originals-icon-mobile.png"
+  },
+  "pages": [
+    {
+      "Page-Name": "Home Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "4ed54c23-9ec0-40aa-a412-91c9ce19787b",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/4ed54c23-9ec0-40aa-a412-91c9ce19787b.json?version=0.0.3575",
+      "Page-API": "/content/pages",
+      "version": "0.0.3575",
+      "geoTargetedPageIds": {
+        "default": "4ed54c23-9ec0-40aa-a412-91c9ce19787b",
+        "BD": "f76b150f-cc81-4f2a-b6c9-e7e6d1372bac",
+        "US": "2cc119a4-29ad-4639-a68f-c7f8429fce96"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "About Us",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "a6dc9210-46ef-45e8-bccc-91a2d8daa425",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/a6dc9210-46ef-45e8-bccc-91a2d8daa425.json?version=0.0.14",
+      "Page-API": "/content/pages",
+      "version": "0.0.14",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Categories Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "0002dccb-61b2-459e-833c-da9c239e1bfc",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/0002dccb-61b2-459e-833c-da9c239e1bfc.json?version=0.0.1355",
+      "Page-API": "/content/pages",
+      "version": "0.0.1355",
+      "geoTargetedPageIds": {
+        "default": "0002dccb-61b2-459e-833c-da9c239e1bfc",
+        "BD": "041e8330-c453-4263-95e0-e49dea1528f1"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Contact Us",
+      "Page-Type": "ContactUs Page",
+      "Page-ID": "12bfb71f-f388-468c-9000-8b3d7d5f11ee",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/12bfb71f-f388-468c-9000-8b3d7d5f11ee.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Frequently Asked Questions",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "056cfeca-ae23-4863-b24a-74e297d0b0e4",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/056cfeca-ae23-4863-b24a-74e297d0b0e4.json?version=0.0.49",
+      "Page-API": "/content/pages",
+      "version": "0.0.49",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "My Account",
+      "Page-Type": "User Page",
+      "Page-ID": "969f4996-9a42-4746-9a60-2258fa4258bf",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/969f4996-9a42-4746-9a60-2258fa4258bf.json?version=0.0.19",
+      "Page-API": "/content/pages",
+      "version": "0.0.19",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "My History",
+      "Page-Type": "User Page",
+      "Page-ID": "07693240-89a4-4fd1-b15a-f58623f1325c",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/07693240-89a4-4fd1-b15a-f58623f1325c.json?version=0.0.16",
+      "Page-API": "/content/pages",
+      "version": "0.0.16",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "My Watchlist",
+      "Page-Type": "User Page",
+      "Page-ID": "252ab256-6a31-47d3-a03e-4e74738a1d6f",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/252ab256-6a31-47d3-a03e-4e74738a1d6f.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Download Settings",
+      "Page-Type": "User Page",
+      "Page-ID": "7aec7388-ed41-4638-9d93-875f06ee30f1",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/7aec7388-ed41-4638-9d93-875f06ee30f1.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "My Downloads",
+      "Page-Type": "User Page",
+      "Page-ID": "28c3bb4e-ccfa-4b56-bbf9-e1237a7890b1",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/28c3bb4e-ccfa-4b56-bbf9-e1237a7890b1.json?version=0.0.16",
+      "Page-API": "/content/pages",
+      "version": "0.0.16",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Privacy Policy",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "36f97089-61a0-4c81-9aba-f20cfa7d6c72",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/36f97089-61a0-4c81-9aba-f20cfa7d6c72.json?version=0.0.21",
+      "Page-API": "/content/pages",
+      "version": "0.0.21",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Terms of Service",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "e9c8a6d3-c43a-46fe-b0ca-9f44f811a478",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e9c8a6d3-c43a-46fe-b0ca-9f44f811a478.json?version=0.0.17",
+      "Page-API": "/content/pages",
+      "version": "0.0.17",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Video Page",
+      "Page-Type": "Video Template Page",
+      "Page-ID": "fab25357-e72b-4dec-bef0-8655f3e8d45a",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/fab25357-e72b-4dec-bef0-8655f3e8d45a.json?version=0.0.73",
+      "Page-API": "/content/pages",
+      "version": "0.0.73",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Category Page",
+      "Page-Type": "Category Template Page",
+      "Page-ID": "ded72866-15fa-4309-87f4-f75c786bd002",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/ded72866-15fa-4309-87f4-f75c786bd002.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Shows Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e097a2eb-9fcb-47aa-9c99-99684e391ba3",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e097a2eb-9fcb-47aa-9c99-99684e391ba3.json?version=0.0.358",
+      "Page-API": "/content/pages",
+      "version": "0.0.358",
+      "geoTargetedPageIds": {
+        "default": "e097a2eb-9fcb-47aa-9c99-99684e391ba3",
+        "BD": "a71d66de-3727-4493-8d0f-cf92e2c4e7d5"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Show Page",
+      "Page-Type": "Show Template Page",
+      "Page-ID": "5061308a-37e0-4e03-a154-af1927019e80",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/5061308a-37e0-4e03-a154-af1927019e80.json?version=0.0.69",
+      "Page-API": "/content/pages",
+      "version": "0.0.69",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Tag Page",
+      "Page-Type": "Tag Template Page",
+      "Page-ID": "fff76d95-be4c-4b49-910d-f8d4d39caf66",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/fff76d95-be4c-4b49-910d-f8d4d39caf66.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Splash Screen",
+      "Page-Type": "Splash Screen",
+      "Page-ID": "c6bdc987-9062-4107-a9bc-92ce4c4389b0",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/c6bdc987-9062-4107-a9bc-92ce4c4389b0.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Search Screen",
+      "Page-Type": "Search Screen",
+      "Page-ID": "e426505d-5b78-4634-b7ab-5857b394ef1b",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e426505d-5b78-4634-b7ab-5857b394ef1b.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Authentication Screen",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "29bf4d25-442b-4f75-ba70-8561db8ee845",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/29bf4d25-442b-4f75-ba70-8561db8ee845.json?version=0.0.137",
+      "Page-API": "/content/pages",
+      "version": "0.0.137",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Create Login Screen",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "0d5048bd-cfd1-4ae4-8040-d56573d91ec7",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/0d5048bd-cfd1-4ae4-8040-d56573d91ec7.json?version=0.0.66",
+      "Page-API": "/content/pages",
+      "version": "0.0.66",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Reset Password",
+      "Page-Type": "User Page",
+      "Page-ID": "6fb33cd5-72b8-420e-ab02-d7be5caa99ce",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/6fb33cd5-72b8-420e-ab02-d7be5caa99ce.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "View Plans",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "04abf479-c655-464d-b93b-7c88fc247b2b",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/04abf479-c655-464d-b93b-7c88fc247b2b.json?version=0.0.281",
+      "Page-API": "/content/pages",
+      "version": "0.0.281",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "AutoPlay Screen",
+      "Page-Type": "AutoPlay Screen",
+      "Page-ID": "0ec01ef5-ad1a-4a0f-a91d-e53231b8181f",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/0ec01ef5-ad1a-4a0f-a91d-e53231b8181f.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Subscription Flow",
+      "Page-Type": "Subscription Flow",
+      "Page-ID": "98b45b35-4f37-4409-802b-5885bca9ec88",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/98b45b35-4f37-4409-802b-5885bca9ec88.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Originals",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e13ff40a-13b9-4e66-b565-2c340d0b881e",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e13ff40a-13b9-4e66-b565-2c340d0b881e.json?version=0.0.36",
+      "Page-API": "/content/pages",
+      "version": "0.0.36",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "AutoPlay Screen (Portrait)",
+      "Page-Type": "AutoPlay Screen",
+      "Page-ID": "d5387420-d96a-4020-b43a-cbfeb9d76436",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/d5387420-d96a-4020-b43a-cbfeb9d76436.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Movies",
+      "Page-Type": "Modular Page",
+      "Page-ID": "27f20ab0-509c-4834-a7d2-d8857a3b2934",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/27f20ab0-509c-4834-a7d2-d8857a3b2934.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "AutoPlay Screen (Landscape)",
+      "Page-Type": "AutoPlay Screen",
+      "Page-ID": "3b657827-9874-44b1-ba99-8ab4da6d687f",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/3b657827-9874-44b1-ba99-8ab4da6d687f.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Content Rating Warning Screen",
+      "Page-Type": "Content Rating Warning Screen",
+      "Page-ID": "51dcc26d-5588-4e9e-b838-0ffc48632fc4",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/51dcc26d-5588-4e9e-b838-0ffc48632fc4.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Alexa Auth Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ed70788b-b59b-418f-aa25-6f23ff1c7652",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/ed70788b-b59b-418f-aa25-6f23ff1c7652.json?version=0.0.62",
+      "Page-API": "/content/pages",
+      "version": "0.0.62",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Durga Puja Offer",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "0c7b48cd-b5a4-47aa-b1ce-462f9f39b89f",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/0c7b48cd-b5a4-47aa-b1ce-462f9f39b89f.json?version=0.0.191",
+      "Page-API": "/content/pages",
+      "version": "0.0.191",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Link Your Account Screen",
+      "Page-Type": "Link Account Page",
+      "Page-ID": "2c5b4799-c94d-4101-ae8c-6b76ad44a0cf",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/2c5b4799-c94d-4101-ae8c-6b76ad44a0cf.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Music",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9001d48d-a9dc-4173-96b7-ad21a74f91fb",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/9001d48d-a9dc-4173-96b7-ad21a74f91fb.json?version=0.0.904",
+      "Page-API": "/content/pages",
+      "version": "0.0.904",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Audio Page",
+      "Page-Type": "Audio Template Page",
+      "Page-ID": "258b7102-04fd-4970-a8af-8f0d78939fdc",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/258b7102-04fd-4970-a8af-8f0d78939fdc.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Playlist Page",
+      "Page-Type": "Playlist Template Page",
+      "Page-ID": "330de12d-ba1a-49f5-be1a-6bd690fd4223",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/330de12d-ba1a-49f5-be1a-6bd690fd4223.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Songs",
+      "Page-Type": "Modular Page",
+      "Page-ID": "a0d9d9cc-bfc7-4ff5-9a51-24d2aa9e8d4c",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/a0d9d9cc-bfc7-4ff5-9a51-24d2aa9e8d4c.json?version=0.0.41",
+      "Page-API": "/content/pages",
+      "version": "0.0.41",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Redeem Offer",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f69aae35-a35d-46ae-bdff-5a22bcd68220",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/f69aae35-a35d-46ae-bdff-5a22bcd68220.json?version=0.0.20",
+      "Page-API": "/content/pages",
+      "version": "0.0.20",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Chaitra Sale-edited-on-20/04/2019",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "030c1996-327c-49f9-8431-1dd652382ee1",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/030c1996-327c-49f9-8431-1dd652382ee1.json?version=0.0.132",
+      "Page-API": "/content/pages",
+      "version": "0.0.132",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Careers",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "8a15acc5-218a-40a6-b057-c507461be34f",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/8a15acc5-218a-40a6-b057-c507461be34f.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Shop",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ba41ee34-9ae0-4d2b-bd23-15e2d738d891",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/ba41ee34-9ae0-4d2b-bd23-15e2d738d891.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Language",
+      "Page-Type": "User Page",
+      "Page-ID": "d86656c5-9e15-4946-b7df-73f2e48d2c0c",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/d86656c5-9e15-4946-b7df-73f2e48d2c0c.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12",
+      "pageFn": "Language Settings",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Shows Page (BD)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "a71d66de-3727-4493-8d0f-cf92e2c4e7d5",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/a71d66de-3727-4493-8d0f-cf92e2c4e7d5.json?version=0.0.113",
+      "Page-API": "/content/pages",
+      "version": "0.0.113",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Contact hoichoi",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "186ee06e-7932-44e8-a11c-1e6256b0b9f9",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/186ee06e-7932-44e8-a11c-1e6256b0b9f9.json?version=0.0.50",
+      "Page-API": "/content/pages",
+      "version": "0.0.50",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Home Page (BD)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "f76b150f-cc81-4f2a-b6c9-e7e6d1372bac",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/f76b150f-cc81-4f2a-b6c9-e7e6d1372bac.json?version=0.0.787",
+      "Page-API": "/content/pages",
+      "version": "0.0.787",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Categories Page (BD)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "041e8330-c453-4263-95e0-e49dea1528f1",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/041e8330-c453-4263-95e0-e49dea1528f1.json?version=0.0.348",
+      "Page-API": "/content/pages",
+      "version": "0.0.348",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Support",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "97d5295a-8f44-4a47-ade2-2edd95527ac2",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/97d5295a-8f44-4a47-ade2-2edd95527ac2.json?version=0.0.50",
+      "Page-API": "/content/pages",
+      "version": "0.0.50",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Frequently Asked Question (ROKU)",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "468d21a3-fa2d-4d83-acfa-de7bdc84f085",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/468d21a3-fa2d-4d83-acfa-de7bdc84f085.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Privacy Policy (ROKU)",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "a7d27458-6874-4cb4-92d4-2885d3a26d7a",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/a7d27458-6874-4cb4-92d4-2885d3a26d7a.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Terms of Service (ROKU)",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "dbb74049-4d69-45f9-8bd5-e9b317738766",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/dbb74049-4d69-45f9-8bd5-e9b317738766.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "MiTv plans",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "85ca1c93-c4f2-44fd-abd1-aa8718c652d2",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/85ca1c93-c4f2-44fd-abd1-aa8718c652d2.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Promotional Offers (IN)",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "ad6124d5-2157-47a4-9f78-50e34c1a7832",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/ad6124d5-2157-47a4-9f78-50e34c1a7832.json?version=0.0.114",
+      "Page-API": "/content/pages",
+      "version": "0.0.114",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Promotional Offer September 2019",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "36189760-1a46-4579-8da1-77f9116b4515",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/36189760-1a46-4579-8da1-77f9116b4515.json?version=0.0.22",
+      "Page-API": "/content/pages",
+      "version": "0.0.22",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "User Preference Screen",
+      "Page-Type": "System Screen",
+      "Page-ID": "54c8611f-af19-454b-855a-2dad248fb2cd",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/54c8611f-af19-454b-855a-2dad248fb2cd.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Juspay Payment",
+      "Page-Type": "System Screen",
+      "Page-ID": "7a004030-6443-426e-9057-91d535616a53",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/7a004030-6443-426e-9057-91d535616a53.json?version=0.0.66",
+      "Page-API": "/content/pages",
+      "version": "0.0.66",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Home Page (US)",
+      "Page-Type": "Modular Page",
+      "Page-ID": "2cc119a4-29ad-4639-a68f-c7f8429fce96",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/2cc119a4-29ad-4639-a68f-c7f8429fce96.json?version=0.0.708",
+      "Page-API": "/content/pages",
+      "version": "0.0.708",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Winter Offer",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "9148efe4-54ef-4f90-b2b3-1967d90738a5",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/9148efe4-54ef-4f90-b2b3-1967d90738a5.json?version=0.0.52",
+      "Page-API": "/content/pages",
+      "version": "0.0.52",
+      "geoTargetedPageIds": {
+        "default": "9148efe4-54ef-4f90-b2b3-1967d90738a5",
+        "BD": "d936b5d0-0bc2-43f0-af15-59c9641af4f3"
+      },
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Drama",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e8de2176-17f5-4491-a251-2c4a617d7345",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e8de2176-17f5-4491-a251-2c4a617d7345.json?version=0.0.294",
+      "Page-API": "/content/pages",
+      "version": "0.0.294",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Romance",
+      "Page-Type": "Modular Page",
+      "Page-ID": "8417d6e5-b99e-4b19-8272-b4cb762e87e5",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/8417d6e5-b99e-4b19-8272-b4cb762e87e5.json?version=0.0.79",
+      "Page-API": "/content/pages",
+      "version": "0.0.79",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Comedy",
+      "Page-Type": "Modular Page",
+      "Page-ID": "099e64be-0f64-410b-9b2a-11cf55167203",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/099e64be-0f64-410b-9b2a-11cf55167203.json?version=0.0.127",
+      "Page-API": "/content/pages",
+      "version": "0.0.127",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Action",
+      "Page-Type": "Modular Page",
+      "Page-ID": "06d3ccf2-857e-4211-9595-b45086c57616",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/06d3ccf2-857e-4211-9595-b45086c57616.json?version=0.0.263",
+      "Page-API": "/content/pages",
+      "version": "0.0.263",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "FreshChat Contact Us",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "e139a3ab-addc-40b9-9344-a699a05e1b32",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e139a3ab-addc-40b9-9344-a699a05e1b32.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3",
+      "pageFn": "FreshChat Contact Us",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Adventure",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b66a6f2d-4465-4cd4-bc77-276b976eb6d8",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/b66a6f2d-4465-4cd4-bc77-276b976eb6d8.json?version=0.0.40",
+      "Page-API": "/content/pages",
+      "version": "0.0.40",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Detective",
+      "Page-Type": "Modular Page",
+      "Page-ID": "3696b067-8f7c-4c0b-b64a-93fbd7926ef4",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/3696b067-8f7c-4c0b-b64a-93fbd7926ef4.json?version=0.0.88",
+      "Page-API": "/content/pages",
+      "version": "0.0.88",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Shorts",
+      "Page-Type": "Modular Page",
+      "Page-ID": "ef6eef5e-c220-41ea-a52d-8e59aeacbd1a",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/ef6eef5e-c220-41ea-a52d-8e59aeacbd1a.json?version=0.0.53",
+      "Page-API": "/content/pages",
+      "version": "0.0.53",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Classics",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e5d4fef7-2038-4bb3-b486-e46aa1c57803",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e5d4fef7-2038-4bb3-b486-e46aa1c57803.json?version=0.0.68",
+      "Page-API": "/content/pages",
+      "version": "0.0.68",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Subnavigation Screen",
+      "Page-Type": "Sub Navigation Screen",
+      "Page-ID": "1dd0c034-5c03-479b-a6b0-0de03c1dc292",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/1dd0c034-5c03-479b-a6b0-0de03c1dc292.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": true,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Live TV",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d8d8de2e-bfe3-42ab-8cf8-65dba2b46054",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/d8d8de2e-bfe3-42ab-8cf8-65dba2b46054.json?version=0.0.144",
+      "Page-API": "/content/pages",
+      "version": "0.0.144",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "homepage backup april 2nd",
+      "Page-Type": "Modular Page",
+      "Page-ID": "86a39ade-0036-4d68-89fe-0aefe393d65e",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/86a39ade-0036-4d68-89fe-0aefe393d65e.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Free",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9604bb4c-9514-4652-9eb1-e1f207de1d5a",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/9604bb4c-9514-4652-9eb1-e1f207de1d5a.json?version=0.0.118",
+      "Page-API": "/content/pages",
+      "version": "0.0.118",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Learn to Cook",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c5f857ca-be2f-4722-9590-0141265d459e",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/c5f857ca-be2f-4722-9590-0141265d459e.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Frequently Question TV",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "2e5fb982-f7bf-4e82-aeb8-e0e1bb683c91",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/2e5fb982-f7bf-4e82-aeb8-e0e1bb683c91.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Hindi",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e168014c-4db5-450d-94bd-418d16c1658c",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e168014c-4db5-450d-94bd-418d16c1658c.json?version=0.0.35",
+      "Page-API": "/content/pages",
+      "version": "0.0.35",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "OTP Entry Screen",
+      "Page-Type": "System Screen",
+      "Page-ID": "88dd1db7-f4b2-44c1-bab1-262926e4f252",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/88dd1db7-f4b2-44c1-bab1-262926e4f252.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Phone Update Screen",
+      "Page-Type": "System Screen",
+      "Page-ID": "1d6a98cd-8d57-436b-a665-24acbf7712f8",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/1d6a98cd-8d57-436b-a665-24acbf7712f8.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Sign In With Mobile",
+      "Page-Type": "System Screen",
+      "Page-ID": "66fb686e-6e96-44a8-abbc-1992b0bcfd84",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/66fb686e-6e96-44a8-abbc-1992b0bcfd84.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Sign Up with Mobile",
+      "Page-Type": "System Screen",
+      "Page-ID": "0cdfa930-f687-4ffc-8a3d-e4dcd7d3a25c",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/0cdfa930-f687-4ffc-8a3d-e4dcd7d3a25c.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Hindi Movies",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9b3d61df-72a0-4c33-8a98-5012f0115304",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/9b3d61df-72a0-4c33-8a98-5012f0115304.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Hindi Shows",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d4c60445-0961-415b-9d61-f0228fcd50aa",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/d4c60445-0961-415b-9d61-f0228fcd50aa.json?version=0.0.30",
+      "Page-API": "/content/pages",
+      "version": "0.0.30",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Free Movies",
+      "Page-Type": "Modular Page",
+      "Page-ID": "d0b2038f-b049-418e-8a5d-fb6026df51e8",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/d0b2038f-b049-418e-8a5d-fb6026df51e8.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Free Episodes",
+      "Page-Type": "Modular Page",
+      "Page-ID": "e2124114-6693-45fd-9f90-2719feaf0811",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/e2124114-6693-45fd-9f90-2719feaf0811.json?version=0.0.16",
+      "Page-API": "/content/pages",
+      "version": "0.0.16",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "All Shows",
+      "Page-Type": "Modular Page",
+      "Page-ID": "4099c657-fc8e-4a90-8471-a3d875485b4c",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/4099c657-fc8e-4a90-8471-a3d875485b4c.json?version=0.0.43",
+      "Page-API": "/content/pages",
+      "version": "0.0.43",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Family",
+      "Page-Type": "Modular Page",
+      "Page-ID": "c3cb2255-bf46-48da-b02c-569340188a82",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/c3cb2255-bf46-48da-b02c-569340188a82.json?version=0.0.16",
+      "Page-API": "/content/pages",
+      "version": "0.0.16",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Thriller Shows",
+      "Page-Type": "Modular Page",
+      "Page-ID": "9be18aa0-22f2-49d2-bceb-6fa5a935bc8d",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/9be18aa0-22f2-49d2-bceb-6fa5a935bc8d.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Drama Shows",
+      "Page-Type": "Modular Page",
+      "Page-ID": "bf860277-0acd-47c2-b727-972dc96ea910",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/bf860277-0acd-47c2-b727-972dc96ea910.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Comedy Shows",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b1717560-e5f8-4bde-b705-3b93de0bc25d",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/b1717560-e5f8-4bde-b705-3b93de0bc25d.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Horror Shows",
+      "Page-Type": "Modular Page",
+      "Page-ID": "911fb3a6-3f03-4c08-8914-5070d551cb0d",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/911fb3a6-3f03-4c08-8914-5070d551cb0d.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Redeem",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "0e9ebf13-4fdf-4d61-92b4-b5fafcf6f7d8",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/0e9ebf13-4fdf-4d61-92b4-b5fafcf6f7d8.json?version=0.0.93",
+      "Page-API": "/content/pages",
+      "version": "0.0.93",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Winter Offer (BD)",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "d936b5d0-0bc2-43f0-af15-59c9641af4f3",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/d936b5d0-0bc2-43f0-af15-59c9641af4f3.json?version=0.0.1",
+      "Page-API": "/content/pages",
+      "version": "0.0.1",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "Activate Device",
+      "Page-Type": "Modular Page",
+      "Page-ID": "6093d082-eb1b-4a48-9257-420577432136",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/6093d082-eb1b-4a48-9257-420577432136.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "All Comedy",
+      "Page-Type": "Modular Page",
+      "Page-ID": "2ff81a96-8bbf-40ee-bd19-95cca40c1da1",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/2ff81a96-8bbf-40ee-bd19-95cca40c1da1.json?version=0.0.17",
+      "Page-API": "/content/pages",
+      "version": "0.0.17",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "All Drama",
+      "Page-Type": "Modular Page",
+      "Page-ID": "65acc8c9-1c2e-4d5e-a6b4-e04a2889118b",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/65acc8c9-1c2e-4d5e-a6b4-e04a2889118b.json?version=0.0.16",
+      "Page-API": "/content/pages",
+      "version": "0.0.16",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    },
+    {
+      "Page-Name": "RRS Landing Page",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "5b704b44-9dde-4f6c-bc1e-d41a03c2bb8a",
+      "Page-UI": "https://appcmsprod.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/android/5b704b44-9dde-4f6c-bc1e-d41a03c2bb8a.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4",
+      "isDefault": false,
+      "supportExpandedView": false,
+      "isFixedFocus": false
+    }
+  ],
+  "appName": "Hoichoi",
+  "shortAppName": "Hoichoi",
+  "geoRestrictedCountries": [
+    "PK"
+  ],
+  "blocks": [
+    {
+      "name": "articleDetail01",
+      "version": "5"
+    },
+    {
+      "name": "audioDetail01",
+      "version": "1"
+    },
+    {
+      "name": "authentication01",
+      "version": "8"
+    },
+    {
+      "name": "authentication01_activate_device",
+      "version": "2"
+    },
+    {
+      "name": "authentication02",
+      "version": "3"
+    },
+    {
+      "name": "authentication03",
+      "version": "10"
+    },
+    {
+      "name": "authentication04",
+      "version": "3"
+    },
+    {
+      "name": "authentication05",
+      "version": "4"
+    },
+    {
+      "name": "authentication07",
+      "version": "1"
+    },
+    {
+      "name": "authentication08",
+      "version": "1"
+    },
+    {
+      "name": "authentication09",
+      "version": "1"
+    },
+    {
+      "name": "authentication10",
+      "version": "1"
+    },
+    {
+      "name": "authentication11",
+      "version": "0"
+    },
+    {
+      "name": "authentication12",
+      "version": "0"
+    },
+    {
+      "name": "authentication14",
+      "version": "1"
+    },
+    {
+      "name": "authentication17",
+      "version": "3"
+    },
+    {
+      "name": "signin01",
+      "version": "2"
+    },
+    {
+      "name": "signup01",
+      "version": "2"
+    },
+    {
+      "name": "autoPlay01",
+      "version": "16"
+    },
+    {
+      "name": "autoPlay02",
+      "version": "11"
+    },
+    {
+      "name": "autoPlay03",
+      "version": "12"
+    },
+    {
+      "name": "autoPlay04",
+      "version": "2"
+    },
+    {
+      "name": "boostSelectPlan01",
+      "version": "3"
+    },
+    {
+      "name": "boostSelectPlan02",
+      "version": "3"
+    },
+    {
+      "name": "bundleDetail01",
+      "version": "3"
+    },
+    {
+      "name": "bundleDetail02",
+      "version": "0"
+    },
+    {
+      "name": "carousel01",
+      "version": "14"
+    },
+    {
+      "name": "carousel02",
+      "version": "3"
+    },
+    {
+      "name": "carousel03",
+      "version": "1"
+    },
+    {
+      "name": "carousel04",
+      "version": "10"
+    },
+    {
+      "name": "carousel05",
+      "version": "2"
+    },
+    {
+      "name": "carousel07",
+      "version": "1"
+    },
+    {
+      "name": "carouselWithList01",
+      "version": "1"
+    },
+    {
+      "name": "eventCarousel01",
+      "version": "2"
+    },
+    {
+      "name": "eventCarousel02",
+      "version": "5"
+    },
+    {
+      "name": "eventCarousel03",
+      "version": "3"
+    },
+    {
+      "name": "eventCarousel04",
+      "version": "1"
+    },
+    {
+      "name": "fullWidthCarousel01",
+      "version": "4"
+    },
+    {
+      "name": "categoryDetail01",
+      "version": "4"
+    },
+    {
+      "name": "categoryDetail02",
+      "version": "4"
+    },
+    {
+      "name": "contactUs01",
+      "version": "3"
+    },
+    {
+      "name": "contactUs02",
+      "version": "1"
+    },
+    {
+      "name": "container75",
+      "version": "0"
+    },
+    {
+      "name": "contentBlock01",
+      "version": "2"
+    },
+    {
+      "name": "contentBlock02",
+      "version": "1"
+    },
+    {
+      "name": "imageTextRow01",
+      "version": "4"
+    },
+    {
+      "name": "imageTextRow02",
+      "version": "3"
+    },
+    {
+      "name": "list01",
+      "version": "2"
+    },
+    {
+      "name": "rawHtml01",
+      "version": "4"
+    },
+    {
+      "name": "richText01",
+      "version": "17"
+    },
+    {
+      "name": "standaloneVideoPlayer01",
+      "version": "13"
+    },
+    {
+      "name": "standaloneVideoPlayer02",
+      "version": "1"
+    },
+    {
+      "name": "webFrame01",
+      "version": "4"
+    },
+    {
+      "name": "webFrame02",
+      "version": "1"
+    },
+    {
+      "name": "webFrame03",
+      "version": "2"
+    },
+    {
+      "name": "contentRatingWarning01",
+      "version": "1"
+    },
+    {
+      "name": "continueWatching01",
+      "version": "30"
+    },
+    {
+      "name": "continueWatching02",
+      "version": "1"
+    },
+    {
+      "name": "continueWatching03",
+      "version": "1"
+    },
+    {
+      "name": "dialogOptions01",
+      "version": "1"
+    },
+    {
+      "name": "bannerAd01",
+      "version": "3"
+    },
+    {
+      "name": "mediumRectangleAd01",
+      "version": "2"
+    },
+    {
+      "name": "pushdownAd01",
+      "version": "1"
+    },
+    {
+      "name": "downloads01",
+      "version": "23"
+    },
+    {
+      "name": "downloads02",
+      "version": "2"
+    },
+    {
+      "name": "downloads03",
+      "version": "2"
+    },
+    {
+      "name": "emailSubscribe01",
+      "version": "2"
+    },
+    {
+      "name": "epgFeed01",
+      "version": "1"
+    },
+    {
+      "name": "equipment01",
+      "version": "1"
+    },
+    {
+      "name": "eventCalendar01",
+      "version": "2"
+    },
+    {
+      "name": "eventDetail01",
+      "version": "1"
+    },
+    {
+      "name": "fightDetail01",
+      "version": "4"
+    },
+    {
+      "name": "fighterRoster01",
+      "version": "2"
+    },
+    {
+      "name": "following01",
+      "version": "2"
+    },
+    {
+      "name": "footer01",
+      "version": "5"
+    },
+    {
+      "name": "footer02",
+      "version": "4"
+    },
+    {
+      "name": "footer03",
+      "version": "1"
+    },
+    {
+      "name": "fullscreenWebframe01",
+      "version": "0"
+    },
+    {
+      "name": "gameDetail01",
+      "version": "4"
+    },
+    {
+      "name": "articleFeed01",
+      "version": "5"
+    },
+    {
+      "name": "articleGrid01",
+      "version": "1"
+    },
+    {
+      "name": "grid01",
+      "version": "6"
+    },
+    {
+      "name": "grid02",
+      "version": "4"
+    },
+    {
+      "name": "grid03",
+      "version": "2"
+    },
+    {
+      "name": "history01",
+      "version": "20"
+    },
+    {
+      "name": "history02",
+      "version": "9"
+    },
+    {
+      "name": "history04",
+      "version": "1"
+    },
+    {
+      "name": "library01",
+      "version": "7"
+    },
+    {
+      "name": "library02",
+      "version": "4"
+    },
+    {
+      "name": "linkAccount01",
+      "version": "1"
+    },
+    {
+      "name": "loginHardwall01",
+      "version": "0"
+    },
+    {
+      "name": "banner01",
+      "version": "5"
+    },
+    {
+      "name": "masthead01",
+      "version": "3"
+    },
+    {
+      "name": "masthead02",
+      "version": "1"
+    },
+    {
+      "name": "pageLink01",
+      "version": "2"
+    },
+    {
+      "name": "personDetail01",
+      "version": "2"
+    },
+    {
+      "name": "personDetail02",
+      "version": "2"
+    },
+    {
+      "name": "personDetail03",
+      "version": "16"
+    },
+    {
+      "name": "photoGalleryDetail01",
+      "version": "2"
+    },
+    {
+      "name": "playlistDetail01",
+      "version": "5"
+    },
+    {
+      "name": "videoPlaylistDetail01",
+      "version": "1"
+    },
+    {
+      "name": "newsRecommendation01",
+      "version": "1"
+    },
+    {
+      "name": "recommendPopular01",
+      "version": "1"
+    },
+    {
+      "name": "recommendation01",
+      "version": "1"
+    },
+    {
+      "name": "userPersonalization01",
+      "version": "1"
+    },
+    {
+      "name": "redeemOffer01",
+      "version": "3"
+    },
+    {
+      "name": "scheduleTray01",
+      "version": "1"
+    },
+    {
+      "name": "filter01",
+      "version": "1"
+    },
+    {
+      "name": "filter02",
+      "version": "2"
+    },
+    {
+      "name": "search01",
+      "version": "9"
+    },
+    {
+      "name": "search02",
+      "version": "5"
+    },
+    {
+      "name": "search03",
+      "version": "1"
+    },
+    {
+      "name": "search04",
+      "version": "2"
+    },
+    {
+      "name": "seasonTray01",
+      "version": "1"
+    },
+    {
+      "name": "seasonTray02",
+      "version": "1"
+    },
+    {
+      "name": "showDetail01",
+      "version": "48"
+    },
+    {
+      "name": "showDetail02",
+      "version": "1"
+    },
+    {
+      "name": "showDetail03",
+      "version": "2"
+    },
+    {
+      "name": "showDetail04",
+      "version": "1"
+    },
+    {
+      "name": "showDetail05",
+      "version": "1"
+    },
+    {
+      "name": "showDetail06",
+      "version": "2"
+    },
+    {
+      "name": "showDetail07",
+      "version": "2"
+    },
+    {
+      "name": "showDetail08",
+      "version": "2"
+    },
+    {
+      "name": "smallEventCalendar01",
+      "version": "1"
+    },
+    {
+      "name": "splashPage01",
+      "version": "0"
+    },
+    {
+      "name": "splashScreen01",
+      "version": "3"
+    },
+    {
+      "name": "splashScreen02",
+      "version": "9"
+    },
+    {
+      "name": "subNav01",
+      "version": "3"
+    },
+    {
+      "name": "selectPlan01",
+      "version": "8"
+    },
+    {
+      "name": "selectPlan02",
+      "version": "11"
+    },
+    {
+      "name": "selectPlan03",
+      "version": "6"
+    },
+    {
+      "name": "selectPlan04",
+      "version": "2"
+    },
+    {
+      "name": "selectPlan06",
+      "version": "2"
+    },
+    {
+      "name": "subscriptionDetail01",
+      "version": "1"
+    },
+    {
+      "name": "teamDetail01",
+      "version": "1"
+    },
+    {
+      "name": "teamRoster01",
+      "version": "1"
+    },
+    {
+      "name": "teamSchedule01",
+      "version": "2"
+    },
+    {
+      "name": "teamStats01",
+      "version": "1"
+    },
+    {
+      "name": "tickerFeed01",
+      "version": "0"
+    },
+    {
+      "name": "articleTray01",
+      "version": "10"
+    },
+    {
+      "name": "audioTray01",
+      "version": "6"
+    },
+    {
+      "name": "brandTray01",
+      "version": "4"
+    },
+    {
+      "name": "instructorTray01",
+      "version": "1"
+    },
+    {
+      "name": "newsTray02",
+      "version": "1"
+    },
+    {
+      "name": "previewTray01",
+      "version": "9"
+    },
+    {
+      "name": "tray01",
+      "version": "42"
+    },
+    {
+      "name": "tray02",
+      "version": "17"
+    },
+    {
+      "name": "tray03",
+      "version": "13"
+    },
+    {
+      "name": "tray04",
+      "version": "43"
+    },
+    {
+      "name": "tray05",
+      "version": "7"
+    },
+    {
+      "name": "tray06",
+      "version": "1"
+    },
+    {
+      "name": "tray07",
+      "version": "2"
+    },
+    {
+      "name": "tray08",
+      "version": "2"
+    },
+    {
+      "name": "tray11",
+      "version": "1"
+    },
+    {
+      "name": "tray12",
+      "version": "3"
+    },
+    {
+      "name": "tray13",
+      "version": "1"
+    },
+    {
+      "name": "trayFeaturedVideo01",
+      "version": "5"
+    },
+    {
+      "name": "tvProvider01",
+      "version": "0"
+    },
+    {
+      "name": "personalization01",
+      "version": "0"
+    },
+    {
+      "name": "personalization02",
+      "version": "0"
+    },
+    {
+      "name": "banner02",
+      "version": "1"
+    },
+    {
+      "name": "createPassword01",
+      "version": "1"
+    },
+    {
+      "name": "downloadSettings01",
+      "version": "6"
+    },
+    {
+      "name": "languageSettings01",
+      "version": "3"
+    },
+    {
+      "name": "profile02",
+      "version": "2"
+    },
+    {
+      "name": "profile03",
+      "version": "2"
+    },
+    {
+      "name": "resetPassword01",
+      "version": "3"
+    },
+    {
+      "name": "resetPassword03",
+      "version": "1"
+    },
+    {
+      "name": "userManagement01",
+      "version": "14"
+    },
+    {
+      "name": "userManagement02",
+      "version": "7"
+    },
+    {
+      "name": "userManagement03",
+      "version": "3"
+    },
+    {
+      "name": "userManagement04",
+      "version": "2"
+    },
+    {
+      "name": "userManagement05",
+      "version": "1"
+    },
+    {
+      "name": "videoInfo01",
+      "version": "3"
+    },
+    {
+      "name": "videoPlayer01",
+      "version": "3"
+    },
+    {
+      "name": "videoPlayerInfo01",
+      "version": "12"
+    },
+    {
+      "name": "videoPlayerInfo01__TEMP__NO_STARS",
+      "version": "4"
+    },
+    {
+      "name": "videoPlayerInfo01_temp_withoutdownload",
+      "version": "1"
+    },
+    {
+      "name": "videoPlayerInfo02",
+      "version": "17"
+    },
+    {
+      "name": "videoPlayerInfo03",
+      "version": "3"
+    },
+    {
+      "name": "videoPlayerInfo04",
+      "version": "1"
+    },
+    {
+      "name": "videoPlayerInfo05",
+      "version": "4"
+    },
+    {
+      "name": "videoPlayerInfo06",
+      "version": "3"
+    },
+    {
+      "name": "watchlist01",
+      "version": "17"
+    },
+    {
+      "name": "watchlist02",
+      "version": "8"
+    },
+    {
+      "name": "watchlist03",
+      "version": "3"
+    },
+    {
+      "name": "weatherTray01",
+      "version": "0"
+    }
+  ],
+  "blocksVersion": "567",
+  "version": "0.89384.0",
+  "blocksBundleUrl": "https://appcmsprod.viewlift.com/template-builder/blocksBundle/android.json",
+  "blocksBaseUrl": "https://appcmsprod.viewlift.com/template-builder/blocks",
+  "pagesUpdated": 1607943778000
+}

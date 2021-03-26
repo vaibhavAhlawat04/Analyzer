@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/more_info_layout_sslc" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.sslwireless.sslcommerzlibrary.view.custom.SSLCCustomTextView android:textColor="@color/black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="We use SSLCOMMERZ to securely store your payment info for quick checkout on this site and others." app:textStyle="Normal" />
+    <com.sslwireless.sslcommerzlibrary.view.custom.SSLCCustomTextView android:textColor="@color/colorPrimary" android:id="@id/moreInfo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="More Info" app:textStyle="Bold" />
+</LinearLayout>

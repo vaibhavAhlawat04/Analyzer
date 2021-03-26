@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/iv_card" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/default_card" android:adjustViewBounds="true" />
+        <ImageView android:orientation="vertical" android:id="@id/selectedContentArea" android:visibility="gone" android:layout_width="120.0dip" android:layout_height="120.0dip" android:src="@drawable/ic_overlay_tick_sslc" />
+    </RelativeLayout>
+    <View android:id="@id/view" android:background="@color/white_off" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

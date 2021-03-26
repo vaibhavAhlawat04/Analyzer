@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="18.0dip" android:width="25.0dip" android:stackViewStyle="25.0" android:numberPickerStyle="18.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:timePickerStyle="#ffffffff" android:activityChooserViewStyle="M1.524,0h21.952C24.314,0 25,0.698 25,1.55v14.4c0,0.852 -0.686,1.55 -1.524,1.55L1.524,17.5C0.686,17.5 0,16.802 0,15.95L0,1.55C0,0.698 0.686,0 1.524,0zM18.77,11.176c0.396,0 0.764,0.12 1.07,0.327 0.308,-0.207 0.676,-0.327 1.072,-0.327 1.075,0 1.945,0.886 1.945,1.98 0,1.093 -0.87,1.98 -1.945,1.98 -0.396,0 -0.764,-0.12 -1.071,-0.327 -0.307,0.206 -0.675,0.327 -1.071,0.327 -1.074,0 -1.946,-0.887 -1.946,-1.98 0,-1.094 0.872,-1.98 1.946,-1.98zM2.612,10.37L9.46,10.37v1.676L2.612,12.046L2.612,10.37zM2.612,13.44h10.615v1.677L2.612,15.117L2.612,13.44z" android:fillType="1" />
+</vector>

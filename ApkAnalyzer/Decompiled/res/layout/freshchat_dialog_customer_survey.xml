@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/freshchat_custsurvey_question_text" style="?freshchatCustomerSurveyQuestionTextStyle" />
+    <RatingBar android:id="@id/freshchat_custsurvey_rating_bar" android:numStars="5" android:stepSize="1.0" style="?freshchatCustomerSurveyRatingBarStyle" />
+    <EditText android:id="@id/freshchat_custsurvey_user_comment" style="?freshchatCustomerSurveyCommentsInputViewStyle" />
+</LinearLayout>

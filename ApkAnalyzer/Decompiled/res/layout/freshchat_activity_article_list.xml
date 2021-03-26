@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/freshchat_contact_us_group" style="?freshchatFAQListStyle" />
+    <include android:id="@id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/freshchat_contact_us_group" layout="@layout/freshchat_partial_faq_list_empty" />
+    <androidx.core.widget.ContentLoadingProgressBar android:id="@id/freshchat_article_list_cl_progressbar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+    <include android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" layout="@layout/freshchat_partial_start_conversation_frame" />
+</RelativeLayout>

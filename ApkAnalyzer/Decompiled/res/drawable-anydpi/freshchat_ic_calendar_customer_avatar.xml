@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="101.0dip" android:width="100.0dip" android:stackViewStyle="100.0" android:numberPickerStyle="101.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:timePickerStyle="#ffa2d1f5" android:activityChooserViewStyle="M50,50m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    <group>
+        <clip-path android:activityChooserViewStyle="M0,0h100v101h-100z M 0,0" />
+        <path android:timePickerStyle="#ffa2d1f5" android:activityChooserViewStyle="M50.281,100.046C78.316,100.046 100.5,77.614 100.5,50C100.5,22.386 78.316,0.046 50.281,0.046C22.246,0.046 0.5,21.886 0.5,49.5C0.5,77.114 22.246,100.046 50.281,100.046Z" />
+        <path android:timePickerStyle="#ff45a4ec" android:activityChooserViewStyle="M51.11,77.386C52.504,77.386 53.633,75.944 53.633,74.165C53.633,72.387 52.504,70.945 51.11,70.945C49.717,70.945 48.587,72.387 48.587,74.165C48.587,75.944 49.717,77.386 51.11,77.386Z" />
+        <path android:timePickerStyle="#ff45a4ec" android:activityChooserViewStyle="M49.43,54.639H49.285C45.21,54.639 41.873,58.853 41.873,64.004V73.34C41.873,77.427 43.978,80.921 46.89,82.188C46.965,82.159 47.053,82.153 47.14,82.141C47.303,81.827 47.402,79.653 47.756,79.502C49.465,78.764 51.657,79.316 53.395,79.601C55.592,77.973 56.86,76.776 56.86,73.34V64.004C56.848,58.853 53.511,54.639 49.43,54.639Z" android:actionModeShareDrawable="#ffa2d1f5" android:actionModeFindDrawable="2.0" />
+        <path android:timePickerStyle="#ff45a4ec" android:activityChooserViewStyle="M31.421,49.744C34.837,49.744 37.606,46.67 37.606,42.879C37.606,39.087 34.837,36.013 31.421,36.013C28.005,36.013 25.236,39.087 25.236,42.879C25.236,46.67 28.005,49.744 31.421,49.744Z" android:actionModeShareDrawable="#ffa2d1f5" android:actionModeFindDrawable="3.0" />
+        <path android:timePickerStyle="#ff45a4ec" android:activityChooserViewStyle="M67.649,49.825C71.065,49.825 73.834,46.751 73.834,42.96C73.834,39.168 71.065,36.094 67.649,36.094C64.233,36.094 61.464,39.168 61.464,42.96C61.464,46.751 64.233,49.825 67.649,49.825Z" android:actionModeShareDrawable="#ffa2d1f5" android:actionModeFindDrawable="3.0" />
+        <path android:timePickerStyle="#ff45a4ec" android:activityChooserViewStyle="M49.721,64.783C59.526,64.783 67.475,54.726 67.475,42.32C67.475,29.915 59.526,19.858 49.721,19.858C39.916,19.858 31.967,29.915 31.967,42.32C31.967,54.726 39.916,64.783 49.721,64.783Z" android:actionModeShareDrawable="#ffa2d1f5" android:actionModeFindDrawable="2.0" />
+        <path android:timePickerStyle="#ff0053bf" android:activityChooserViewStyle="M49.535,72.59C35.031,72.59 21.962,76.728 12.792,83.344C18.384,89.563 33.524,100.054 49.535,100.5C67.5,101 80.5,92.5 87,83.876C77.8,76.95 64.424,72.59 49.535,72.59Z" />
+    </group>
+</vector>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@id/drop_down_list_item_text" style="?freshchatDropDownItemTextStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

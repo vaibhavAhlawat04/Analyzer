@@ -1,0 +1,528 @@
+{
+  "moduleList": [
+    {
+      "id": "57969768-f4b0-4892-ae66-c54bd5a5eb68",
+      "settings": {
+        "isCollapsed": false,
+        "mobileSidebarBackgroundColor": {},
+        "linkAlignment": "left",
+        "enableCustomStyle": false,
+        "isMasthead": true,
+        "hideLogo": false,
+        "isBannerHidden": false
+      },
+      "view": "AC Masthead 01",
+      "type": "AC Masthead 01",
+      "blockName": "masthead01",
+      "layout": {},
+      "components": []
+    },
+    {
+      "id": "01f0dea1-1d91-481a-9ef5-6d6e1db66c13",
+      "settings": {
+        "loop": true,
+        "timeDelay": "3",
+        "infoHover": false,
+        "thumbnailType": "landscape",
+        "useSixteen": true
+      },
+      "view": "AC Carousel 04",
+      "type": "AC Carousel 04",
+      "blockName": "carousel04"
+    },
+    {
+      "id": "1b94d64c-5a09-4694-ad25-8b34b4d72ae1",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": {}
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "19ec7f0b-66d6-431c-afa8-60e4613f5074",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 5,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "landscape",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray02"
+    },
+    {
+      "id": "0ad1b337-c7ec-4100-ba22-9876a70b17a7",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 6,
+          "mobile": 3,
+          "ott": 6
+        },
+        "enableCustomStyle": false,
+        "progressBarColor": {},
+        "thumbnailType": "landscape",
+        "trayArrowColor": {}
+      },
+      "view": "AC ContinueWatching 01",
+      "type": "AC ContinueWatching 01",
+      "blockName": "continueWatching01"
+    },
+    {
+      "id": "b38dc1a1-4e28-4eec-b877-7c2cc7db1d2a",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "3986a930-c7c3-4199-8b4c-15661c7d3316",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 6,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "748f21ca-ce1d-489f-9cfb-3b8fef03a62e",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 8
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "93ee065e-b50e-4b08-8a01-ed6dc55dbe3c",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "0e900f43-3210-408b-be22-4176c1df1d80",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "855dce9d-a8a2-41ff-a688-8c43bef482e1",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": {}
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "45bf0c26-b6d3-4bfd-9c4b-11761947291d",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 2,
+          "desktop": 4,
+          "mobile": 2,
+          "ott": 4
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "landscape",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray04"
+    },
+    {
+      "id": "fb86a8f6-4125-438a-bccc-f4cd6ece3750",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "ae1c3dac-fe7e-409d-abc4-56098dd556af",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": {}
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "33fc8abd-74c5-4ee2-86ba-90ca316518e2",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 8
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "cb429185-1610-4ac4-aaf2-5ea2c27da2b2",
+      "settings": {
+        "loop": true,
+        "timeDelay": "",
+        "infoHover": false,
+        "thumbnailType": "landscape",
+        "useSixteen": true
+      },
+      "view": "AC Carousel 04",
+      "type": "AC Carousel 04",
+      "blockName": "carousel04"
+    },
+    {
+      "id": "3b45f7e4-24d6-42e3-9e36-19b5a6298a8e",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": {}
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "09772532-9e2a-446b-8d50-3f52f845157f",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 6,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "3c7cf8f7-12e7-42df-942e-73171a53e6e1",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "370e2950-7b75-4f5d-8d42-7c569e10d48f",
+      "settings": {
+        "loop": true,
+        "timeDelay": "",
+        "infoHover": false,
+        "thumbnailType": "landscape",
+        "useSixteen": true
+      },
+      "view": "AC Carousel 04",
+      "type": "AC Carousel 04",
+      "blockName": "carousel04"
+    },
+    {
+      "id": "956eb98d-5ec7-44ca-b30a-13eca6e982c0",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 8
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "4b4908e6-b22b-4c77-96cc-3a957def05ad",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": {}
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "6e849b4e-810b-410e-9123-c3166a6b2b97",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 8
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "b3d73aeb-3b37-431b-8e29-50fffc03f67b",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 6,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "landscape",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray02"
+    },
+    {
+      "id": "25dd1c20-ebfb-489d-a6d8-69850c8fee6f",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "64245490-f59a-477e-83a8-e7576601fede",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 5,
+          "desktop": 7,
+          "mobile": 3,
+          "ott": 8
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "landscape",
+        "trayArrowColor": {}
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray02"
+    },
+    {
+      "id": "8b800868-ed22-476c-b43d-1582163e1a25",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "391fd5f2-f2d3-4484-81e4-ebd1f2f82f03",
+      "settings": {
+        "loop": false,
+        "columns": {
+          "tablet": 4,
+          "desktop": 8,
+          "mobile": 3,
+          "ott": 6
+        },
+        "aspectRatio": 0,
+        "enableCustomStyle": false,
+        "thumbnailType": "portrait",
+        "trayArrowColor": ""
+      },
+      "view": "AC Tray 01",
+      "type": "AC Tray 01",
+      "blockName": "tray01"
+    },
+    {
+      "id": "20a0a13a-433b-4251-8095-36f43c366d8d",
+      "settings": {},
+      "view": "AC RawHtml 01",
+      "type": "AC RawHtml 01",
+      "blockName": "rawHtml01"
+    }
+  ],
+  "caching": {
+    "isEnabled": true
+  },
+  "version": "0.0.3575",
+  "pageStyle": null
+}

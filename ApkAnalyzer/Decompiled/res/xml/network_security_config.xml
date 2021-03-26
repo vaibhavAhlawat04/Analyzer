@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <debug-overrides>
+        <trust-anchors />
+    </debug-overrides>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">appcmsprod.viewlift.com/</domain>
+        <domain includeSubdomains="true">prod-api.viewlift.com</domain>
+        <domain includeSubdomains="true">appcmsstaging.viewlift.com/</domain>
+        <domain includeSubdomains="true">staging-api.viewlift.com/</domain>
+        <domain includeSubdomains="true">prod-api-cached-2.viewlift.com/</domain>
+    </domain-config>
+</network-security-config>

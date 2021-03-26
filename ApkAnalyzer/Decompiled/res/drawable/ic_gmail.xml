@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="30.0dip" android:width="30.0dip" android:stackViewStyle="30.0" android:numberPickerStyle="30.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:timePickerStyle="#ffffffff" android:activityChooserViewStyle="M15,15m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0" android:fillType="1" />
+    <path android:timePickerStyle="#ffc5221f" android:activityChooserViewStyle="M5,10.05v1.817l2.085,2.019 2.46,1.39L10,12.216l-0.455,-2.849L8.273,8.413C6.923,7.4 5,8.363 5,10.049z" android:fillType="0" />
+    <path android:timePickerStyle="#fffbbc04" android:activityChooserViewStyle="M20.455,9.367L20,12.254l0.455,3.022 2.232,-1.105L25,11.867L25,10.05C25,8.364 23.076,7.401 21.727,8.413l-1.272,0.954z" android:fillType="0" />
+    <path android:timePickerStyle="#ff4285f4" android:activityChooserViewStyle="M6.364,23.004h3.181L9.545,15.276L5,11.867v9.773c0,0.753 0.61,1.364 1.364,1.364z" android:fillType="0" />
+    <path android:timePickerStyle="#ff34a853" android:activityChooserViewStyle="M20.455,23.004h3.181c0.754,0 1.364,-0.61 1.364,-1.364L25,11.867l-4.545,3.41v7.727z" android:fillType="0" />
+    <path android:timePickerStyle="#ffea4335" android:activityChooserViewStyle="M15,13.458L9.545,9.367 9.545,15.276 15,19.367 20.455,15.276 20.455,9.367z" android:fillType="0" />
+</vector>

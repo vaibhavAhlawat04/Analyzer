@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/freshchat_listitem_message" />
+    <androidx.recyclerview.widget.RecyclerView android:orientation="horizontal" android:id="@id/freshchat_message_carousel_recycler_view" android:paddingLeft="16.0dip" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/freshchat_carousel_min_height" android:paddingStart="16.0dip" style="?freshchatMessageListItemStyle" />
+</LinearLayout>

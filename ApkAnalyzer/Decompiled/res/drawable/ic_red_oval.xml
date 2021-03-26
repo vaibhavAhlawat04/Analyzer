@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="4.0dip" android:width="4.0dip" android:stackViewStyle="4.0" android:numberPickerStyle="4.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:timePickerStyle="#fff4181c" android:activityChooserViewStyle="M2,4a2,2 0,1 0,0 -4,2 2,0 0,0 0,4z" />
+</vector>

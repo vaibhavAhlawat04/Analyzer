@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="108.0dip" android:width="108.0dip" android:stackViewStyle="108.0" android:numberPickerStyle="108.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:timePickerStyle="#ff3ddc84" android:activityChooserViewStyle="M0,0h108v108h-108z" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M9,0L9,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M19,0L19,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M29,0L29,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M39,0L39,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M49,0L49,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M59,0L59,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M69,0L69,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M79,0L79,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M89,0L89,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M99,0L99,108" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,9L108,9" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,19L108,19" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,29L108,29" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,39L108,39" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,49L108,49" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,59L108,59" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,69L108,69" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,79L108,79" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,89L108,89" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M0,99L108,99" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M19,29L89,29" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M19,39L89,39" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M19,49L89,49" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M19,59L89,59" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M19,69L89,69" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M19,79L89,79" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M29,19L29,89" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M39,19L39,89" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M49,19L49,89" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M59,19L59,89" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M69,19L69,89" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+    <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M79,19L79,89" android:actionModeShareDrawable="#33ffffff" android:actionModeFindDrawable="0.8" />
+</vector>

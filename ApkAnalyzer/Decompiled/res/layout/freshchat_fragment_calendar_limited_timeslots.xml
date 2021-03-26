@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/freshchat_fragment_calendar_limited_time_slots_progressbar" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:layout_centerInParent="true" style="?freshchatProgressBarStyle" />
+    <LinearLayout android:orientation="vertical" android:id="@id/freshchat_limited_time_slots_view_content" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/freshchat_calendar_limited_timeslots_list" />
+        <include layout="@layout/freshchat_calendar_no_timeslots_found" />
+        <include layout="@layout/freshchat_calendar_retry_layout" />
+    </LinearLayout>
+</RelativeLayout>

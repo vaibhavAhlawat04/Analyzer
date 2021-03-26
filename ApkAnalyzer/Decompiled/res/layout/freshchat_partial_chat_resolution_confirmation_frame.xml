@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/freshchat_chat_resolution_confirmation_layout" android:visibility="gone" android:majorWeightMax="@dimen/freshchat_message_composer_elevation" style="?freshchatChatResolutionPromptViewStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/freshchat_chat_resolution_prompt_divider" android:background="@color/freshchat_chat_resolution_prompt_divider" android:layout_width="fill_parent" android:layout_height="@dimen/freshchat_chat_resolution_prompt_divider_height" />
+    <TextView android:id="@id/freshchat_chat_resolution_prompt_tv" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?freshchatChatResolutionPromptTextStyle" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/freshchat_chat_resolution_negative_btn" style="?freshchatChatResolutionNegativeButtonStyle" />
+        <Button android:id="@id/freshchat_chat_resolution_positive_btn" style="?freshchatChatResolutionPositiveButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

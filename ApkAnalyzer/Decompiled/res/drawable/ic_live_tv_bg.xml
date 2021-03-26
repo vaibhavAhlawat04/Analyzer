@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="100.0dip" android:width="157.0dip" android:stackViewStyle="157.0" android:numberPickerStyle="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:timePickerStyle="@drawable/$ic_live_tv_bg__0" android:activityChooserViewStyle="M10,0L147,0A10,10 0,0 1,157 10L157,90A10,10 0,0 1,147 100L10,100A10,10 0,0 1,0 90L0,10A10,10 0,0 1,10 0z" android:fillType="1" />
+    <group>
+        <clip-path android:activityChooserViewStyle="M10,0L147,0A10,10 0,0 1,157 10L157,90A10,10 0,0 1,147 100L10,100A10,10 0,0 1,0 90L0,10A10,10 0,0 1,10 0z" />
+        <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M115.882,11L162.942,11A5.882,5.882 0,0 1,168.824 16.882L168.824,49.236A5.882,5.882 0,0 1,162.942 55.118L115.882,55.118A5.882,5.882 0,0 1,110 49.236L110,16.882A5.882,5.882 0,0 1,115.882 11z" android:actionModeShareDrawable="#ffffffff" android:actionModeFindDrawable="4.0" android:preferencePanelStyle="1" android:preferenceHeaderPanelStyle="1" android:strokeAlpha="0.5" android:fillAlpha="0.5" android:fillType="1" />
+        <path android:timePickerStyle="#00000000" android:activityChooserViewStyle="M154.118,-4L139.412,10.706 124.706,-4M138,45.5L140,45.5" android:actionModeShareDrawable="#ffffffff" android:actionModeFindDrawable="4.0" android:preferencePanelStyle="1" android:preferenceHeaderPanelStyle="1" android:strokeAlpha="0.5" android:fillAlpha="0.5" android:fillType="1" />
+    </group>
+</vector>

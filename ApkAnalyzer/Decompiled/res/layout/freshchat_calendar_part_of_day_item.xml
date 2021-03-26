@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/freshchat_calendar_timeslot_list_padding" android:paddingEnd="@dimen/freshchat_calendar_timeslot_list_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/freshchat_calendar_part_of_day_header" />
+    <com.freshchat.consumer.sdk.ui.NonScrollableGridView android:id="@id/freshchat_calendar_timeslots_grid_view" android:paddingTop="4.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:horizontalSpacing="@dimen/freshchat_calendar_timeslots_list_item_spacing" android:verticalSpacing="@dimen/freshchat_calendar_timeslots_list_item_spacing" />
+</LinearLayout>

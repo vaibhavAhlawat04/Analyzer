@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="20.0dip" android:width="20.0dip" android:stackViewStyle="20.0" android:numberPickerStyle="20.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:timePickerStyle="@drawable/$ic_bandhan_bank_logo__0" android:activityChooserViewStyle="M9.6,0.007C4.278,0.167 0,4.52 0,9.88 0,15.343 4.428,19.77 9.884,19.77c1.809,-0 6.72,-0.758 9.034,-5.864 -0.992,0.404 -2.077,0.627 -3.212,0.627 -4.713,-0 -8.52,-3.054 -8.527,-7.764 -0.005,-2.422 0.727,-4.37 1.848,-5.805 0.227,-0.293 0.602,-0.702 0.857,-0.963l-0.284,0.006" android:fillType="0" />
+    <path android:timePickerStyle="@drawable/$ic_bandhan_bank_logo__1" android:activityChooserViewStyle="M10.771,0.962c1.483,1.98 1.827,3.87 1.827,5.814 0,4.71 -3.818,7.765 -8.527,7.765 -1.136,-0 -2.217,-0.224 -3.21,-0.627C3.218,19.168 8.08,19.778 9.89,19.778c5.46,-0 9.888,-4.428 9.888,-9.89 0,-5.361 -4.278,-9.716 -9.602,-9.875l-0.292,-0.013c0.257,0.26 0.666,0.664 0.887,0.962" android:fillType="0" />
+    <path android:timePickerStyle="#ffffffff" android:activityChooserViewStyle="M8.863,1.181C7.826,2.615 7.167,4.485 7.176,6.731 7.186,9.199 8.238,11.255 9.894,12.615c1.646,-1.359 2.736,-3.376 2.704,-5.838 -0.021,-1.843 -0.194,-3.566 -1.783,-5.755 -0.253,-0.35 -0.695,-0.802 -0.926,-1.02 -0.027,-0 -0.621,0.62 -1.026,1.18" android:fillType="0" />
+</vector>

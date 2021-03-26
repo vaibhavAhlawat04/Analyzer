@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/freshchat_solution_article_root_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/freshchat_contact_us_group" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignWithParentIfMissing="true" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" layout="@layout/freshchat_partial_article_voting_frame" />
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" layout="@layout/freshchat_partial_start_conversation_frame" />
+</RelativeLayout>

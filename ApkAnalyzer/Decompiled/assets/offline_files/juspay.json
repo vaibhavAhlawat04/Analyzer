@@ -1,0 +1,19 @@
+{
+  "moduleList": [
+    {
+      "id": "2aae3e1a-139f-4325-a7b2-f9ea48980f0d",
+      "settings": {
+        "upiEnabled": true,
+        "walletEnabled": true,
+        "cardEnabled": true,
+        "isNetbankingEnabled": true
+      },
+      "view": "AC Payment 01",
+      "type": "AC Payment 01",
+      "blockName": "paymentGateway01"
+    }
+  ],
+  "caching": {},
+  "version": "0.0.66",
+  "pageStyle": null
+}

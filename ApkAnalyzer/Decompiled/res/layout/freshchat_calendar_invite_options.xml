@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatButton android:id="@id/freshchat_calendar_find_slot_button" style="?freshchatCalendarFindASlotButtonStyle" />
+    <androidx.appcompat.widget.AppCompatButton android:id="@id/freshchat_calendar_not_interested_textview" style="?freshchatCalendarNotInterestedButtonStyle" />
+</LinearLayout>

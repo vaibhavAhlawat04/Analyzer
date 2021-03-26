@@ -1,0 +1,36 @@
+<html>
+<head>
+    <title>Hyper OS</title>
+</head>
+<body>
+</body>
+<script>
+    window.DUIGatekeeper = JBridge;
+</script>
+<script type="text/javascript">
+    var headID = document.getElementsByTagName("head")[0];
+    var newScript = document.createElement('script');
+    newScript.type = 'text/javascript';
+    newScript.id = 'boot_loader';
+    newScript.innerHTML = JBridge.loadFileInDUI('v1-boot_loader.jsa');
+    headID.appendChild(newScript);
+</script>
+
+<script type="text/javascript">
+    // Loading polyfill file if wrapper
+    window.JBridge = top.JBridge;
+    var isWrapper = false;
+    try {
+        var wrapper_version = JBridge.getResourceByName("wrapper_version");
+        var wrapper_build_version = JBridge.getResourceByName("wrapper_build_version");
+        isWrapper = wrapper_version !== "" && wrapper_build_version !== "";
+    } catch (err) {
+        console.log("This is not a wrapper build");
+    }
+    if (isWrapper) {
+        console.log("Adding polyfill for wrapper");
+        eval(JBridge.loadFileInDUI('v1-polyfill.jsa'));
+    }
+</script>
+
+</html>

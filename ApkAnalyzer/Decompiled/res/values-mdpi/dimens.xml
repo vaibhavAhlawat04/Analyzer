@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_183">183.0dip</dimen>
+    <dimen name="size_26">26.0dip</dimen>
+    <dimen name="size_30">30.0dip</dimen>
+    <dimen name="width_360">360.0dip</dimen>
+    <dimen name="hoichoi_original_height">110.0dip</dimen>
+    <dimen name="hoichoi_original_width">196.0dip</dimen>
+    <dimen name="home_module_title_text_size">14.0sp</dimen>
+    <dimen name="right_arrow_height">10.0dip</dimen>
+    <dimen name="right_arrow_width">6.0dip</dimen>
+    <dimen name="top_overlay_height">57.0dip</dimen>
+    <dimen name="top_overlay_width">360.0dip</dimen>
+    <dimen name="tray02_height">92.0dip</dimen>
+    <dimen name="tray02_width">325.0dip</dimen>
+</resources>

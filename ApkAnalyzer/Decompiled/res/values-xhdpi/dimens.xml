@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_26">52.0dip</dimen>
+    <dimen name="size_30">60.0dip</dimen>
+    <dimen name="right_arrow_height">20.0dip</dimen>
+    <dimen name="right_arrow_width">12.0dip</dimen>
+    <dimen name="top_overlay_height">114.0dip</dimen>
+    <dimen name="top_overlay_width">720.0dip</dimen>
+    <dimen name="emi_text_size">9.0sp</dimen>
+</resources>

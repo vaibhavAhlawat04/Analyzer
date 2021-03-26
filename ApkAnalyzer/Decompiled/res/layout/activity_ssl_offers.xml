@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/toolbar" layout="@layout/ssl_toolbar" />
+    <View android:background="@color/very_light_grey" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip">
+        <com.sslwireless.sslcommerzlibrary.view.custom.SSLCCustomTextView android:textSize="18.0dip" android:gravity="center" android:id="@id/tv_data_not_found" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:text="@string/no_offer_message" android:layout_centerInParent="true" app:textStyle="Normal" />
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/offersRecycler" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>
