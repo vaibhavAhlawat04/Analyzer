@@ -24,13 +24,13 @@ public class ApkDecompiler {
 				isFrameworkInstalled = true;
 			}
 		}
-		this.apkFile = apkFile;
+		ApkDecompiler.apkFile = apkFile;
 	}
 
 	private void installFramework() {
 		ApkOptions apkOptions = new ApkOptions();
 		try {
-			new Androlib(apkOptions).installFramework(new File("lib" + File.separator + "framework-res.apk"));
+			new Androlib(apkOptions).installFramework(new File("libs" + File.separator + "framework-res.apk"));
 		} catch (AndrolibException e) {
 			System.out.println("failed installation");
 			e.printStackTrace();

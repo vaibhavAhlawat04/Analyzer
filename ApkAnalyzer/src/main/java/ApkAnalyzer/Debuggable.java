@@ -22,15 +22,15 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 
 public class Debuggable {
-	private static Archive archive;
+    private static Archive archive;
 	private static Locations locations = new Locations(); 
 	private static ApkManifestData manifest = new ApkManifestData();
 	
-	public Debuggable() {
+	public Debuggable(){
 		
 		Path apkPath = locations.getApkPath();
 		try { 		
-			
+
 			archive =Archives.open(apkPath);
 			
 			manifest.setDebuggable(manifestDebuggable());
@@ -51,17 +51,22 @@ public class Debuggable {
 	}
 	
 	 @NonNull
-	    private static ManifestData getManifestData(@NonNull Archive archive)
-	            throws IOException, ParserConfigurationException, SAXException {
+	  private static ManifestData getManifestData(@NonNull Archive archive)
+	            throws IOException, ParserConfigurationException, SAXException{
 	        Path manifestPath = archive.getContentRoot().resolve(SdkConstants.ANDROID_MANIFEST_XML);
 	        byte[] manifestBytes =
 	                BinaryXmlParser.decodeXml(
 	                        SdkConstants.ANDROID_MANIFEST_XML, Files.readAllBytes(manifestPath));
-	        return AndroidManifestParser.parse(new ByteArrayInputStream(manifestBytes));
+	        try {
+				return AndroidManifestParser.parse(new ByteArrayInputStream(manifestBytes));
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			return null;
 	    }
 	    public static boolean manifestDebuggable() {
-	        try {
-	        	
+	        try { 	
 	            ManifestData manifestData = getManifestData(archive);
 	            return manifestData.getDebuggable() != null ? manifestData.getDebuggable() : false;
 	        } catch (SAXException | ParserConfigurationException e) {
@@ -70,7 +75,7 @@ public class Debuggable {
 	            throw new UncheckedIOException(e);
 	        }
 	    }
-	    public static SupportsScreens ScreenSupport() {
+	    public static SupportsScreens ScreenSupport(){
 	    	try {
 	            ManifestData manifestData = getManifestData(archive);
 	            return manifestData.getSupportsScreensValues();
@@ -80,7 +85,7 @@ public class Debuggable {
 	            throw new UncheckedIOException(e);
 	        }
 	    }
-	    public static int minSdkVersion() {
+	    public static int minSdkVersion(){
 	        try {
 	            ManifestData manifestData = getManifestData(archive);
 	            return manifestData.getMinSdkVersion();
@@ -90,7 +95,7 @@ public class Debuggable {
 	            throw new UncheckedIOException(e);
 	        }
 	    }
-	    public static String manifestVersionCode() {
+	    public static String manifestVersionCode(){
 	        try {
 	            ManifestData manifestData = getManifestData(archive);
 	          
@@ -111,7 +116,7 @@ public class Debuggable {
 	            throw new UncheckedIOException(e);
 	        }
 	    }
-	    public int targetSdkVersion() {
+	    public int targetSdkVersion(){
 	    	try {
 	    		ManifestData manifestData = getManifestData(archive);
 	    		return manifestData.getTargetSdkVersion();
@@ -120,6 +125,5 @@ public class Debuggable {
 	        } catch (IOException e) {
 	            throw new UncheckedIOException(e);
 	        }
-	    	
 	    }
 }

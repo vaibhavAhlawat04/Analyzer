@@ -16,20 +16,26 @@ repositories {
     // You can declare any Maven/Ivy/file repository here.
     jcenter()
 }
-
+task fatJar(type: Jar) {
+   
+    manifest {
+        attributes 'Main-Class': 'Main.MainClass'
+    }
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    
+}
 dependencies {
     // This dependency is exported to consumers, that is to say found on their compile classpath.
-    api 'org.apache.commons:commons-math3:3.6.1'
+    compile 'org.apache.commons:commons-math3:3.6.1'
 
     // This dependency is used internally, and not exposed to consumers on their own compile classpath.
-    implementation 'com.google.guava:guava:28.2-jre'
-
-    // Use JUnit test framework
-    testImplementation 'junit:junit:4.12'
+    compile 'com.google.guava:guava:28.2-jre'
     
-     // https://mvnrepository.com/artifact/com.android.tools.apkparser/apkanalyzer
-    implementation group: 'com.android.tools.apkparser', name: 'apkanalyzer', version: '27.1.2'
-
-	implementation group: 'org.smali', name: 'dexlib2', version: '2.5.2'
+    // https://mvnrepository.com/artifact/com.android.tools/sdk-common
+    implementation group: 'com.android.tools', name: 'sdk-common', version: '25.3.0'
     
+     compile fileTree(include: ['*.jar'], dir: 'libs')
+  
 }

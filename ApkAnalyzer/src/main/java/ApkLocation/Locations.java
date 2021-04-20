@@ -10,7 +10,7 @@ public class Locations {
 		return apkPath;
 	}
 	public void setApkPath(Path apkPath) {
-		this.apkPath = apkPath;
+		Locations.apkPath = apkPath;
 	}
 	public Path getDecompiledFolder() {
 		return DecompiledFolder;

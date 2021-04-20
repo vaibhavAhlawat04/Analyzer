@@ -9,13 +9,9 @@ import apkData.ApkSizeData;
 
 public class analyzeApk {
 	
-	private static Size apkSize; 
 	private static Locations locations = new Locations(); 
 	private static ApkSizeData apkdata = new ApkSizeData(); 
-	private static Manifest manifest;
 	private static ApkManifestData manifestdata = new ApkManifestData();
-	private static Debuggable debugable;
-	
 	public analyzeApk(Path apkPath){
 		
 		System.out.println("Apk Location: " + locations.getApkPath());
@@ -25,9 +21,9 @@ public class analyzeApk {
 			FileWriter output = new FileWriter(file,true);
 			System.out.println("OutputFile location:   " + System.getProperty("user.dir"));
 			
-			apkSize = new Size(apkPath);	
-			manifest = new Manifest();
-			debugable = new Debuggable();
+			new Size(apkPath);	
+			new Manifest();
+			//new Debuggable();
 			
 			System.out.println("Apk Size:  "+ "\n" + apkdata.toString());
 			System.out.println("Manifest Data: "+ "\n" + manifestdata.toString());

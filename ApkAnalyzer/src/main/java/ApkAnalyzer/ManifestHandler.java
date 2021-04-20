@@ -22,7 +22,7 @@ public class ManifestHandler  extends DefaultHandler {
 	public void startElement(String uri, String localName, String qName, Attributes attributes) throws SAXException{
 		if(qName.equalsIgnoreCase("manifest")) {
 			manifestdata.setCompileSdkVersion(attributes.getValue("android:compileSdkVersion"));
-			manifestdata.setPackageName(attributes.getValue("package"));
+			ApkManifestData.setPackageName(attributes.getValue("package"));
 			manifestdata.setCompileSdkVersionName(attributes.getValue("android:compileSdkVersionCodename"));
 		}
 		if(qName.equalsIgnoreCase("activity")) {
@@ -31,7 +31,7 @@ public class ManifestHandler  extends DefaultHandler {
 		}
 		if(qName.equalsIgnoreCase("uses-permission")) {
 			permissionList.add(attributes.getValue("android:name"));
-			manifestdata.setPermissions(permissionList);
+			ApkManifestData.setPermissions(permissionList);
 		}
 		if(qName.equalsIgnoreCase("Service")) {
 			ServiceList.add(attributes.getValue("android:name"));

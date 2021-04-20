@@ -12,21 +12,17 @@ import ApkLocation.Locations;
 import apkData.ApkSizeData;
 
 public class Size {
-	
 
-	@NonNull
-	private static Path apkPath;
 	public Locations locations;	 
 	private long ResourceSize = 0;
-	private static long LibSize = 0;
 	private ApkSizeData apkdata = new ApkSizeData(); 
 	
 	
 	public Size(Path apkPath) {
 		if(apkPath!=null) {
-			apkdata.setApkRawSize(apkRawSize(apkPath));
-			apkdata.setApkDownloadSize(apkRawSize(apkPath));
-			apkdata.setApkResourceSize(apkResourceSize(apkPath));
+				apkdata.setApkRawSize(apkRawSize(apkPath));
+				apkdata.setApkDownloadSize(apkDownloadSize(apkPath));
+				ApkSizeData.setApkResourceSize(apkResourceSize(apkPath));
 		
 		}else {
 			System.out.println("Null path");

@@ -2,49 +2,47 @@ package apkData;
 
 import java.util.List;
 
-import org.apache.commons.lang3.StringUtils;
-
 import com.android.ide.common.xml.ManifestData.SupportsScreens;
 
 
 public class ApkManifestData {
 	
 	private static String packageName;
-	private static List permissionsList;
+	private static List<?> permissionsList;
 	private static String compileSdkVersionName;
 	private static String compileSdkVersion;
-	private static List activityList;
+	private static List<?> activityList;
 	private static boolean Debuggable;
 	private static SupportsScreens SupportedScreens;
 	private static int minSdkVersion;
 	private static int targetSdkVersion;
 	private static String versionName;
 	private static String versionCode;
-	private static List Services;
-	private static List ContentProvider;
+	private static List<?> Services;
+	private static List<?> ContentProvider;
 	
 	public static int getTargetSdkVersion() {
 		return targetSdkVersion;
 	}
 
 	public void setTargetSdkVersion(int targetSdkVersion) {
-		this.targetSdkVersion = targetSdkVersion;
+		ApkManifestData.targetSdkVersion = targetSdkVersion;
 	}
 	
-	public static List getContentProvider() {
+	public static List<?> getContentProvider() {
 		return ContentProvider;
 	}
 
-	public void setContentProvider(List contentProvider) {
-		this.ContentProvider = contentProvider;
+	public void setContentProvider(List<?> contentProvider) {
+		ApkManifestData.ContentProvider = contentProvider;
 	}
 
-	public static List getServices() {
+	public static List<?> getServices() {
 		return Services;
 	}
 
-	public void setServices(List services) {
-		this.Services = services;
+	public void setServices(List<?> services) {
+		ApkManifestData.Services = services;
 	}
 
 	public static String getVersionCode() {
@@ -52,7 +50,7 @@ public class ApkManifestData {
 	}
 
 	public void setVersionCode(String string) {
-		this.versionCode = string;
+		ApkManifestData.versionCode = string;
 	}
 
 	public static String getVersionName() {
@@ -76,14 +74,14 @@ public class ApkManifestData {
 	}
 
 	public void setDebuggable(boolean debuggable) {
-		this.Debuggable = debuggable;
+		ApkManifestData.Debuggable = debuggable;
 	}
 
-	public static List getActivityList() {
+	public static List<?> getActivityList() {
 		return activityList;
 	}
 
-	public void setActivityList(List activityList) {
+	public void setActivityList(List<?> activityList) {
 		ApkManifestData.activityList = activityList;
 	}
 
@@ -92,7 +90,7 @@ public class ApkManifestData {
 	}
 
 	public void setCompileSdkVersionName(String compileSdkVersionName) {
-		this.compileSdkVersionName = compileSdkVersionName;
+		ApkManifestData.compileSdkVersionName = compileSdkVersionName;
 	}
 
 	public static String getPackageName() {
@@ -103,7 +101,7 @@ public class ApkManifestData {
 		ApkManifestData.packageName = packageName;
 	}
 
-	public static List getPermissions() {
+	public static List<?> getPermissions() {
 		return permissionsList;
 	}
 
@@ -112,10 +110,10 @@ public class ApkManifestData {
 	}
 
 	public void setSupportedScreens(SupportsScreens supportsScreens) {
-		this.SupportedScreens = supportsScreens;
+		ApkManifestData.SupportedScreens = supportsScreens;
 	}
 
-	public static void setPermissions(List permissionsList) {
+	public static void setPermissions(List<?> permissionsList) {
 		ApkManifestData.permissionsList = permissionsList;
 	}
 
@@ -124,7 +122,7 @@ public class ApkManifestData {
 	}
 
 	public void setCompileSdkVersion(String compileSdkVersion) {
-		this.compileSdkVersion = compileSdkVersion;
+		ApkManifestData.compileSdkVersion = compileSdkVersion;
 	}
 
 	@Override
