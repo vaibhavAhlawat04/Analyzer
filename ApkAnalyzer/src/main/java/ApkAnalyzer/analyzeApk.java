@@ -24,7 +24,7 @@ public class analyzeApk {
 			new Size(apkPath);	
 			new Manifest();
 			//new Debuggable();
-			
+			new ReadYml();
 			System.out.println("Apk Size:  "+ "\n" + apkdata.toString());
 			System.out.println("Manifest Data: "+ "\n" + manifestdata.toString());
 			

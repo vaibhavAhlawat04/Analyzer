@@ -1,8 +1,7 @@
 package apkData;
 
 import java.util.List;
-
-import com.android.ide.common.xml.ManifestData.SupportsScreens;
+import java.util.Map;
 
 
 public class ApkManifestData {
@@ -12,21 +11,29 @@ public class ApkManifestData {
 	private static String compileSdkVersionName;
 	private static String compileSdkVersion;
 	private static List<?> activityList;
+	private static Object apkInfo;
+	private static Object sdkInfo;
 	private static boolean Debuggable;
-	private static SupportsScreens SupportedScreens;
-	private static int minSdkVersion;
-	private static int targetSdkVersion;
+	private static Map<String,String> SupportedScreens;
 	private static String versionName;
 	private static String versionCode;
 	private static List<?> Services;
 	private static List<?> ContentProvider;
 	
-	public static int getTargetSdkVersion() {
-		return targetSdkVersion;
+	public static Object getSdkInfo() {
+		return sdkInfo;
 	}
 
-	public void setTargetSdkVersion(int targetSdkVersion) {
-		ApkManifestData.targetSdkVersion = targetSdkVersion;
+	public static void setSdkInfo(Object sdkInfo) {
+		ApkManifestData.sdkInfo = sdkInfo;
+	}
+
+	public static Object getApkInfo() {
+		return apkInfo;
+	}
+
+	public static void setApkInfo(Object object) {
+		ApkManifestData.apkInfo = object;
 	}
 	
 	public static List<?> getContentProvider() {
@@ -59,14 +66,6 @@ public class ApkManifestData {
 
 	public void setVersionName(String versionName) {
 		ApkManifestData.versionName = versionName;
-	}
-
-	public static int getMinSdkVersion() {
-		return minSdkVersion;
-	}
-
-	public static void setMinSdkVersion(int minSdkVersion) {
-		ApkManifestData.minSdkVersion = minSdkVersion;
 	}
 
 	public static boolean isDebuggable() {
@@ -105,11 +104,11 @@ public class ApkManifestData {
 		return permissionsList;
 	}
 
-	public static SupportsScreens getSupportedScreens() {
+	public static Map<String, String> getSupportedScreens() {
 		return SupportedScreens;
 	}
 
-	public void setSupportedScreens(SupportsScreens supportsScreens) {
+	public void setSupportedScreens(Map<String, String> supportsScreens) {
 		ApkManifestData.SupportedScreens = supportsScreens;
 	}
 
@@ -127,12 +126,10 @@ public class ApkManifestData {
 
 	@Override
 	public String toString() {
-		return  "\n"+  "apkVersion= "+ versionName
-			 +"\n"+ "VersionCode= " + versionCode
-			+"\n" + "PackageName= " + packageName  
+		return  "PackageName= " + packageName
 			+"\n" + "Debuggable= " + Debuggable
-			+"\n" + "MinSdkVersion= " + minSdkVersion
-			+"\n" + "TargetSdkVersion= " + targetSdkVersion
+			+"\n" +    apkInfo 
+			+"\n" + sdkInfo
 			+"\n" + "CompiledSdkVersion= " + compileSdkVersion
 			+"\n" + "CompileSdkVersionName= "+ compileSdkVersionName
 			+"\n" + "SupportedScreenSize= " + SupportedScreens

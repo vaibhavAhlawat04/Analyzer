@@ -36,6 +36,10 @@ dependencies {
     // https://mvnrepository.com/artifact/com.android.tools/sdk-common
     implementation group: 'com.android.tools', name: 'sdk-common', version: '25.3.0'
     
+    // https://mvnrepository.com/artifact/org.yaml/snakeyaml
+implementation group: 'org.yaml', name: 'snakeyaml', version: '1.28'
+    
+
      compile fileTree(include: ['*.jar'], dir: 'libs')
   
 }

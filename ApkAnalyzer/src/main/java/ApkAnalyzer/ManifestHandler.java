@@ -1,7 +1,9 @@
 package ApkAnalyzer;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
@@ -16,7 +18,7 @@ public class ManifestHandler  extends DefaultHandler {
 	private List<String> permissionList = new ArrayList<String>();
 	private List<String> ServiceList = new ArrayList<String>();
 	private List<String> contentProviderList = new ArrayList<String>();
-
+	private Map<String,String> supportedScreens = new HashMap<String,String>();
 
 	@Override
 	public void startElement(String uri, String localName, String qName, Attributes attributes) throws SAXException{
@@ -42,6 +44,20 @@ public class ManifestHandler  extends DefaultHandler {
 			contentProviderList.add(attributes.getValue("android:authorities"));
 			manifestdata.setContentProvider(contentProviderList);
 
+		}
+		if(qName.equalsIgnoreCase("application")) {
+			if(attributes.getValue("android:debuggable")!=null&&attributes.getValue("android:debuggable").equalsIgnoreCase("true"))
+				manifestdata.setDebuggable(true);
+			else
+				manifestdata.setDebuggable(false);
+		}
+
+		if(qName.equalsIgnoreCase("supports-screens")) {
+			if(attributes.getValue("android:anyDensity").equalsIgnoreCase("true")) supportedScreens.put("Any DenSity ",attributes.getValue("android:anyDensity"));
+			if(attributes.getValue("android:largeScreens").equalsIgnoreCase("true")) supportedScreens.put("Large Screens ",attributes.getValue("android:largeScreens"));
+			if(attributes.getValue("android:normalScreens").equalsIgnoreCase("true")) supportedScreens.put("Normal Screens ",attributes.getValue("android:normalScreens"));
+			if(attributes.getValue("android:smallScreens").equalsIgnoreCase("true")) supportedScreens.put("Small Screens ",attributes.getValue("android:smallScreens"));
+			manifestdata.setSupportedScreens(supportedScreens);
 		}
 	}	
 

@@ -28,7 +28,7 @@ public class ApkSizeData {
 
 	@Override
 	public String toString() {
-		return  "\n"+"\n"+"apkRawSize=" + apkRawSize + ", "
+		return  "apkRawSize=" + apkRawSize + ", "
 	   + "\n" + "apkDownloadSize=" + apkDownloadSize
 	   + "\n" + "apkResourceSize=" + apkResourceSize;
 	}

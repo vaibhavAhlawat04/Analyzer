@@ -6,6 +6,7 @@ import com.android.ide.common.xml.AndroidManifestParser;
 import com.android.ide.common.xml.ManifestData;
 import com.android.ide.common.xml.ManifestData.SupportsScreens;
 import com.android.tools.apk.analyzer.Archive;
+import com.android.tools.apk.analyzer.ArchiveContext;
 import com.android.tools.apk.analyzer.Archives;
 import com.android.tools.apk.analyzer.BinaryXmlParser;
 
@@ -21,8 +22,9 @@ import java.io.UncheckedIOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
+
 public class Debuggable {
-    private static Archive archive;
+    private static ArchiveContext archive;
 	private static Locations locations = new Locations(); 
 	private static ApkManifestData manifest = new ApkManifestData();
 	
@@ -30,19 +32,19 @@ public class Debuggable {
 		
 		Path apkPath = locations.getApkPath();
 		try { 		
-
+		
 			archive =Archives.open(apkPath);
 			
 			manifest.setDebuggable(manifestDebuggable());
 			
-			manifest.setSupportedScreens(ScreenSupport());
+			//manifest.setSupportedScreens(ScreenSupport());
 			
-			ApkManifestData.setMinSdkVersion(minSdkVersion());
+			//ApkManifestData.setMinSdkVersion(minSdkVersion());
 			
 			manifest.setVersionName(manifestPrint().substring(manifestPrint().indexOf("versionName")+12, manifestPrint().indexOf("versionName")+20));
 			manifest.setVersionCode(manifestVersionCode());
 			
-			manifest.setTargetSdkVersion(targetSdkVersion());
+			//manifest.setTargetSdkVersion(targetSdkVersion());
 			//System.out.println(targetSdkVersion());
 		
 		} catch (IOException e) {
@@ -67,7 +69,7 @@ public class Debuggable {
 	    }
 	    public static boolean manifestDebuggable() {
 	        try { 	
-	            ManifestData manifestData = getManifestData(archive);
+	            ManifestData manifestData = getManifestData(archive.getArchive());
 	            return manifestData.getDebuggable() != null ? manifestData.getDebuggable() : false;
 	        } catch (SAXException | ParserConfigurationException e) {
 	            throw new RuntimeException(e);
@@ -77,7 +79,7 @@ public class Debuggable {
 	    }
 	    public static SupportsScreens ScreenSupport(){
 	    	try {
-	            ManifestData manifestData = getManifestData(archive);
+	            ManifestData manifestData = getManifestData(archive.getArchive());
 	            return manifestData.getSupportsScreensValues();
 	        } catch (SAXException | ParserConfigurationException e) {
 	            throw new RuntimeException(e);
@@ -87,7 +89,7 @@ public class Debuggable {
 	    }
 	    public static int minSdkVersion(){
 	        try {
-	            ManifestData manifestData = getManifestData(archive);
+	            ManifestData manifestData = getManifestData(archive.getArchive());
 	            return manifestData.getMinSdkVersion();
 	        } catch (SAXException | ParserConfigurationException e) {
 	            throw new RuntimeException(e);
@@ -97,7 +99,7 @@ public class Debuggable {
 	    }
 	    public static String manifestVersionCode(){
 	        try {
-	            ManifestData manifestData = getManifestData(archive);
+	            ManifestData manifestData = getManifestData(archive.getArchive());
 	          
 	           return String.format("%d", manifestData.getVersionCode());
 	        } catch (SAXException | ParserConfigurationException e) {
@@ -109,7 +111,7 @@ public class Debuggable {
 	    
 	    public static String manifestPrint() {
 	        try {
-	            Path path = archive.getContentRoot().resolve(SdkConstants.ANDROID_MANIFEST_XML);
+	            Path path = archive.getArchive().getContentRoot().resolve(SdkConstants.ANDROID_MANIFEST_XML);
 	            byte[] bytes = Files.readAllBytes(path);
 	            return new String(BinaryXmlParser.decodeXml(path.getFileName().toString(), bytes));
 	        } catch (IOException e) {	 
@@ -118,7 +120,7 @@ public class Debuggable {
 	    }
 	    public int targetSdkVersion(){
 	    	try {
-	    		ManifestData manifestData = getManifestData(archive);
+	    		ManifestData manifestData = getManifestData(archive.getArchive());
 	    		return manifestData.getTargetSdkVersion();
 	    	}catch (SAXException | ParserConfigurationException e) {
 	            throw new RuntimeException(e);

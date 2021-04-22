@@ -18,14 +18,14 @@ public class MainClass {
 		new analyzeApk(apkPath);
 		
 		// /home/vaibhav/Documents/Apks/old.apk
-		if(args.length>=2) {
+		/*if(args.length>=2) {
 			//System.out.println("Second Apk ");
 			
 			apkPath=Paths.get(args[1]);
 			location.setApkPath(apkPath);
 			
 			new analyzeApk(apkPath);
-		}	
+		}	*/
 	}
 
 }

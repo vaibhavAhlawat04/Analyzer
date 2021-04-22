@@ -7,7 +7,6 @@ import java.util.Map.Entry;
 
 import com.android.annotations.NonNull;
 import com.android.tools.apk.analyzer.ApkSizeCalculator;
-
 import ApkLocation.Locations;
 import apkData.ApkSizeData;
 
